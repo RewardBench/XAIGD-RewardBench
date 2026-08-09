@@ -1,0 +1,83 @@
+{
+  "parameters": {
+    "initial_rating": 1200.0,
+    "k_factor": 32.0,
+    "include_neutral": false
+  },
+  "processed_comparisons": 895,
+  "skipped_annotations": 200,
+  "rankings": [
+    {
+      "games_played": 104,
+      "wins": 56,
+      "losses": 48,
+      "model": "gemini2.5pro",
+      "elo_rating": 1592.7781318549912,
+      "win_rate_non_neutral": 0.5384615384615384,
+      "rank": 1
+    },
+    {
+      "games_played": 895,
+      "wins": 765,
+      "losses": 130,
+      "model": "gpt5.5",
+      "elo_rating": 1551.6254539634344,
+      "win_rate_non_neutral": 0.8547486033519553,
+      "rank": 2
+    },
+    {
+      "games_played": 119,
+      "losses": 70,
+      "wins": 49,
+      "model": "gemini2.5flash",
+      "elo_rating": 1422.1458930717913,
+      "win_rate_non_neutral": 0.4117647058823529,
+      "rank": 3
+    },
+    {
+      "games_played": 135,
+      "losses": 128,
+      "wins": 7,
+      "model": "gemma3n",
+      "elo_rating": 1054.8925665045556,
+      "win_rate_non_neutral": 0.05185185185185185,
+      "rank": 4
+    },
+    {
+      "games_played": 130,
+      "losses": 124,
+      "wins": 6,
+      "model": "gpt4o",
+      "elo_rating": 1026.362070078105,
+      "win_rate_non_neutral": 0.046153846153846156,
+      "rank": 5
+    },
+    {
+      "games_played": 134,
+      "losses": 128,
+      "wins": 6,
+      "model": "qwen2.57B",
+      "elo_rating": 1020.674902567022,
+      "win_rate_non_neutral": 0.04477611940298507,
+      "rank": 6
+    },
+    {
+      "games_played": 132,
+      "losses": 129,
+      "wins": 3,
+      "model": "o3",
+      "elo_rating": 967.5451338532934,
+      "win_rate_non_neutral": 0.022727272727272728,
+      "rank": 7
+    },
+    {
+      "games_played": 141,
+      "losses": 138,
+      "wins": 3,
+      "model": "qwen2.53B",
+      "elo_rating": 963.9758481068078,
+      "win_rate_non_neutral": 0.02127659574468085,
+      "rank": 8
+    }
+  ]
+}

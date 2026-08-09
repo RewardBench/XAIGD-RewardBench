@@ -1,0 +1,9 @@
+{
+  "experiment": "modern_real_image_ablation",
+  "reported_values": {
+    "modern_real_image_accuracy": 0.9899,
+    "coco_real_image_accuracy": 0.9829
+  },
+  "evidence_level": "reported aggregate only",
+  "reproducibility_note": "No row-level manifest or predictions for this ablation were found in the working directories. These values are a paper transcript, not an independently recomputable result."
+}

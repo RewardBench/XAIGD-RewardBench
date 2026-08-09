@@ -1,0 +1,3602 @@
+[
+  {
+    "image_id": "camera_real_046",
+    "source_file": "camera_real_046.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_009",
+    "source_file": "camera_real_009.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_035",
+    "source_file": "camera_real_035.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_025",
+    "source_file": "camera_real_025.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_017",
+    "source_file": "camera_real_017.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_032",
+    "source_file": "camera_real_032.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_022",
+    "source_file": "camera_real_022.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_020",
+    "source_file": "camera_real_020.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_018",
+    "source_file": "camera_real_018.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_033",
+    "source_file": "camera_real_033.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_003",
+    "source_file": "camera_real_003.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_039",
+    "source_file": "camera_real_039.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_007",
+    "source_file": "camera_real_007.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_036",
+    "source_file": "camera_real_036.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_021",
+    "source_file": "camera_real_021.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_040",
+    "source_file": "camera_real_040.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_038",
+    "source_file": "camera_real_038.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_004",
+    "source_file": "camera_real_004.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_031",
+    "source_file": "camera_real_031.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_023",
+    "source_file": "camera_real_023.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_002",
+    "source_file": "camera_real_002.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_013",
+    "source_file": "camera_real_013.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_027",
+    "source_file": "camera_real_027.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_012",
+    "source_file": "camera_real_012.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_024",
+    "source_file": "camera_real_024.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_001",
+    "source_file": "camera_real_001.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_050",
+    "source_file": "camera_real_050.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_041",
+    "source_file": "camera_real_041.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_005",
+    "source_file": "camera_real_005.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_006",
+    "source_file": "camera_real_006.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_034",
+    "source_file": "camera_real_034.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_028",
+    "source_file": "camera_real_028.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_049",
+    "source_file": "camera_real_049.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_044",
+    "source_file": "camera_real_044.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_047",
+    "source_file": "camera_real_047.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_010",
+    "source_file": "camera_real_010.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_019",
+    "source_file": "camera_real_019.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_008",
+    "source_file": "camera_real_008.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_016",
+    "source_file": "camera_real_016.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_037",
+    "source_file": "camera_real_037.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_030",
+    "source_file": "camera_real_030.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_011",
+    "source_file": "camera_real_011.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_045",
+    "source_file": "camera_real_045.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_029",
+    "source_file": "camera_real_029.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_014",
+    "source_file": "camera_real_014.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_043",
+    "source_file": "camera_real_043.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_026",
+    "source_file": "camera_real_026.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_042",
+    "source_file": "camera_real_042.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_015",
+    "source_file": "camera_real_015.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_048",
+    "source_file": "camera_real_048.jpg",
+    "model": "gemini2.5flash",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_046",
+    "source_file": "camera_real_046.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_009",
+    "source_file": "camera_real_009.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_035",
+    "source_file": "camera_real_035.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_025",
+    "source_file": "camera_real_025.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_017",
+    "source_file": "camera_real_017.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_032",
+    "source_file": "camera_real_032.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_022",
+    "source_file": "camera_real_022.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_020",
+    "source_file": "camera_real_020.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_018",
+    "source_file": "camera_real_018.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_033",
+    "source_file": "camera_real_033.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_003",
+    "source_file": "camera_real_003.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_039",
+    "source_file": "camera_real_039.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_007",
+    "source_file": "camera_real_007.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_036",
+    "source_file": "camera_real_036.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_021",
+    "source_file": "camera_real_021.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_040",
+    "source_file": "camera_real_040.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_038",
+    "source_file": "camera_real_038.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_004",
+    "source_file": "camera_real_004.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_031",
+    "source_file": "camera_real_031.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_023",
+    "source_file": "camera_real_023.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_002",
+    "source_file": "camera_real_002.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_013",
+    "source_file": "camera_real_013.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_027",
+    "source_file": "camera_real_027.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_012",
+    "source_file": "camera_real_012.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_024",
+    "source_file": "camera_real_024.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_001",
+    "source_file": "camera_real_001.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_050",
+    "source_file": "camera_real_050.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_041",
+    "source_file": "camera_real_041.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_005",
+    "source_file": "camera_real_005.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_006",
+    "source_file": "camera_real_006.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_034",
+    "source_file": "camera_real_034.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_028",
+    "source_file": "camera_real_028.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_049",
+    "source_file": "camera_real_049.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_044",
+    "source_file": "camera_real_044.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_047",
+    "source_file": "camera_real_047.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_010",
+    "source_file": "camera_real_010.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_019",
+    "source_file": "camera_real_019.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_008",
+    "source_file": "camera_real_008.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_016",
+    "source_file": "camera_real_016.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_037",
+    "source_file": "camera_real_037.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_030",
+    "source_file": "camera_real_030.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_011",
+    "source_file": "camera_real_011.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_045",
+    "source_file": "camera_real_045.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_029",
+    "source_file": "camera_real_029.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_014",
+    "source_file": "camera_real_014.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_043",
+    "source_file": "camera_real_043.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_026",
+    "source_file": "camera_real_026.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_042",
+    "source_file": "camera_real_042.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_015",
+    "source_file": "camera_real_015.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_048",
+    "source_file": "camera_real_048.jpg",
+    "model": "gemini2.5pro",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_046",
+    "source_file": "camera_real_046.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_009",
+    "source_file": "camera_real_009.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_035",
+    "source_file": "camera_real_035.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_025",
+    "source_file": "camera_real_025.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_017",
+    "source_file": "camera_real_017.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_032",
+    "source_file": "camera_real_032.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_022",
+    "source_file": "camera_real_022.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_020",
+    "source_file": "camera_real_020.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_018",
+    "source_file": "camera_real_018.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_033",
+    "source_file": "camera_real_033.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_003",
+    "source_file": "camera_real_003.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_039",
+    "source_file": "camera_real_039.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_007",
+    "source_file": "camera_real_007.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_036",
+    "source_file": "camera_real_036.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_021",
+    "source_file": "camera_real_021.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_040",
+    "source_file": "camera_real_040.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_038",
+    "source_file": "camera_real_038.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_004",
+    "source_file": "camera_real_004.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_031",
+    "source_file": "camera_real_031.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_023",
+    "source_file": "camera_real_023.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_002",
+    "source_file": "camera_real_002.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_013",
+    "source_file": "camera_real_013.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_027",
+    "source_file": "camera_real_027.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_012",
+    "source_file": "camera_real_012.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_024",
+    "source_file": "camera_real_024.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_001",
+    "source_file": "camera_real_001.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_050",
+    "source_file": "camera_real_050.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_041",
+    "source_file": "camera_real_041.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_005",
+    "source_file": "camera_real_005.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_006",
+    "source_file": "camera_real_006.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_034",
+    "source_file": "camera_real_034.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_028",
+    "source_file": "camera_real_028.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_049",
+    "source_file": "camera_real_049.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_044",
+    "source_file": "camera_real_044.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_047",
+    "source_file": "camera_real_047.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_010",
+    "source_file": "camera_real_010.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_019",
+    "source_file": "camera_real_019.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_008",
+    "source_file": "camera_real_008.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_016",
+    "source_file": "camera_real_016.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_037",
+    "source_file": "camera_real_037.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_030",
+    "source_file": "camera_real_030.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_011",
+    "source_file": "camera_real_011.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_045",
+    "source_file": "camera_real_045.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_029",
+    "source_file": "camera_real_029.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_014",
+    "source_file": "camera_real_014.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_043",
+    "source_file": "camera_real_043.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_026",
+    "source_file": "camera_real_026.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_042",
+    "source_file": "camera_real_042.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_015",
+    "source_file": "camera_real_015.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_048",
+    "source_file": "camera_real_048.jpg",
+    "model": "gemma3n",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_046",
+    "source_file": "camera_real_046.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_009",
+    "source_file": "camera_real_009.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_035",
+    "source_file": "camera_real_035.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_025",
+    "source_file": "camera_real_025.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_017",
+    "source_file": "camera_real_017.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_032",
+    "source_file": "camera_real_032.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_022",
+    "source_file": "camera_real_022.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_020",
+    "source_file": "camera_real_020.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_018",
+    "source_file": "camera_real_018.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_033",
+    "source_file": "camera_real_033.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "fake"
+  },
+  {
+    "image_id": "camera_real_003",
+    "source_file": "camera_real_003.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "fake"
+  },
+  {
+    "image_id": "camera_real_039",
+    "source_file": "camera_real_039.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_007",
+    "source_file": "camera_real_007.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_036",
+    "source_file": "camera_real_036.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_021",
+    "source_file": "camera_real_021.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_040",
+    "source_file": "camera_real_040.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_038",
+    "source_file": "camera_real_038.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_004",
+    "source_file": "camera_real_004.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_031",
+    "source_file": "camera_real_031.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_023",
+    "source_file": "camera_real_023.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_002",
+    "source_file": "camera_real_002.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_013",
+    "source_file": "camera_real_013.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_027",
+    "source_file": "camera_real_027.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_012",
+    "source_file": "camera_real_012.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_024",
+    "source_file": "camera_real_024.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_001",
+    "source_file": "camera_real_001.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_050",
+    "source_file": "camera_real_050.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_041",
+    "source_file": "camera_real_041.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_005",
+    "source_file": "camera_real_005.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_006",
+    "source_file": "camera_real_006.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_034",
+    "source_file": "camera_real_034.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "fake"
+  },
+  {
+    "image_id": "camera_real_028",
+    "source_file": "camera_real_028.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_049",
+    "source_file": "camera_real_049.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_044",
+    "source_file": "camera_real_044.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_047",
+    "source_file": "camera_real_047.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_010",
+    "source_file": "camera_real_010.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_019",
+    "source_file": "camera_real_019.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_008",
+    "source_file": "camera_real_008.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_016",
+    "source_file": "camera_real_016.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "fake"
+  },
+  {
+    "image_id": "camera_real_037",
+    "source_file": "camera_real_037.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_030",
+    "source_file": "camera_real_030.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_011",
+    "source_file": "camera_real_011.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_045",
+    "source_file": "camera_real_045.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_029",
+    "source_file": "camera_real_029.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_014",
+    "source_file": "camera_real_014.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_043",
+    "source_file": "camera_real_043.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "fake"
+  },
+  {
+    "image_id": "camera_real_026",
+    "source_file": "camera_real_026.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_042",
+    "source_file": "camera_real_042.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_015",
+    "source_file": "camera_real_015.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_048",
+    "source_file": "camera_real_048.jpg",
+    "model": "gpt4o",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_046",
+    "source_file": "camera_real_046.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_009",
+    "source_file": "camera_real_009.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_035",
+    "source_file": "camera_real_035.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_025",
+    "source_file": "camera_real_025.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_017",
+    "source_file": "camera_real_017.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_032",
+    "source_file": "camera_real_032.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_022",
+    "source_file": "camera_real_022.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_020",
+    "source_file": "camera_real_020.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_018",
+    "source_file": "camera_real_018.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_033",
+    "source_file": "camera_real_033.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_003",
+    "source_file": "camera_real_003.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_039",
+    "source_file": "camera_real_039.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_007",
+    "source_file": "camera_real_007.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_036",
+    "source_file": "camera_real_036.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_021",
+    "source_file": "camera_real_021.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_040",
+    "source_file": "camera_real_040.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_038",
+    "source_file": "camera_real_038.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_004",
+    "source_file": "camera_real_004.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_031",
+    "source_file": "camera_real_031.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_023",
+    "source_file": "camera_real_023.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_002",
+    "source_file": "camera_real_002.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_013",
+    "source_file": "camera_real_013.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_027",
+    "source_file": "camera_real_027.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_012",
+    "source_file": "camera_real_012.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_024",
+    "source_file": "camera_real_024.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_001",
+    "source_file": "camera_real_001.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_050",
+    "source_file": "camera_real_050.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_041",
+    "source_file": "camera_real_041.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_005",
+    "source_file": "camera_real_005.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_006",
+    "source_file": "camera_real_006.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_034",
+    "source_file": "camera_real_034.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_028",
+    "source_file": "camera_real_028.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_049",
+    "source_file": "camera_real_049.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_044",
+    "source_file": "camera_real_044.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_047",
+    "source_file": "camera_real_047.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_010",
+    "source_file": "camera_real_010.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_019",
+    "source_file": "camera_real_019.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_008",
+    "source_file": "camera_real_008.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_016",
+    "source_file": "camera_real_016.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_037",
+    "source_file": "camera_real_037.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_030",
+    "source_file": "camera_real_030.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_011",
+    "source_file": "camera_real_011.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_045",
+    "source_file": "camera_real_045.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_029",
+    "source_file": "camera_real_029.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_014",
+    "source_file": "camera_real_014.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_043",
+    "source_file": "camera_real_043.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_026",
+    "source_file": "camera_real_026.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_042",
+    "source_file": "camera_real_042.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_015",
+    "source_file": "camera_real_015.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_048",
+    "source_file": "camera_real_048.jpg",
+    "model": "gpt5.5",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_046",
+    "source_file": "camera_real_046.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_009",
+    "source_file": "camera_real_009.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_035",
+    "source_file": "camera_real_035.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_025",
+    "source_file": "camera_real_025.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_017",
+    "source_file": "camera_real_017.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_032",
+    "source_file": "camera_real_032.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_022",
+    "source_file": "camera_real_022.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_020",
+    "source_file": "camera_real_020.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_018",
+    "source_file": "camera_real_018.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_033",
+    "source_file": "camera_real_033.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_003",
+    "source_file": "camera_real_003.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_039",
+    "source_file": "camera_real_039.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_007",
+    "source_file": "camera_real_007.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_036",
+    "source_file": "camera_real_036.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_021",
+    "source_file": "camera_real_021.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_040",
+    "source_file": "camera_real_040.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_038",
+    "source_file": "camera_real_038.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_004",
+    "source_file": "camera_real_004.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_031",
+    "source_file": "camera_real_031.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_023",
+    "source_file": "camera_real_023.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_002",
+    "source_file": "camera_real_002.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_013",
+    "source_file": "camera_real_013.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_027",
+    "source_file": "camera_real_027.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_012",
+    "source_file": "camera_real_012.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_024",
+    "source_file": "camera_real_024.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_001",
+    "source_file": "camera_real_001.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_050",
+    "source_file": "camera_real_050.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_041",
+    "source_file": "camera_real_041.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_005",
+    "source_file": "camera_real_005.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_006",
+    "source_file": "camera_real_006.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_034",
+    "source_file": "camera_real_034.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_028",
+    "source_file": "camera_real_028.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_049",
+    "source_file": "camera_real_049.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_044",
+    "source_file": "camera_real_044.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_047",
+    "source_file": "camera_real_047.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_010",
+    "source_file": "camera_real_010.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_019",
+    "source_file": "camera_real_019.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_008",
+    "source_file": "camera_real_008.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_016",
+    "source_file": "camera_real_016.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_037",
+    "source_file": "camera_real_037.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_030",
+    "source_file": "camera_real_030.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_011",
+    "source_file": "camera_real_011.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_045",
+    "source_file": "camera_real_045.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_029",
+    "source_file": "camera_real_029.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_014",
+    "source_file": "camera_real_014.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_043",
+    "source_file": "camera_real_043.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_026",
+    "source_file": "camera_real_026.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_042",
+    "source_file": "camera_real_042.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_015",
+    "source_file": "camera_real_015.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_048",
+    "source_file": "camera_real_048.jpg",
+    "model": "o3",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_046",
+    "source_file": "camera_real_046.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_009",
+    "source_file": "camera_real_009.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_035",
+    "source_file": "camera_real_035.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_025",
+    "source_file": "camera_real_025.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_017",
+    "source_file": "camera_real_017.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_032",
+    "source_file": "camera_real_032.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_022",
+    "source_file": "camera_real_022.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_018",
+    "source_file": "camera_real_018.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_033",
+    "source_file": "camera_real_033.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_003",
+    "source_file": "camera_real_003.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_039",
+    "source_file": "camera_real_039.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_007",
+    "source_file": "camera_real_007.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_036",
+    "source_file": "camera_real_036.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_021",
+    "source_file": "camera_real_021.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_040",
+    "source_file": "camera_real_040.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_038",
+    "source_file": "camera_real_038.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_004",
+    "source_file": "camera_real_004.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_031",
+    "source_file": "camera_real_031.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_023",
+    "source_file": "camera_real_023.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_002",
+    "source_file": "camera_real_002.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_013",
+    "source_file": "camera_real_013.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_027",
+    "source_file": "camera_real_027.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_012",
+    "source_file": "camera_real_012.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_024",
+    "source_file": "camera_real_024.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_001",
+    "source_file": "camera_real_001.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_050",
+    "source_file": "camera_real_050.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_041",
+    "source_file": "camera_real_041.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_005",
+    "source_file": "camera_real_005.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_006",
+    "source_file": "camera_real_006.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_034",
+    "source_file": "camera_real_034.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_028",
+    "source_file": "camera_real_028.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_049",
+    "source_file": "camera_real_049.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_044",
+    "source_file": "camera_real_044.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_047",
+    "source_file": "camera_real_047.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_010",
+    "source_file": "camera_real_010.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_019",
+    "source_file": "camera_real_019.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_008",
+    "source_file": "camera_real_008.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_037",
+    "source_file": "camera_real_037.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_030",
+    "source_file": "camera_real_030.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_011",
+    "source_file": "camera_real_011.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_045",
+    "source_file": "camera_real_045.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_029",
+    "source_file": "camera_real_029.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_014",
+    "source_file": "camera_real_014.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_043",
+    "source_file": "camera_real_043.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_026",
+    "source_file": "camera_real_026.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_042",
+    "source_file": "camera_real_042.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_015",
+    "source_file": "camera_real_015.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_048",
+    "source_file": "camera_real_048.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_020",
+    "source_file": "camera_real_020.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "fake"
+  },
+  {
+    "image_id": "camera_real_016",
+    "source_file": "camera_real_016.jpg",
+    "model": "qwen2.53B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_036",
+    "source_file": "camera_real_036.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_021",
+    "source_file": "camera_real_021.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_040",
+    "source_file": "camera_real_040.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_038",
+    "source_file": "camera_real_038.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_004",
+    "source_file": "camera_real_004.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_031",
+    "source_file": "camera_real_031.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_023",
+    "source_file": "camera_real_023.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_002",
+    "source_file": "camera_real_002.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_013",
+    "source_file": "camera_real_013.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_027",
+    "source_file": "camera_real_027.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_012",
+    "source_file": "camera_real_012.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_024",
+    "source_file": "camera_real_024.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_001",
+    "source_file": "camera_real_001.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_050",
+    "source_file": "camera_real_050.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_041",
+    "source_file": "camera_real_041.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_005",
+    "source_file": "camera_real_005.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_006",
+    "source_file": "camera_real_006.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_034",
+    "source_file": "camera_real_034.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_028",
+    "source_file": "camera_real_028.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_049",
+    "source_file": "camera_real_049.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_044",
+    "source_file": "camera_real_044.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_047",
+    "source_file": "camera_real_047.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_010",
+    "source_file": "camera_real_010.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_019",
+    "source_file": "camera_real_019.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_008",
+    "source_file": "camera_real_008.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_016",
+    "source_file": "camera_real_016.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_037",
+    "source_file": "camera_real_037.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_030",
+    "source_file": "camera_real_030.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_011",
+    "source_file": "camera_real_011.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_045",
+    "source_file": "camera_real_045.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_029",
+    "source_file": "camera_real_029.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_014",
+    "source_file": "camera_real_014.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_043",
+    "source_file": "camera_real_043.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_026",
+    "source_file": "camera_real_026.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_042",
+    "source_file": "camera_real_042.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_015",
+    "source_file": "camera_real_015.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_048",
+    "source_file": "camera_real_048.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_046",
+    "source_file": "camera_real_046.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_009",
+    "source_file": "camera_real_009.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_035",
+    "source_file": "camera_real_035.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_025",
+    "source_file": "camera_real_025.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_017",
+    "source_file": "camera_real_017.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_032",
+    "source_file": "camera_real_032.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_022",
+    "source_file": "camera_real_022.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_020",
+    "source_file": "camera_real_020.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_018",
+    "source_file": "camera_real_018.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_033",
+    "source_file": "camera_real_033.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_003",
+    "source_file": "camera_real_003.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_039",
+    "source_file": "camera_real_039.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  },
+  {
+    "image_id": "camera_real_007",
+    "source_file": "camera_real_007.jpg",
+    "model": "qwen2.57B",
+    "image_type": "real",
+    "source_family": "camera_captured",
+    "expected_verdict": "real",
+    "parsed_verdict": "real"
+  }
+]

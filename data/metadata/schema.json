@@ -1,0 +1,29 @@
+{
+  "triplet": {
+    "triplet_id": "stable opaque identifier",
+    "benchmark_id": "present only for benchmark_clean rows",
+    "image_id": "stable opaque image identifier",
+    "image_type": "real, synthetic, or unknown",
+    "hf_annotation_id": "identifier used to locate the image in the configured dataset",
+    "source_index": "source row index when available",
+    "caption_1": "first policy-model explanation",
+    "caption_2": "second policy-model explanation",
+    "csv1": "first policy-response file",
+    "csv2": "second policy-response file"
+  },
+  "policy_response": {
+    "image_id": "stable opaque image identifier",
+    "image_type": "real, synthetic, or unknown",
+    "hf_annotation_id": "optional configured-dataset identifier",
+    "answer": "model response beginning with a real/fake verdict"
+  },
+  "annotation": {
+    "triplet_id": "triplet identifier",
+    "image_id": "stable opaque image identifier",
+    "annotations": {
+      "annotator_NNN": {
+        "choice": "response_1_better, response_2_better, tie, or both_bad"
+      }
+    }
+  }
+}

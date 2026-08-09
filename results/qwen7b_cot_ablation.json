@@ -1,0 +1,29 @@
+{
+  "subset": {
+    "sample_size": 500,
+    "seed": 2026,
+    "protocol": "same fixed response-order audit subset"
+  },
+  "plain": {
+    "invalid": 0,
+    "parsed_rows": 500,
+    "decisive_choices": 258,
+    "four_way_accuracy": {"correct": 217, "total": 498, "accuracy": 0.4357429718875502},
+    "human_clear_accuracy": {"correct": 166, "total": 404, "accuracy": 0.4108910891089109},
+    "both_clear_accuracy": {"correct": 166, "total": 235, "accuracy": 0.7063829787234043},
+    "longer_response": {"chosen": 183, "total": 257, "rate": 0.7120622568093385},
+    "mean_output_tokens": 52.2
+  },
+  "chain_of_thought": {
+    "invalid": 3,
+    "parsed_rows": 497,
+    "decisive_choices": 125,
+    "four_way_accuracy": {"correct": 143, "total": 495, "accuracy": 0.28888888888888886},
+    "human_clear_accuracy": {"correct": 83, "total": 401, "accuracy": 0.20698254364089774},
+    "both_clear_accuracy": {"correct": 83, "total": 112, "accuracy": 0.7410714285714286},
+    "longer_response": {"chosen": 95, "total": 124, "rate": 0.7661290322580645},
+    "mean_output_tokens": 55.7
+  },
+  "evidence_level": "reported aggregate only",
+  "release_note": "The final reviewed row-level CoT labels were not found. Raw rationale text is intentionally excluded; these paper values are preserved as an aggregate transcript and are not claimed as independently recomputable."
+}

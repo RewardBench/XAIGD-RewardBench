@@ -1,0 +1,5002 @@
+[
+  {
+    "image_id": "image_003cb37ba36da1f0",
+    "image_type": "real",
+    "hf_annotation_id": "605"
+  },
+  {
+    "image_id": "image_00919ea2028eaab4",
+    "image_type": "real",
+    "hf_annotation_id": "1301"
+  },
+  {
+    "image_id": "image_00aefdd87eafe461",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1182"
+  },
+  {
+    "image_id": "image_00f12aae5a14a07e",
+    "image_type": "real",
+    "hf_annotation_id": "847"
+  },
+  {
+    "image_id": "image_014f0e0f8882d811",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1398"
+  },
+  {
+    "image_id": "image_0158772951a84a94",
+    "image_type": "synthetic",
+    "hf_annotation_id": "357"
+  },
+  {
+    "image_id": "image_018aaaf8a974c617",
+    "image_type": "synthetic",
+    "hf_annotation_id": "114"
+  },
+  {
+    "image_id": "image_01b4014795d9a1d0",
+    "image_type": "synthetic",
+    "hf_annotation_id": "579"
+  },
+  {
+    "image_id": "image_01e03bc9e15e63d9",
+    "image_type": "real",
+    "hf_annotation_id": "2921"
+  },
+  {
+    "image_id": "image_020e5364b250d621",
+    "image_type": "synthetic",
+    "hf_annotation_id": "859"
+  },
+  {
+    "image_id": "image_02535270aba408ef",
+    "image_type": "real",
+    "hf_annotation_id": "448"
+  },
+  {
+    "image_id": "image_02adc6a55bf4529b",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2502"
+  },
+  {
+    "image_id": "image_0314a9d67c36ba83",
+    "image_type": "synthetic",
+    "hf_annotation_id": "258"
+  },
+  {
+    "image_id": "image_0344798cb60aad89",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2517"
+  },
+  {
+    "image_id": "image_0353cae66406b5e2",
+    "image_type": "real",
+    "hf_annotation_id": "386"
+  },
+  {
+    "image_id": "image_0410b8446facf6b5",
+    "image_type": "real",
+    "hf_annotation_id": "374"
+  },
+  {
+    "image_id": "image_041e3163ae22a32b",
+    "image_type": "synthetic",
+    "hf_annotation_id": "206"
+  },
+  {
+    "image_id": "image_0468fa61cbe91199",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1226"
+  },
+  {
+    "image_id": "image_04d542b36b691f46",
+    "image_type": "synthetic",
+    "hf_annotation_id": "99"
+  },
+  {
+    "image_id": "image_0547dfa59b5127e6",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1374"
+  },
+  {
+    "image_id": "image_05dfe0cb908a2bc9",
+    "image_type": "synthetic",
+    "hf_annotation_id": "396"
+  },
+  {
+    "image_id": "image_06694344ebab955b",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1879"
+  },
+  {
+    "image_id": "image_0674f30568db32b3",
+    "image_type": "real",
+    "hf_annotation_id": "399"
+  },
+  {
+    "image_id": "image_06bc5a8e9e1292e6",
+    "image_type": "real",
+    "hf_annotation_id": "342"
+  },
+  {
+    "image_id": "image_06e96b575799e587",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1069"
+  },
+  {
+    "image_id": "image_06ec07362262d366",
+    "image_type": "synthetic",
+    "hf_annotation_id": "569"
+  },
+  {
+    "image_id": "image_0759a8b128925bf1",
+    "image_type": "synthetic",
+    "hf_annotation_id": "655"
+  },
+  {
+    "image_id": "image_077302ef4735d84d",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2432"
+  },
+  {
+    "image_id": "image_0803317a25782b9a",
+    "image_type": "synthetic",
+    "hf_annotation_id": "349"
+  },
+  {
+    "image_id": "image_08d3d0e3ad68808c",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2941"
+  },
+  {
+    "image_id": "image_096c055884ff55fe",
+    "image_type": "synthetic",
+    "hf_annotation_id": "289"
+  },
+  {
+    "image_id": "image_09a1b123527b4bbc",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1255"
+  },
+  {
+    "image_id": "image_09e395a3c5f7be77",
+    "image_type": "synthetic",
+    "hf_annotation_id": "204"
+  },
+  {
+    "image_id": "image_0a86822fc493aaa9",
+    "image_type": "real",
+    "hf_annotation_id": "472"
+  },
+  {
+    "image_id": "image_0b19c0c26cd34a19",
+    "image_type": "real",
+    "hf_annotation_id": "1080"
+  },
+  {
+    "image_id": "image_0b9b9bcccd90ebea",
+    "image_type": "synthetic",
+    "hf_annotation_id": "73"
+  },
+  {
+    "image_id": "image_0bc642087be11d32",
+    "image_type": "real",
+    "hf_annotation_id": "19"
+  },
+  {
+    "image_id": "image_0bcb2f0a11550557",
+    "image_type": "real",
+    "hf_annotation_id": "819"
+  },
+  {
+    "image_id": "image_0c1aa0b84a52ad96",
+    "image_type": "real",
+    "hf_annotation_id": "1481"
+  },
+  {
+    "image_id": "image_0c1df45dc498ff33",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1469"
+  },
+  {
+    "image_id": "image_0c5df210a47205da",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2505"
+  },
+  {
+    "image_id": "image_0c6cdca5b04c2ca5",
+    "image_type": "real",
+    "hf_annotation_id": "664"
+  },
+  {
+    "image_id": "image_0c8baafdcbe8714e",
+    "image_type": "real",
+    "hf_annotation_id": "680"
+  },
+  {
+    "image_id": "image_0cab8e88d0ad4570",
+    "image_type": "synthetic",
+    "hf_annotation_id": "624"
+  },
+  {
+    "image_id": "image_0cbd192107975aba",
+    "image_type": "synthetic",
+    "hf_annotation_id": "34"
+  },
+  {
+    "image_id": "image_0cc7a70c254c4b78",
+    "image_type": "real",
+    "hf_annotation_id": "417"
+  },
+  {
+    "image_id": "image_0d0dd4d329e66089",
+    "image_type": "real",
+    "hf_annotation_id": "13"
+  },
+  {
+    "image_id": "image_0d46a3a410f5b9da",
+    "image_type": "real",
+    "hf_annotation_id": "1781"
+  },
+  {
+    "image_id": "image_0d5ea7b93139d139",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2053"
+  },
+  {
+    "image_id": "image_0d613db1f3958ee2",
+    "image_type": "real",
+    "hf_annotation_id": "1304"
+  },
+  {
+    "image_id": "image_0d74f129a037efb3",
+    "image_type": "real",
+    "hf_annotation_id": "892"
+  },
+  {
+    "image_id": "image_0d7f171933ce673f",
+    "image_type": "real",
+    "hf_annotation_id": "1308"
+  },
+  {
+    "image_id": "image_0d8e1d28694cec64",
+    "image_type": "synthetic",
+    "hf_annotation_id": "38"
+  },
+  {
+    "image_id": "image_0db85978dde68646",
+    "image_type": "real",
+    "hf_annotation_id": "559"
+  },
+  {
+    "image_id": "image_0e134427deccaf5e",
+    "image_type": "real",
+    "hf_annotation_id": "2911"
+  },
+  {
+    "image_id": "image_0e5c1a5af94c61d1",
+    "image_type": "synthetic",
+    "hf_annotation_id": "422"
+  },
+  {
+    "image_id": "image_0e8e6ae219932220",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1015"
+  },
+  {
+    "image_id": "image_0f24c894db4b6f5e",
+    "image_type": "real",
+    "hf_annotation_id": "2464"
+  },
+  {
+    "image_id": "image_0f4764b47f2274d5",
+    "image_type": "synthetic",
+    "hf_annotation_id": "640"
+  },
+  {
+    "image_id": "image_0fdd3b7d8d0c358e",
+    "image_type": "synthetic",
+    "hf_annotation_id": "333"
+  },
+  {
+    "image_id": "image_0fe5c86a1182664e",
+    "image_type": "real",
+    "hf_annotation_id": "778"
+  },
+  {
+    "image_id": "image_101c5b0ec80baf9e",
+    "image_type": "real",
+    "hf_annotation_id": "2994"
+  },
+  {
+    "image_id": "image_10900fd860424819",
+    "image_type": "synthetic",
+    "hf_annotation_id": "52"
+  },
+  {
+    "image_id": "image_10b1813d05957b6a",
+    "image_type": "real",
+    "hf_annotation_id": "726"
+  },
+  {
+    "image_id": "image_112253a3d2386932",
+    "image_type": "real",
+    "hf_annotation_id": "1776"
+  },
+  {
+    "image_id": "image_11468ea27e1e1589",
+    "image_type": "synthetic",
+    "hf_annotation_id": "764"
+  },
+  {
+    "image_id": "image_116d90c6a6a1a1b4",
+    "image_type": "real",
+    "hf_annotation_id": "39"
+  },
+  {
+    "image_id": "image_1207f2f625047312",
+    "image_type": "real",
+    "hf_annotation_id": "882"
+  },
+  {
+    "image_id": "image_12544419d5902454",
+    "image_type": "real",
+    "hf_annotation_id": "134"
+  },
+  {
+    "image_id": "image_12c8b28ab06d110c",
+    "image_type": "synthetic",
+    "hf_annotation_id": "137"
+  },
+  {
+    "image_id": "image_12d2be1f1820264b",
+    "image_type": "real",
+    "hf_annotation_id": "811"
+  },
+  {
+    "image_id": "image_13452264e97d3a60",
+    "image_type": "real",
+    "hf_annotation_id": "1317"
+  },
+  {
+    "image_id": "image_13ab6591fe89dc58",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1514"
+  },
+  {
+    "image_id": "image_13dfe18d3cd09f95",
+    "image_type": "real",
+    "hf_annotation_id": "1893"
+  },
+  {
+    "image_id": "image_140f5716d14fdd42",
+    "image_type": "real",
+    "hf_annotation_id": "84"
+  },
+  {
+    "image_id": "image_1491f38ad3633059",
+    "image_type": "real",
+    "hf_annotation_id": "338"
+  },
+  {
+    "image_id": "image_14e50a31e23d8b40",
+    "image_type": "real",
+    "hf_annotation_id": "1878"
+  },
+  {
+    "image_id": "image_14e6f142a863228c",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1021"
+  },
+  {
+    "image_id": "image_14f8d99bf5456379",
+    "image_type": "synthetic",
+    "hf_annotation_id": "104"
+  },
+  {
+    "image_id": "image_15324fdd1ef44010",
+    "image_type": "real",
+    "hf_annotation_id": "341"
+  },
+  {
+    "image_id": "image_1549c78a6414a718",
+    "image_type": "synthetic",
+    "hf_annotation_id": "512"
+  },
+  {
+    "image_id": "image_15b695f02784ddbc",
+    "image_type": "real",
+    "hf_annotation_id": "91"
+  },
+  {
+    "image_id": "image_15bc5530a670cad4",
+    "image_type": "real",
+    "hf_annotation_id": "228"
+  },
+  {
+    "image_id": "image_15c5b4352e6d240c",
+    "image_type": "synthetic",
+    "hf_annotation_id": "450"
+  },
+  {
+    "image_id": "image_1694b4469b0d2d79",
+    "image_type": "real",
+    "hf_annotation_id": "75"
+  },
+  {
+    "image_id": "image_16eca9e88f51bf83",
+    "image_type": "real",
+    "hf_annotation_id": "648"
+  },
+  {
+    "image_id": "image_16fc23033217a3fe",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2214"
+  },
+  {
+    "image_id": "image_17179b726f310ff6",
+    "image_type": "synthetic",
+    "hf_annotation_id": "130"
+  },
+  {
+    "image_id": "image_17706a0e384ffec7",
+    "image_type": "synthetic",
+    "hf_annotation_id": "205"
+  },
+  {
+    "image_id": "image_177f28de309b06f0",
+    "image_type": "real",
+    "hf_annotation_id": "1154"
+  },
+  {
+    "image_id": "image_17d14299411bb60b",
+    "image_type": "synthetic",
+    "hf_annotation_id": "208"
+  },
+  {
+    "image_id": "image_17f6bee0f7df5eb6",
+    "image_type": "real",
+    "hf_annotation_id": "2938"
+  },
+  {
+    "image_id": "image_182b578188e59141",
+    "image_type": "synthetic",
+    "hf_annotation_id": "731"
+  },
+  {
+    "image_id": "image_1853f59e5679a22d",
+    "image_type": "synthetic",
+    "hf_annotation_id": "803"
+  },
+  {
+    "image_id": "image_18e22bd5aa1ef02c",
+    "image_type": "real",
+    "hf_annotation_id": "683"
+  },
+  {
+    "image_id": "image_194fe12e03436050",
+    "image_type": "real",
+    "hf_annotation_id": "1768"
+  },
+  {
+    "image_id": "image_197d69143196e8ef",
+    "image_type": "real",
+    "hf_annotation_id": "1832"
+  },
+  {
+    "image_id": "image_1994d6f6945d857b",
+    "image_type": "real",
+    "hf_annotation_id": "1460"
+  },
+  {
+    "image_id": "image_19ba88ddd3b4ef49",
+    "image_type": "real",
+    "hf_annotation_id": "1366"
+  },
+  {
+    "image_id": "image_19e23530f67c786f",
+    "image_type": "real",
+    "hf_annotation_id": "1705"
+  },
+  {
+    "image_id": "image_1a0e7ec67ac95d16",
+    "image_type": "real",
+    "hf_annotation_id": "271"
+  },
+  {
+    "image_id": "image_1a2c1e5a4358d847",
+    "image_type": "real",
+    "hf_annotation_id": "318"
+  },
+  {
+    "image_id": "image_1a32d42c2952173e",
+    "image_type": "real",
+    "hf_annotation_id": "141"
+  },
+  {
+    "image_id": "image_1a69c68d2ae06ad2",
+    "image_type": "synthetic",
+    "hf_annotation_id": "35"
+  },
+  {
+    "image_id": "image_1a7b03094c9b616d",
+    "image_type": "real",
+    "hf_annotation_id": "1378"
+  },
+  {
+    "image_id": "image_1add824938a4da99",
+    "image_type": "synthetic",
+    "hf_annotation_id": "576"
+  },
+  {
+    "image_id": "image_1b0b856fae8e6469",
+    "image_type": "real",
+    "hf_annotation_id": "339"
+  },
+  {
+    "image_id": "image_1b45ecc0bd129975",
+    "image_type": "synthetic",
+    "hf_annotation_id": "844"
+  },
+  {
+    "image_id": "image_1b5aec0f2e402148",
+    "image_type": "real",
+    "hf_annotation_id": "88"
+  },
+  {
+    "image_id": "image_1bf92cb6cd9eee4b",
+    "image_type": "synthetic",
+    "hf_annotation_id": "403"
+  },
+  {
+    "image_id": "image_1c0ae6d8f8cc5170",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1818"
+  },
+  {
+    "image_id": "image_1cbeb95c23bc5fc4",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1000"
+  },
+  {
+    "image_id": "image_1ccf4313c24ccddb",
+    "image_type": "synthetic",
+    "hf_annotation_id": "129"
+  },
+  {
+    "image_id": "image_1d2a5e93393399c2",
+    "image_type": "real",
+    "hf_annotation_id": "1471"
+  },
+  {
+    "image_id": "image_1d2f7e92949a18ad",
+    "image_type": "synthetic",
+    "hf_annotation_id": "46"
+  },
+  {
+    "image_id": "image_1d94ebaa1a311d95",
+    "image_type": "synthetic",
+    "hf_annotation_id": "511"
+  },
+  {
+    "image_id": "image_1d95388ae1a7ca68",
+    "image_type": "real",
+    "hf_annotation_id": "575"
+  },
+  {
+    "image_id": "image_1dbb0c3132a2f833",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2015"
+  },
+  {
+    "image_id": "image_1e1a241647a41283",
+    "image_type": "synthetic",
+    "hf_annotation_id": "347"
+  },
+  {
+    "image_id": "image_1e7b03886ad5ffd3",
+    "image_type": "real",
+    "hf_annotation_id": "828"
+  },
+  {
+    "image_id": "image_1ef93393459f4f71",
+    "image_type": "synthetic",
+    "hf_annotation_id": "433"
+  },
+  {
+    "image_id": "image_1fc3ce3f65560dee",
+    "image_type": "real",
+    "hf_annotation_id": "1810"
+  },
+  {
+    "image_id": "image_20ad7fdec34cdbc0",
+    "image_type": "synthetic",
+    "hf_annotation_id": "136"
+  },
+  {
+    "image_id": "image_20be5a0f861bbce6",
+    "image_type": "real",
+    "hf_annotation_id": "547"
+  },
+  {
+    "image_id": "image_20ee32b30e626303",
+    "image_type": "real",
+    "hf_annotation_id": "1348"
+  },
+  {
+    "image_id": "image_210366a0bf63e10a",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1708"
+  },
+  {
+    "image_id": "image_2164f45131f63673",
+    "image_type": "real",
+    "hf_annotation_id": "76"
+  },
+  {
+    "image_id": "image_217f13193fe56426",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1493"
+  },
+  {
+    "image_id": "image_21863838fb413dbe",
+    "image_type": "real",
+    "hf_annotation_id": "577"
+  },
+  {
+    "image_id": "image_21b7a052ef92d2e2",
+    "image_type": "real",
+    "hf_annotation_id": "429"
+  },
+  {
+    "image_id": "image_2204036152d6bef6",
+    "image_type": "synthetic",
+    "hf_annotation_id": "766"
+  },
+  {
+    "image_id": "image_22183841c0dc068c",
+    "image_type": "synthetic",
+    "hf_annotation_id": "679"
+  },
+  {
+    "image_id": "image_22804fe97b7a331f",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2907"
+  },
+  {
+    "image_id": "image_22c5433521ddf143",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1391"
+  },
+  {
+    "image_id": "image_22d25ed09ebed590",
+    "image_type": "synthetic",
+    "hf_annotation_id": "935"
+  },
+  {
+    "image_id": "image_2309af3e2eb2d931",
+    "image_type": "real",
+    "hf_annotation_id": "108"
+  },
+  {
+    "image_id": "image_23462ec16a62bb3e",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1515"
+  },
+  {
+    "image_id": "image_23f0bd217f78ac6c",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1137"
+  },
+  {
+    "image_id": "image_244a1f866b8182be",
+    "image_type": "synthetic",
+    "hf_annotation_id": "578"
+  },
+  {
+    "image_id": "image_244d245610552b1e",
+    "image_type": "synthetic",
+    "hf_annotation_id": "247"
+  },
+  {
+    "image_id": "image_246d3728622623cd",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1058"
+  },
+  {
+    "image_id": "image_2480091cf710ff56",
+    "image_type": "real",
+    "hf_annotation_id": "266"
+  },
+  {
+    "image_id": "image_2484133356cb2db7",
+    "image_type": "synthetic",
+    "hf_annotation_id": "900"
+  },
+  {
+    "image_id": "image_2494be3b46e41aab",
+    "image_type": "synthetic",
+    "hf_annotation_id": "676"
+  },
+  {
+    "image_id": "image_24c9b993f80ed500",
+    "image_type": "real",
+    "hf_annotation_id": "881"
+  },
+  {
+    "image_id": "image_24cbb0d16a1aa9b7",
+    "image_type": "synthetic",
+    "hf_annotation_id": "471"
+  },
+  {
+    "image_id": "image_24d35ad185506ae4",
+    "image_type": "real",
+    "hf_annotation_id": "377"
+  },
+  {
+    "image_id": "image_252679ce2f55a9f0",
+    "image_type": "synthetic",
+    "hf_annotation_id": "621"
+  },
+  {
+    "image_id": "image_256b354034eca7ff",
+    "image_type": "synthetic",
+    "hf_annotation_id": "492"
+  },
+  {
+    "image_id": "image_257e37c0dfb06933",
+    "image_type": "real",
+    "hf_annotation_id": "793"
+  },
+  {
+    "image_id": "image_2580cbf467370807",
+    "image_type": "real",
+    "hf_annotation_id": "124"
+  },
+  {
+    "image_id": "image_25d51f1385a791a2",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1789"
+  },
+  {
+    "image_id": "image_263a976e226d3b02",
+    "image_type": "real",
+    "hf_annotation_id": "150"
+  },
+  {
+    "image_id": "image_26510cb03e91ae6a",
+    "image_type": "real",
+    "hf_annotation_id": "355"
+  },
+  {
+    "image_id": "image_2696660fc30f61df",
+    "image_type": "real",
+    "hf_annotation_id": "1306"
+  },
+  {
+    "image_id": "image_28cade440d316c5e",
+    "image_type": "real",
+    "hf_annotation_id": "745"
+  },
+  {
+    "image_id": "image_297fad08bd0b878b",
+    "image_type": "real",
+    "hf_annotation_id": "438"
+  },
+  {
+    "image_id": "image_29bace66e351c97c",
+    "image_type": "real",
+    "hf_annotation_id": "543"
+  },
+  {
+    "image_id": "image_2a181795e14dd929",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1113"
+  },
+  {
+    "image_id": "image_2a2a675c7c3f6541",
+    "image_type": "synthetic",
+    "hf_annotation_id": "799"
+  },
+  {
+    "image_id": "image_2a8311ec38aa31e2",
+    "image_type": "synthetic",
+    "hf_annotation_id": "602"
+  },
+  {
+    "image_id": "image_2a9b96dc8ce7d14e",
+    "image_type": "real",
+    "hf_annotation_id": "1017"
+  },
+  {
+    "image_id": "image_2afd425d827e59d4",
+    "image_type": "real",
+    "hf_annotation_id": "466"
+  },
+  {
+    "image_id": "image_2b0e509074442fb0",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2987"
+  },
+  {
+    "image_id": "image_2b233d154a048763",
+    "image_type": "synthetic",
+    "hf_annotation_id": "583"
+  },
+  {
+    "image_id": "image_2b54ac67585311ee",
+    "image_type": "synthetic",
+    "hf_annotation_id": "267"
+  },
+  {
+    "image_id": "image_2b67f09a0c63941e",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1444"
+  },
+  {
+    "image_id": "image_2b88e5e0dacba98b",
+    "image_type": "real",
+    "hf_annotation_id": "1384"
+  },
+  {
+    "image_id": "image_2bbfa35e30c6dead",
+    "image_type": "synthetic",
+    "hf_annotation_id": "328"
+  },
+  {
+    "image_id": "image_2c37e6572d04fe32",
+    "image_type": "real",
+    "hf_annotation_id": "1272"
+  },
+  {
+    "image_id": "image_2c63d2bdd1edc8b1",
+    "image_type": "real",
+    "hf_annotation_id": "465"
+  },
+  {
+    "image_id": "image_2ce27e9c75b8e514",
+    "image_type": "synthetic",
+    "hf_annotation_id": "538"
+  },
+  {
+    "image_id": "image_2d6bee32456c5ce0",
+    "image_type": "real",
+    "hf_annotation_id": "776"
+  },
+  {
+    "image_id": "image_2d736478deed3b39",
+    "image_type": "real",
+    "hf_annotation_id": "1898"
+  },
+  {
+    "image_id": "image_2d7bba34734b4cd9",
+    "image_type": "real",
+    "hf_annotation_id": "1410"
+  },
+  {
+    "image_id": "image_2da11542bb61031c",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1331"
+  },
+  {
+    "image_id": "image_2de7d6111cc1e18f",
+    "image_type": "real",
+    "hf_annotation_id": "364"
+  },
+  {
+    "image_id": "image_2df7f99b34a0db46",
+    "image_type": "real",
+    "hf_annotation_id": "1371"
+  },
+  {
+    "image_id": "image_2e078744dc60e5c5",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1052"
+  },
+  {
+    "image_id": "image_2e650dbec48d30de",
+    "image_type": "real",
+    "hf_annotation_id": "1890"
+  },
+  {
+    "image_id": "image_2e8b6bce50fd6514",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1660"
+  },
+  {
+    "image_id": "image_2eb00816bdb8f08d",
+    "image_type": "synthetic",
+    "hf_annotation_id": "55"
+  },
+  {
+    "image_id": "image_2ed61f88a2c1cc0d",
+    "image_type": "real",
+    "hf_annotation_id": "315"
+  },
+  {
+    "image_id": "image_2eeffabbfadf74a6",
+    "image_type": "real",
+    "hf_annotation_id": "556"
+  },
+  {
+    "image_id": "image_2f61ac4748a79490",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1054"
+  },
+  {
+    "image_id": "image_2fdec5a05315724e",
+    "image_type": "real",
+    "hf_annotation_id": "460"
+  },
+  {
+    "image_id": "image_304d96f8e4ef61d8",
+    "image_type": "real",
+    "hf_annotation_id": "877"
+  },
+  {
+    "image_id": "image_305d1ea7875a8b31",
+    "image_type": "synthetic",
+    "hf_annotation_id": "158"
+  },
+  {
+    "image_id": "image_30c960fa2c0afef3",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1234"
+  },
+  {
+    "image_id": "image_30cbdd63579e89f9",
+    "image_type": "real",
+    "hf_annotation_id": "1498"
+  },
+  {
+    "image_id": "image_3114b08b2b965f11",
+    "image_type": "real",
+    "hf_annotation_id": "202"
+  },
+  {
+    "image_id": "image_3114bb074ea6048c",
+    "image_type": "real",
+    "hf_annotation_id": "2630"
+  },
+  {
+    "image_id": "image_322e40a77595a5bf",
+    "image_type": "real",
+    "hf_annotation_id": "975"
+  },
+  {
+    "image_id": "image_3235a573bf111ea5",
+    "image_type": "real",
+    "hf_annotation_id": "324"
+  },
+  {
+    "image_id": "image_3258a79ae0bea05e",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1883"
+  },
+  {
+    "image_id": "image_32c298913797e085",
+    "image_type": "synthetic",
+    "hf_annotation_id": "457"
+  },
+  {
+    "image_id": "image_32c33655ee859045",
+    "image_type": "real",
+    "hf_annotation_id": "1475"
+  },
+  {
+    "image_id": "image_33735f9fdfc2acd7",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1213"
+  },
+  {
+    "image_id": "image_3392adf2cec1c16b",
+    "image_type": "real",
+    "hf_annotation_id": "132"
+  },
+  {
+    "image_id": "image_343adb921cbd9916",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2533"
+  },
+  {
+    "image_id": "image_34a8dbf71e49b472",
+    "image_type": "real",
+    "hf_annotation_id": "1056"
+  },
+  {
+    "image_id": "image_34c2aa601122cfa1",
+    "image_type": "real",
+    "hf_annotation_id": "308"
+  },
+  {
+    "image_id": "image_34d0c67b04bcb05f",
+    "image_type": "real",
+    "hf_annotation_id": "682"
+  },
+  {
+    "image_id": "image_351c5cb5543affb5",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1363"
+  },
+  {
+    "image_id": "image_3549b425fdbb445c",
+    "image_type": "real",
+    "hf_annotation_id": "1329"
+  },
+  {
+    "image_id": "image_35580cfd4f3d5fc9",
+    "image_type": "real",
+    "hf_annotation_id": "1225"
+  },
+  {
+    "image_id": "image_35d272811fcb265b",
+    "image_type": "synthetic",
+    "hf_annotation_id": "613"
+  },
+  {
+    "image_id": "image_35fbca14693f04f3",
+    "image_type": "real",
+    "hf_annotation_id": "317"
+  },
+  {
+    "image_id": "image_369f0d831a8103eb",
+    "image_type": "synthetic",
+    "hf_annotation_id": "625"
+  },
+  {
+    "image_id": "image_36ade723091e48bf",
+    "image_type": "real",
+    "hf_annotation_id": "498"
+  },
+  {
+    "image_id": "image_36eb54b5d7ff6cc5",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1044"
+  },
+  {
+    "image_id": "image_379ff82bb08a6049",
+    "image_type": "real",
+    "hf_annotation_id": "69"
+  },
+  {
+    "image_id": "image_37abfd880323a820",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1184"
+  },
+  {
+    "image_id": "image_37bc1732cf898ab9",
+    "image_type": "synthetic",
+    "hf_annotation_id": "476"
+  },
+  {
+    "image_id": "image_37dff0abbfe2a646",
+    "image_type": "real",
+    "hf_annotation_id": "2920"
+  },
+  {
+    "image_id": "image_3821c6fa3d4b1d39",
+    "image_type": "real",
+    "hf_annotation_id": "1335"
+  },
+  {
+    "image_id": "image_388164c29f8fe4bd",
+    "image_type": "real",
+    "hf_annotation_id": "245"
+  },
+  {
+    "image_id": "image_3898d46aeca8b539",
+    "image_type": "real",
+    "hf_annotation_id": "343"
+  },
+  {
+    "image_id": "image_3a84b9ddbe2b0dff",
+    "image_type": "synthetic",
+    "hf_annotation_id": "560"
+  },
+  {
+    "image_id": "image_3adf5d25989a2b85",
+    "image_type": "real",
+    "hf_annotation_id": "103"
+  },
+  {
+    "image_id": "image_3b6548e760068c56",
+    "image_type": "synthetic",
+    "hf_annotation_id": "111"
+  },
+  {
+    "image_id": "image_3b832fcb84066828",
+    "image_type": "real",
+    "hf_annotation_id": "524"
+  },
+  {
+    "image_id": "image_3bbc8332a8be6213",
+    "image_type": "synthetic",
+    "hf_annotation_id": "451"
+  },
+  {
+    "image_id": "image_3bf9e0fea509d48d",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1513"
+  },
+  {
+    "image_id": "image_3bfca7368727d656",
+    "image_type": "real",
+    "hf_annotation_id": "221"
+  },
+  {
+    "image_id": "image_3cc65212f3db5cf4",
+    "image_type": "real",
+    "hf_annotation_id": "1668"
+  },
+  {
+    "image_id": "image_3d4255f88c4e7632",
+    "image_type": "real",
+    "hf_annotation_id": "388"
+  },
+  {
+    "image_id": "image_3d4c12d5449fea13",
+    "image_type": "synthetic",
+    "hf_annotation_id": "406"
+  },
+  {
+    "image_id": "image_3d5cc0aea29c3cd6",
+    "image_type": "real",
+    "hf_annotation_id": "1858"
+  },
+  {
+    "image_id": "image_3e4af76d25c2b996",
+    "image_type": "real",
+    "hf_annotation_id": "566"
+  },
+  {
+    "image_id": "image_3e4b7052f964af71",
+    "image_type": "real",
+    "hf_annotation_id": "790"
+  },
+  {
+    "image_id": "image_3e57cf63c3daf075",
+    "image_type": "real",
+    "hf_annotation_id": "854"
+  },
+  {
+    "image_id": "image_3e9bdfc84c1f6bb9",
+    "image_type": "synthetic",
+    "hf_annotation_id": "501"
+  },
+  {
+    "image_id": "image_3e9deb5d29279513",
+    "image_type": "real",
+    "hf_annotation_id": "689"
+  },
+  {
+    "image_id": "image_3eb4a86c073e8b28",
+    "image_type": "real",
+    "hf_annotation_id": "597"
+  },
+  {
+    "image_id": "image_3ec84f233e27646f",
+    "image_type": "synthetic",
+    "hf_annotation_id": "830"
+  },
+  {
+    "image_id": "image_3ec964f45cf26701",
+    "image_type": "real",
+    "hf_annotation_id": "589"
+  },
+  {
+    "image_id": "image_3ed60e9e37a680ba",
+    "image_type": "synthetic",
+    "hf_annotation_id": "548"
+  },
+  {
+    "image_id": "image_3f2e215cbce9e6b1",
+    "image_type": "real",
+    "hf_annotation_id": "1707"
+  },
+  {
+    "image_id": "image_3fadee70a4f0229c",
+    "image_type": "synthetic",
+    "hf_annotation_id": "546"
+  },
+  {
+    "image_id": "image_3fd6a15616cf46ab",
+    "image_type": "real",
+    "hf_annotation_id": "951"
+  },
+  {
+    "image_id": "image_3fe5af3b783c1b15",
+    "image_type": "real",
+    "hf_annotation_id": "378"
+  },
+  {
+    "image_id": "image_3feb47c91ec4fb3c",
+    "image_type": "real",
+    "hf_annotation_id": "999"
+  },
+  {
+    "image_id": "image_4046a080287ed29d",
+    "image_type": "real",
+    "hf_annotation_id": "213"
+  },
+  {
+    "image_id": "image_4058597ee222da0b",
+    "image_type": "synthetic",
+    "hf_annotation_id": "769"
+  },
+  {
+    "image_id": "image_40672340e8853d9c",
+    "image_type": "real",
+    "hf_annotation_id": "1096"
+  },
+  {
+    "image_id": "image_40950707397a3a5e",
+    "image_type": "synthetic",
+    "hf_annotation_id": "947"
+  },
+  {
+    "image_id": "image_410a93a0471c59be",
+    "image_type": "real",
+    "hf_annotation_id": "2482"
+  },
+  {
+    "image_id": "image_4146d8bc9106bfec",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2915"
+  },
+  {
+    "image_id": "image_415fbfac07e49476",
+    "image_type": "real",
+    "hf_annotation_id": "126"
+  },
+  {
+    "image_id": "image_418cdc74ac9af13b",
+    "image_type": "synthetic",
+    "hf_annotation_id": "481"
+  },
+  {
+    "image_id": "image_41d9d5a2f9997896",
+    "image_type": "synthetic",
+    "hf_annotation_id": "400"
+  },
+  {
+    "image_id": "image_428f3d03f2a7f5db",
+    "image_type": "synthetic",
+    "hf_annotation_id": "414"
+  },
+  {
+    "image_id": "image_430f59ce5e0c337f",
+    "image_type": "real",
+    "hf_annotation_id": "2958"
+  },
+  {
+    "image_id": "image_438deb0c597964d0",
+    "image_type": "real",
+    "hf_annotation_id": "564"
+  },
+  {
+    "image_id": "image_43d80e18c20bbaaa",
+    "image_type": "real",
+    "hf_annotation_id": "1330"
+  },
+  {
+    "image_id": "image_4408d3c0b6cba736",
+    "image_type": "real",
+    "hf_annotation_id": "334"
+  },
+  {
+    "image_id": "image_4422ab62997fef25",
+    "image_type": "real",
+    "hf_annotation_id": "1431"
+  },
+  {
+    "image_id": "image_4426047febcc71f6",
+    "image_type": "synthetic",
+    "hf_annotation_id": "249"
+  },
+  {
+    "image_id": "image_44c7bcabcb503fad",
+    "image_type": "real",
+    "hf_annotation_id": "656"
+  },
+  {
+    "image_id": "image_44de33fc7173ea95",
+    "image_type": "real",
+    "hf_annotation_id": "821"
+  },
+  {
+    "image_id": "image_44e5b1831bd1a616",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2548"
+  },
+  {
+    "image_id": "image_44fa42b74eb60644",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2704"
+  },
+  {
+    "image_id": "image_4561832ae3fca0de",
+    "image_type": "synthetic",
+    "hf_annotation_id": "685"
+  },
+  {
+    "image_id": "image_45aa80589479a642",
+    "image_type": "real",
+    "hf_annotation_id": "2971"
+  },
+  {
+    "image_id": "image_4658c67471ec9804",
+    "image_type": "synthetic",
+    "hf_annotation_id": "521"
+  },
+  {
+    "image_id": "image_4671309f9e5e29fc",
+    "image_type": "real",
+    "hf_annotation_id": "937"
+  },
+  {
+    "image_id": "image_46e345f97f1efc96",
+    "image_type": "real",
+    "hf_annotation_id": "131"
+  },
+  {
+    "image_id": "image_4750ab53a1eaa315",
+    "image_type": "synthetic",
+    "hf_annotation_id": "509"
+  },
+  {
+    "image_id": "image_47855c795d5c72db",
+    "image_type": "real",
+    "hf_annotation_id": "2967"
+  },
+  {
+    "image_id": "image_47f0daeb796217a6",
+    "image_type": "synthetic",
+    "hf_annotation_id": "330"
+  },
+  {
+    "image_id": "image_47f6575abae4eb01",
+    "image_type": "real",
+    "hf_annotation_id": "1710"
+  },
+  {
+    "image_id": "image_48248ab9b7f60bea",
+    "image_type": "synthetic",
+    "hf_annotation_id": "634"
+  },
+  {
+    "image_id": "image_4834300060b1e2f6",
+    "image_type": "real",
+    "hf_annotation_id": "344"
+  },
+  {
+    "image_id": "image_48ce53cabc562020",
+    "image_type": "real",
+    "hf_annotation_id": "1473"
+  },
+  {
+    "image_id": "image_48ef0d7c58e4ec4e",
+    "image_type": "synthetic",
+    "hf_annotation_id": "92"
+  },
+  {
+    "image_id": "image_4907f6b11c37fbd1",
+    "image_type": "synthetic",
+    "hf_annotation_id": "209"
+  },
+  {
+    "image_id": "image_4928f53d87d08fe7",
+    "image_type": "real",
+    "hf_annotation_id": "436"
+  },
+  {
+    "image_id": "image_4938c5d3bc978364",
+    "image_type": "synthetic",
+    "hf_annotation_id": "758"
+  },
+  {
+    "image_id": "image_4946a31bdeaaa9ec",
+    "image_type": "real",
+    "hf_annotation_id": "2929"
+  },
+  {
+    "image_id": "image_495fe8bf4dd7eb54",
+    "image_type": "real",
+    "hf_annotation_id": "639"
+  },
+  {
+    "image_id": "image_4a2f6b9f95efc08f",
+    "image_type": "real",
+    "hf_annotation_id": "300"
+  },
+  {
+    "image_id": "image_4a565f7be54554b0",
+    "image_type": "synthetic",
+    "hf_annotation_id": "117"
+  },
+  {
+    "image_id": "image_4ac010b5a6437f9c",
+    "image_type": "real",
+    "hf_annotation_id": "1145"
+  },
+  {
+    "image_id": "image_4ac3467ac89a2c40",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2224"
+  },
+  {
+    "image_id": "image_4afa5fad65ea5733",
+    "image_type": "real",
+    "hf_annotation_id": "254"
+  },
+  {
+    "image_id": "image_4b0eccdf8a10cba7",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1491"
+  },
+  {
+    "image_id": "image_4b30edd920b1d91d",
+    "image_type": "synthetic",
+    "hf_annotation_id": "83"
+  },
+  {
+    "image_id": "image_4b4cd8ab40874864",
+    "image_type": "real",
+    "hf_annotation_id": "58"
+  },
+  {
+    "image_id": "image_4b8068a0deee0ca0",
+    "image_type": "synthetic",
+    "hf_annotation_id": "672"
+  },
+  {
+    "image_id": "image_4b87b0b398ebfff6",
+    "image_type": "real",
+    "hf_annotation_id": "2914"
+  },
+  {
+    "image_id": "image_4bc2376189d113f2",
+    "image_type": "synthetic",
+    "hf_annotation_id": "990"
+  },
+  {
+    "image_id": "image_4c049fc1d1bf5c9c",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2928"
+  },
+  {
+    "image_id": "image_4c71899846509c00",
+    "image_type": "real",
+    "hf_annotation_id": "416"
+  },
+  {
+    "image_id": "image_4c779578cdd218ac",
+    "image_type": "real",
+    "hf_annotation_id": "335"
+  },
+  {
+    "image_id": "image_4c814670a6abb671",
+    "image_type": "real",
+    "hf_annotation_id": "666"
+  },
+  {
+    "image_id": "image_4c920d3a7d4cd808",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1446"
+  },
+  {
+    "image_id": "image_4cc6221943eece62",
+    "image_type": "synthetic",
+    "hf_annotation_id": "401"
+  },
+  {
+    "image_id": "image_4cd442b379585923",
+    "image_type": "real",
+    "hf_annotation_id": "4"
+  },
+  {
+    "image_id": "image_4d0b26f27f2f0547",
+    "image_type": "synthetic",
+    "hf_annotation_id": "263"
+  },
+  {
+    "image_id": "image_4da9d8aa2d7c2ef9",
+    "image_type": "real",
+    "hf_annotation_id": "66"
+  },
+  {
+    "image_id": "image_4dcc6552833d96c5",
+    "image_type": "real",
+    "hf_annotation_id": "2966"
+  },
+  {
+    "image_id": "image_4dd53d682a5ee3fd",
+    "image_type": "real",
+    "hf_annotation_id": "1465"
+  },
+  {
+    "image_id": "image_4ec12f039c039e91",
+    "image_type": "real",
+    "hf_annotation_id": "63"
+  },
+  {
+    "image_id": "image_4f10005e91cae133",
+    "image_type": "synthetic",
+    "hf_annotation_id": "15"
+  },
+  {
+    "image_id": "image_4f1f49fdab590295",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1381"
+  },
+  {
+    "image_id": "image_4f4b178f7f8ad37d",
+    "image_type": "real",
+    "hf_annotation_id": "212"
+  },
+  {
+    "image_id": "image_4fc7ea19b3b87813",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2949"
+  },
+  {
+    "image_id": "image_500ddd5ff222221b",
+    "image_type": "synthetic",
+    "hf_annotation_id": "376"
+  },
+  {
+    "image_id": "image_5032ff1b9f623e36",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1808"
+  },
+  {
+    "image_id": "image_503e8ccdd3044a00",
+    "image_type": "synthetic",
+    "hf_annotation_id": "115"
+  },
+  {
+    "image_id": "image_505eac23726a8ede",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1062"
+  },
+  {
+    "image_id": "image_5063463ab85cf0f5",
+    "image_type": "synthetic",
+    "hf_annotation_id": "37"
+  },
+  {
+    "image_id": "image_509e66386a6aa588",
+    "image_type": "real",
+    "hf_annotation_id": "78"
+  },
+  {
+    "image_id": "image_51338c13a25c0de1",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1748"
+  },
+  {
+    "image_id": "image_5195495fc4550188",
+    "image_type": "real",
+    "hf_annotation_id": "1101"
+  },
+  {
+    "image_id": "image_51b4ed439cac4ae4",
+    "image_type": "real",
+    "hf_annotation_id": "820"
+  },
+  {
+    "image_id": "image_51c16518344f495c",
+    "image_type": "synthetic",
+    "hf_annotation_id": "851"
+  },
+  {
+    "image_id": "image_51c1a884611efa61",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2294"
+  },
+  {
+    "image_id": "image_51db63f58847a1d0",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2906"
+  },
+  {
+    "image_id": "image_5248c143bd14c96d",
+    "image_type": "synthetic",
+    "hf_annotation_id": "222"
+  },
+  {
+    "image_id": "image_53947d796ea72fe7",
+    "image_type": "real",
+    "hf_annotation_id": "125"
+  },
+  {
+    "image_id": "image_53f923d0983c655d",
+    "image_type": "synthetic",
+    "hf_annotation_id": "384"
+  },
+  {
+    "image_id": "image_5417b7caa04b4e0c",
+    "image_type": "synthetic",
+    "hf_annotation_id": "40"
+  },
+  {
+    "image_id": "image_546f90aeeafc41f4",
+    "image_type": "synthetic",
+    "hf_annotation_id": "895"
+  },
+  {
+    "image_id": "image_548a14cef4d144ca",
+    "image_type": "real",
+    "hf_annotation_id": "483"
+  },
+  {
+    "image_id": "image_54970abe8b7247a5",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1482"
+  },
+  {
+    "image_id": "image_54b22fbe3397c60b",
+    "image_type": "synthetic",
+    "hf_annotation_id": "8"
+  },
+  {
+    "image_id": "image_54be4db118d6efd3",
+    "image_type": "real",
+    "hf_annotation_id": "916"
+  },
+  {
+    "image_id": "image_54d04f3027395be7",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1778"
+  },
+  {
+    "image_id": "image_54e0241bb74746b0",
+    "image_type": "synthetic",
+    "hf_annotation_id": "660"
+  },
+  {
+    "image_id": "image_551c118ece7e3430",
+    "image_type": "synthetic",
+    "hf_annotation_id": "688"
+  },
+  {
+    "image_id": "image_5589909f82b821b2",
+    "image_type": "synthetic",
+    "hf_annotation_id": "474"
+  },
+  {
+    "image_id": "image_55ae836e50f27bf3",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2885"
+  },
+  {
+    "image_id": "image_55b62da8a067933a",
+    "image_type": "synthetic",
+    "hf_annotation_id": "415"
+  },
+  {
+    "image_id": "image_55bf19263d15ab34",
+    "image_type": "real",
+    "hf_annotation_id": "753"
+  },
+  {
+    "image_id": "image_55e7785a05b11047",
+    "image_type": "synthetic",
+    "hf_annotation_id": "241"
+  },
+  {
+    "image_id": "image_562829645d0112cb",
+    "image_type": "synthetic",
+    "hf_annotation_id": "673"
+  },
+  {
+    "image_id": "image_5632c90387e0e6f8",
+    "image_type": "synthetic",
+    "hf_annotation_id": "706"
+  },
+  {
+    "image_id": "image_56659f9cec854ac3",
+    "image_type": "synthetic",
+    "hf_annotation_id": "440"
+  },
+  {
+    "image_id": "image_56ed97e04651bc2b",
+    "image_type": "synthetic",
+    "hf_annotation_id": "146"
+  },
+  {
+    "image_id": "image_5705d085ac076069",
+    "image_type": "synthetic",
+    "hf_annotation_id": "47"
+  },
+  {
+    "image_id": "image_57a2d82b44e54857",
+    "image_type": "real",
+    "hf_annotation_id": "585"
+  },
+  {
+    "image_id": "image_57e23c7b41720d34",
+    "image_type": "synthetic",
+    "hf_annotation_id": "170"
+  },
+  {
+    "image_id": "image_57fa6949ad5141dc",
+    "image_type": "real",
+    "hf_annotation_id": "3"
+  },
+  {
+    "image_id": "image_582cb6ddfb58d087",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2"
+  },
+  {
+    "image_id": "image_58462f96d96d648a",
+    "image_type": "synthetic",
+    "hf_annotation_id": "153"
+  },
+  {
+    "image_id": "image_587db7fbfb8cd8ab",
+    "image_type": "real",
+    "hf_annotation_id": "1186"
+  },
+  {
+    "image_id": "image_5886bcc49cd86fdc",
+    "image_type": "real",
+    "hf_annotation_id": "143"
+  },
+  {
+    "image_id": "image_597118423a235ef1",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1803"
+  },
+  {
+    "image_id": "image_59fc75cc1264837f",
+    "image_type": "real",
+    "hf_annotation_id": "261"
+  },
+  {
+    "image_id": "image_5a5472533edd2d43",
+    "image_type": "synthetic",
+    "hf_annotation_id": "733"
+  },
+  {
+    "image_id": "image_5aa931ec5240303e",
+    "image_type": "synthetic",
+    "hf_annotation_id": "449"
+  },
+  {
+    "image_id": "image_5ab10a9babea43c0",
+    "image_type": "synthetic",
+    "hf_annotation_id": "22"
+  },
+  {
+    "image_id": "image_5af4838bba8fead5",
+    "image_type": "real",
+    "hf_annotation_id": "2213"
+  },
+  {
+    "image_id": "image_5b3bc1d51fd5b418",
+    "image_type": "real",
+    "hf_annotation_id": "599"
+  },
+  {
+    "image_id": "image_5b681324fa00062d",
+    "image_type": "real",
+    "hf_annotation_id": "1326"
+  },
+  {
+    "image_id": "image_5bc2806157e8e6aa",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1459"
+  },
+  {
+    "image_id": "image_5c462eede7e4709e",
+    "image_type": "real",
+    "hf_annotation_id": "145"
+  },
+  {
+    "image_id": "image_5cc16da202116f1e",
+    "image_type": "synthetic",
+    "hf_annotation_id": "863"
+  },
+  {
+    "image_id": "image_5ceb8d29ad8aa25a",
+    "image_type": "real",
+    "hf_annotation_id": "971"
+  },
+  {
+    "image_id": "image_5d270c5c2bc9f281",
+    "image_type": "real",
+    "hf_annotation_id": "286"
+  },
+  {
+    "image_id": "image_5d5cd116a2139f30",
+    "image_type": "synthetic",
+    "hf_annotation_id": "601"
+  },
+  {
+    "image_id": "image_5dd47c3ae455617f",
+    "image_type": "synthetic",
+    "hf_annotation_id": "949"
+  },
+  {
+    "image_id": "image_5df06dfb5da432f3",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1136"
+  },
+  {
+    "image_id": "image_5e3c9a352e4ba21b",
+    "image_type": "synthetic",
+    "hf_annotation_id": "42"
+  },
+  {
+    "image_id": "image_5ed99f11fc44bff2",
+    "image_type": "real",
+    "hf_annotation_id": "85"
+  },
+  {
+    "image_id": "image_5f3102eb80e10be1",
+    "image_type": "real",
+    "hf_annotation_id": "387"
+  },
+  {
+    "image_id": "image_5f5672108687bc35",
+    "image_type": "real",
+    "hf_annotation_id": "86"
+  },
+  {
+    "image_id": "image_5fd3cc7a76c7a406",
+    "image_type": "real",
+    "hf_annotation_id": "1422"
+  },
+  {
+    "image_id": "image_6013e78ed8d68fbe",
+    "image_type": "real",
+    "hf_annotation_id": "350"
+  },
+  {
+    "image_id": "image_619f3ca866e6b2ac",
+    "image_type": "synthetic",
+    "hf_annotation_id": "120"
+  },
+  {
+    "image_id": "image_61ebeae71b47b92f",
+    "image_type": "synthetic",
+    "hf_annotation_id": "692"
+  },
+  {
+    "image_id": "image_61ee00f10abbffb7",
+    "image_type": "real",
+    "hf_annotation_id": "1300"
+  },
+  {
+    "image_id": "image_61f6c9e8ff9d6f7a",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2972"
+  },
+  {
+    "image_id": "image_61f92f29e400c147",
+    "image_type": "synthetic",
+    "hf_annotation_id": "397"
+  },
+  {
+    "image_id": "image_625a34c334965e17",
+    "image_type": "real",
+    "hf_annotation_id": "1415"
+  },
+  {
+    "image_id": "image_629d8e9efdc0bc66",
+    "image_type": "real",
+    "hf_annotation_id": "44"
+  },
+  {
+    "image_id": "image_62df06c18ee95afb",
+    "image_type": "synthetic",
+    "hf_annotation_id": "11"
+  },
+  {
+    "image_id": "image_62eb0200d35d7ef2",
+    "image_type": "real",
+    "hf_annotation_id": "751"
+  },
+  {
+    "image_id": "image_632c82c9ded4ebf2",
+    "image_type": "real",
+    "hf_annotation_id": "2183"
+  },
+  {
+    "image_id": "image_632ceceb4dc51176",
+    "image_type": "synthetic",
+    "hf_annotation_id": "763"
+  },
+  {
+    "image_id": "image_6341485f44c6218d",
+    "image_type": "real",
+    "hf_annotation_id": "558"
+  },
+  {
+    "image_id": "image_6357c77e17ee1699",
+    "image_type": "synthetic",
+    "hf_annotation_id": "238"
+  },
+  {
+    "image_id": "image_63ce197c4fc4465b",
+    "image_type": "real",
+    "hf_annotation_id": "2229"
+  },
+  {
+    "image_id": "image_63cf5d1fa6c4878c",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2268"
+  },
+  {
+    "image_id": "image_640f1e34eaca055b",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1041"
+  },
+  {
+    "image_id": "image_6476a8d341ad221a",
+    "image_type": "real",
+    "hf_annotation_id": "79"
+  },
+  {
+    "image_id": "image_647f8dcd7a249e41",
+    "image_type": "real",
+    "hf_annotation_id": "1457"
+  },
+  {
+    "image_id": "image_6532f8cf10893446",
+    "image_type": "synthetic",
+    "hf_annotation_id": "227"
+  },
+  {
+    "image_id": "image_656173a122c82c6f",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1914"
+  },
+  {
+    "image_id": "image_6566a33ca13e7838",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1313"
+  },
+  {
+    "image_id": "image_659e0fc4e2317754",
+    "image_type": "real",
+    "hf_annotation_id": "762"
+  },
+  {
+    "image_id": "image_65ac015cd25e9706",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1711"
+  },
+  {
+    "image_id": "image_65b2d3ea5b75e403",
+    "image_type": "real",
+    "hf_annotation_id": "1775"
+  },
+  {
+    "image_id": "image_6635b08d370b6339",
+    "image_type": "real",
+    "hf_annotation_id": "515"
+  },
+  {
+    "image_id": "image_66596620082581e6",
+    "image_type": "real",
+    "hf_annotation_id": "1438"
+  },
+  {
+    "image_id": "image_66c9a0ca1e2b1cb7",
+    "image_type": "real",
+    "hf_annotation_id": "612"
+  },
+  {
+    "image_id": "image_671a8fc53b0f6dc2",
+    "image_type": "synthetic",
+    "hf_annotation_id": "909"
+  },
+  {
+    "image_id": "image_6729a43a65351581",
+    "image_type": "synthetic",
+    "hf_annotation_id": "57"
+  },
+  {
+    "image_id": "image_677e73066780cd21",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1429"
+  },
+  {
+    "image_id": "image_67ac1f31205c54e9",
+    "image_type": "real",
+    "hf_annotation_id": "288"
+  },
+  {
+    "image_id": "image_67b491ec981a3edc",
+    "image_type": "synthetic",
+    "hf_annotation_id": "405"
+  },
+  {
+    "image_id": "image_684b3dd7c18152fe",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1487"
+  },
+  {
+    "image_id": "image_68c396caa323aabd",
+    "image_type": "real",
+    "hf_annotation_id": "287"
+  },
+  {
+    "image_id": "image_68c4858c848374af",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2584"
+  },
+  {
+    "image_id": "image_693e2785e9d2aaa9",
+    "image_type": "real",
+    "hf_annotation_id": "1340"
+  },
+  {
+    "image_id": "image_6964d1f52a5cb124",
+    "image_type": "synthetic",
+    "hf_annotation_id": "277"
+  },
+  {
+    "image_id": "image_69a4c035992e104e",
+    "image_type": "real",
+    "hf_annotation_id": "2650"
+  },
+  {
+    "image_id": "image_69ed6a286b75fee7",
+    "image_type": "real",
+    "hf_annotation_id": "630"
+  },
+  {
+    "image_id": "image_6a335a430cf37643",
+    "image_type": "real",
+    "hf_annotation_id": "421"
+  },
+  {
+    "image_id": "image_6a5cfe7737d41d5f",
+    "image_type": "real",
+    "hf_annotation_id": "425"
+  },
+  {
+    "image_id": "image_6a6e39c6414282fe",
+    "image_type": "synthetic",
+    "hf_annotation_id": "427"
+  },
+  {
+    "image_id": "image_6a72e234c588ac7d",
+    "image_type": "real",
+    "hf_annotation_id": "391"
+  },
+  {
+    "image_id": "image_6aeb188ffe375616",
+    "image_type": "real",
+    "hf_annotation_id": "2570"
+  },
+  {
+    "image_id": "image_6b6934dd19bbe516",
+    "image_type": "real",
+    "hf_annotation_id": "540"
+  },
+  {
+    "image_id": "image_6b796da48f21f6ce",
+    "image_type": "real",
+    "hf_annotation_id": "487"
+  },
+  {
+    "image_id": "image_6bdf7fffb7217eb5",
+    "image_type": "real",
+    "hf_annotation_id": "808"
+  },
+  {
+    "image_id": "image_6c67d9bc450fb99c",
+    "image_type": "synthetic",
+    "hf_annotation_id": "9"
+  },
+  {
+    "image_id": "image_6c9ba457817e7280",
+    "image_type": "synthetic",
+    "hf_annotation_id": "709"
+  },
+  {
+    "image_id": "image_6ca6cde7afb4afd4",
+    "image_type": "real",
+    "hf_annotation_id": "2930"
+  },
+  {
+    "image_id": "image_6cb5430bf6de97d2",
+    "image_type": "synthetic",
+    "hf_annotation_id": "201"
+  },
+  {
+    "image_id": "image_6ce1c44aa810ab1d",
+    "image_type": "real",
+    "hf_annotation_id": "2933"
+  },
+  {
+    "image_id": "image_6d5b653aac8093de",
+    "image_type": "real",
+    "hf_annotation_id": "2847"
+  },
+  {
+    "image_id": "image_6dacd71e2c8452be",
+    "image_type": "synthetic",
+    "hf_annotation_id": "389"
+  },
+  {
+    "image_id": "image_6e9a4b9f6a09787f",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1745"
+  },
+  {
+    "image_id": "image_6ef273f27c8246c8",
+    "image_type": "real",
+    "hf_annotation_id": "360"
+  },
+  {
+    "image_id": "image_6f11f64a8eb196c7",
+    "image_type": "real",
+    "hf_annotation_id": "1050"
+  },
+  {
+    "image_id": "image_6f3ae185ae7c6ab6",
+    "image_type": "synthetic",
+    "hf_annotation_id": "322"
+  },
+  {
+    "image_id": "image_6f762e5caf789743",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1382"
+  },
+  {
+    "image_id": "image_6f895a713d0acd55",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1733"
+  },
+  {
+    "image_id": "image_6f9074c9cc72c15b",
+    "image_type": "synthetic",
+    "hf_annotation_id": "346"
+  },
+  {
+    "image_id": "image_6fd4f78291883925",
+    "image_type": "real",
+    "hf_annotation_id": "2932"
+  },
+  {
+    "image_id": "image_6ff5f50ac63fad4c",
+    "image_type": "real",
+    "hf_annotation_id": "424"
+  },
+  {
+    "image_id": "image_709ca5b67b9b6409",
+    "image_type": "synthetic",
+    "hf_annotation_id": "772"
+  },
+  {
+    "image_id": "image_70ae78f123fafb6c",
+    "image_type": "synthetic",
+    "hf_annotation_id": "239"
+  },
+  {
+    "image_id": "image_70b8f1c742a9b0c6",
+    "image_type": "real",
+    "hf_annotation_id": "280"
+  },
+  {
+    "image_id": "image_714b34343cd54da9",
+    "image_type": "real",
+    "hf_annotation_id": "677"
+  },
+  {
+    "image_id": "image_721f822bb00882cc",
+    "image_type": "synthetic",
+    "hf_annotation_id": "478"
+  },
+  {
+    "image_id": "image_7242088bb537f0ef",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2975"
+  },
+  {
+    "image_id": "image_7286ee3992683b40",
+    "image_type": "synthetic",
+    "hf_annotation_id": "214"
+  },
+  {
+    "image_id": "image_72a7331a0154c861",
+    "image_type": "synthetic",
+    "hf_annotation_id": "848"
+  },
+  {
+    "image_id": "image_72ad7cbdd3aced96",
+    "image_type": "real",
+    "hf_annotation_id": "550"
+  },
+  {
+    "image_id": "image_72b9cdfd42203a8d",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2965"
+  },
+  {
+    "image_id": "image_740559b3959850fc",
+    "image_type": "synthetic",
+    "hf_annotation_id": "217"
+  },
+  {
+    "image_id": "image_74d3b66648d155b4",
+    "image_type": "synthetic",
+    "hf_annotation_id": "810"
+  },
+  {
+    "image_id": "image_7620161d51c5d722",
+    "image_type": "synthetic",
+    "hf_annotation_id": "371"
+  },
+  {
+    "image_id": "image_762972be6a6f0a4c",
+    "image_type": "real",
+    "hf_annotation_id": "1424"
+  },
+  {
+    "image_id": "image_764dbf264312ecfd",
+    "image_type": "real",
+    "hf_annotation_id": "65"
+  },
+  {
+    "image_id": "image_7686cf0e2e2e0fda",
+    "image_type": "synthetic",
+    "hf_annotation_id": "72"
+  },
+  {
+    "image_id": "image_76c3bcc143107974",
+    "image_type": "real",
+    "hf_annotation_id": "1490"
+  },
+  {
+    "image_id": "image_776ce7bc79a8f5cf",
+    "image_type": "real",
+    "hf_annotation_id": "557"
+  },
+  {
+    "image_id": "image_777fefea7e81efa3",
+    "image_type": "real",
+    "hf_annotation_id": "1477"
+  },
+  {
+    "image_id": "image_778db74ae5b82b52",
+    "image_type": "synthetic",
+    "hf_annotation_id": "697"
+  },
+  {
+    "image_id": "image_779967e6f8aa9ada",
+    "image_type": "real",
+    "hf_annotation_id": "662"
+  },
+  {
+    "image_id": "image_77a13ecea571fdff",
+    "image_type": "synthetic",
+    "hf_annotation_id": "367"
+  },
+  {
+    "image_id": "image_787356419f674c0a",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1346"
+  },
+  {
+    "image_id": "image_78cceb23f19ae616",
+    "image_type": "real",
+    "hf_annotation_id": "738"
+  },
+  {
+    "image_id": "image_78ecb8c4c0b18173",
+    "image_type": "real",
+    "hf_annotation_id": "2945"
+  },
+  {
+    "image_id": "image_795e26cbe0c66f20",
+    "image_type": "synthetic",
+    "hf_annotation_id": "118"
+  },
+  {
+    "image_id": "image_7998cd875e2315d5",
+    "image_type": "real",
+    "hf_annotation_id": "700"
+  },
+  {
+    "image_id": "image_7a18e8e406dc06ca",
+    "image_type": "synthetic",
+    "hf_annotation_id": "60"
+  },
+  {
+    "image_id": "image_7a1a75c8a038c2e6",
+    "image_type": "real",
+    "hf_annotation_id": "801"
+  },
+  {
+    "image_id": "image_7a330583da90bf23",
+    "image_type": "real",
+    "hf_annotation_id": "2963"
+  },
+  {
+    "image_id": "image_7a5d411b8548967c",
+    "image_type": "real",
+    "hf_annotation_id": "1362"
+  },
+  {
+    "image_id": "image_7abe986604ce4134",
+    "image_type": "real",
+    "hf_annotation_id": "291"
+  },
+  {
+    "image_id": "image_7adfcc66222f15d5",
+    "image_type": "synthetic",
+    "hf_annotation_id": "298"
+  },
+  {
+    "image_id": "image_7b124cc7b7d650e0",
+    "image_type": "real",
+    "hf_annotation_id": "2957"
+  },
+  {
+    "image_id": "image_7b1b6ccda1d7b506",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1248"
+  },
+  {
+    "image_id": "image_7b3223b4bbc1012d",
+    "image_type": "synthetic",
+    "hf_annotation_id": "675"
+  },
+  {
+    "image_id": "image_7b34c122c007f816",
+    "image_type": "real",
+    "hf_annotation_id": "363"
+  },
+  {
+    "image_id": "image_7b876e0c76893557",
+    "image_type": "real",
+    "hf_annotation_id": "684"
+  },
+  {
+    "image_id": "image_7b901b9b74e0ea5e",
+    "image_type": "synthetic",
+    "hf_annotation_id": "314"
+  },
+  {
+    "image_id": "image_7bc1dc2d0e3e02e4",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2055"
+  },
+  {
+    "image_id": "image_7c2cf42e0a251a80",
+    "image_type": "real",
+    "hf_annotation_id": "220"
+  },
+  {
+    "image_id": "image_7c51bd50ba2d5472",
+    "image_type": "real",
+    "hf_annotation_id": "755"
+  },
+  {
+    "image_id": "image_7c9472db25f75062",
+    "image_type": "real",
+    "hf_annotation_id": "1030"
+  },
+  {
+    "image_id": "image_7c9978b2b552c9da",
+    "image_type": "synthetic",
+    "hf_annotation_id": "257"
+  },
+  {
+    "image_id": "image_7ca7eae812a74a8a",
+    "image_type": "real",
+    "hf_annotation_id": "1815"
+  },
+  {
+    "image_id": "image_7cd2d2ce5a70e7ed",
+    "image_type": "real",
+    "hf_annotation_id": "967"
+  },
+  {
+    "image_id": "image_7cf05b644284bd37",
+    "image_type": "synthetic",
+    "hf_annotation_id": "142"
+  },
+  {
+    "image_id": "image_7cf6ce6b8e1a98b3",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2934"
+  },
+  {
+    "image_id": "image_7dfa584c38fb80c1",
+    "image_type": "real",
+    "hf_annotation_id": "59"
+  },
+  {
+    "image_id": "image_7e21b91ff9ee28ff",
+    "image_type": "real",
+    "hf_annotation_id": "948"
+  },
+  {
+    "image_id": "image_7e238f3db8555cb7",
+    "image_type": "real",
+    "hf_annotation_id": "777"
+  },
+  {
+    "image_id": "image_7e555674c14dfd0c",
+    "image_type": "synthetic",
+    "hf_annotation_id": "282"
+  },
+  {
+    "image_id": "image_7e80066058959cd8",
+    "image_type": "real",
+    "hf_annotation_id": "1405"
+  },
+  {
+    "image_id": "image_7ebbe04d67d1650e",
+    "image_type": "synthetic",
+    "hf_annotation_id": "814"
+  },
+  {
+    "image_id": "image_7ee7b8b52245b3ab",
+    "image_type": "real",
+    "hf_annotation_id": "320"
+  },
+  {
+    "image_id": "image_7f70ca975270d800",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1502"
+  },
+  {
+    "image_id": "image_7fc5a23994e0606f",
+    "image_type": "synthetic",
+    "hf_annotation_id": "596"
+  },
+  {
+    "image_id": "image_7fcce821999b2d3c",
+    "image_type": "real",
+    "hf_annotation_id": "1364"
+  },
+  {
+    "image_id": "image_7fd6e84ee7c1f7c1",
+    "image_type": "synthetic",
+    "hf_annotation_id": "856"
+  },
+  {
+    "image_id": "image_7ffe1c9556855cd6",
+    "image_type": "real",
+    "hf_annotation_id": "1290"
+  },
+  {
+    "image_id": "image_802664e94aea1988",
+    "image_type": "synthetic",
+    "hf_annotation_id": "362"
+  },
+  {
+    "image_id": "image_80429531ac770940",
+    "image_type": "synthetic",
+    "hf_annotation_id": "216"
+  },
+  {
+    "image_id": "image_8043ff47ac62acb0",
+    "image_type": "real",
+    "hf_annotation_id": "94"
+  },
+  {
+    "image_id": "image_804d71348faf468a",
+    "image_type": "real",
+    "hf_annotation_id": "528"
+  },
+  {
+    "image_id": "image_807d8df932033e1a",
+    "image_type": "real",
+    "hf_annotation_id": "87"
+  },
+  {
+    "image_id": "image_808178f16728c412",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1380"
+  },
+  {
+    "image_id": "image_81a06f5656a016f3",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1155"
+  },
+  {
+    "image_id": "image_821fb608e0d0e536",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1774"
+  },
+  {
+    "image_id": "image_823809b168586f63",
+    "image_type": "real",
+    "hf_annotation_id": "224"
+  },
+  {
+    "image_id": "image_8238c06f39c14298",
+    "image_type": "real",
+    "hf_annotation_id": "698"
+  },
+  {
+    "image_id": "image_82806a8f05cd471d",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2808"
+  },
+  {
+    "image_id": "image_8304032eda4705d5",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2927"
+  },
+  {
+    "image_id": "image_832b7a07a34ab45e",
+    "image_type": "synthetic",
+    "hf_annotation_id": "598"
+  },
+  {
+    "image_id": "image_8349848b28fa6e22",
+    "image_type": "real",
+    "hf_annotation_id": "603"
+  },
+  {
+    "image_id": "image_834bff37f14bea1a",
+    "image_type": "real",
+    "hf_annotation_id": "234"
+  },
+  {
+    "image_id": "image_838875162011d4a4",
+    "image_type": "real",
+    "hf_annotation_id": "2984"
+  },
+  {
+    "image_id": "image_83c351f99c504eab",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1822"
+  },
+  {
+    "image_id": "image_83e57e7efd31553d",
+    "image_type": "real",
+    "hf_annotation_id": "1345"
+  },
+  {
+    "image_id": "image_83e64e403d588201",
+    "image_type": "synthetic",
+    "hf_annotation_id": "744"
+  },
+  {
+    "image_id": "image_8419a53fda52394c",
+    "image_type": "real",
+    "hf_annotation_id": "1478"
+  },
+  {
+    "image_id": "image_844733d11b350c3e",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1730"
+  },
+  {
+    "image_id": "image_844fa5c5b7ea5a2b",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2491"
+  },
+  {
+    "image_id": "image_857f6f4093a8c285",
+    "image_type": "real",
+    "hf_annotation_id": "385"
+  },
+  {
+    "image_id": "image_866cc8a0e5c4a638",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2926"
+  },
+  {
+    "image_id": "image_86a3bcd732db23cf",
+    "image_type": "synthetic",
+    "hf_annotation_id": "353"
+  },
+  {
+    "image_id": "image_87050286d02679c7",
+    "image_type": "real",
+    "hf_annotation_id": "1499"
+  },
+  {
+    "image_id": "image_872277088cdfc3c6",
+    "image_type": "real",
+    "hf_annotation_id": "1806"
+  },
+  {
+    "image_id": "image_87382ed9e5528bdb",
+    "image_type": "synthetic",
+    "hf_annotation_id": "394"
+  },
+  {
+    "image_id": "image_8789f01f6295d238",
+    "image_type": "real",
+    "hf_annotation_id": "29"
+  },
+  {
+    "image_id": "image_8793a87a906d555a",
+    "image_type": "synthetic",
+    "hf_annotation_id": "255"
+  },
+  {
+    "image_id": "image_87f7b399c50bcb9f",
+    "image_type": "synthetic",
+    "hf_annotation_id": "310"
+  },
+  {
+    "image_id": "image_87f9892e3f8c434a",
+    "image_type": "real",
+    "hf_annotation_id": "1242"
+  },
+  {
+    "image_id": "image_8819601ebfc59e30",
+    "image_type": "synthetic",
+    "hf_annotation_id": "203"
+  },
+  {
+    "image_id": "image_8843bbc2fceddb3f",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2904"
+  },
+  {
+    "image_id": "image_8931e5c47c1e6233",
+    "image_type": "synthetic",
+    "hf_annotation_id": "408"
+  },
+  {
+    "image_id": "image_89dece87da075031",
+    "image_type": "real",
+    "hf_annotation_id": "407"
+  },
+  {
+    "image_id": "image_8aac6f618c49a8d9",
+    "image_type": "real",
+    "hf_annotation_id": "565"
+  },
+  {
+    "image_id": "image_8af0169f9af858c6",
+    "image_type": "real",
+    "hf_annotation_id": "428"
+  },
+  {
+    "image_id": "image_8af0b9d5fad40b54",
+    "image_type": "synthetic",
+    "hf_annotation_id": "138"
+  },
+  {
+    "image_id": "image_8b0587f86517b47f",
+    "image_type": "synthetic",
+    "hf_annotation_id": "253"
+  },
+  {
+    "image_id": "image_8b113dce87c8b85b",
+    "image_type": "synthetic",
+    "hf_annotation_id": "669"
+  },
+  {
+    "image_id": "image_8b23fc8089a3b8a7",
+    "image_type": "real",
+    "hf_annotation_id": "43"
+  },
+  {
+    "image_id": "image_8b258ecb4fe0d820",
+    "image_type": "synthetic",
+    "hf_annotation_id": "430"
+  },
+  {
+    "image_id": "image_8b498853e3ee26f5",
+    "image_type": "real",
+    "hf_annotation_id": "610"
+  },
+  {
+    "image_id": "image_8b6275e472f7053a",
+    "image_type": "real",
+    "hf_annotation_id": "956"
+  },
+  {
+    "image_id": "image_8b6edbc608fa9e65",
+    "image_type": "real",
+    "hf_annotation_id": "49"
+  },
+  {
+    "image_id": "image_8ba4387ad106cd3f",
+    "image_type": "synthetic",
+    "hf_annotation_id": "147"
+  },
+  {
+    "image_id": "image_8bdf62dd54e1ab16",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1311"
+  },
+  {
+    "image_id": "image_8be8a04d9d525c39",
+    "image_type": "real",
+    "hf_annotation_id": "1191"
+  },
+  {
+    "image_id": "image_8c34abdf7ed02e2f",
+    "image_type": "real",
+    "hf_annotation_id": "455"
+  },
+  {
+    "image_id": "image_8c791d5fce806486",
+    "image_type": "real",
+    "hf_annotation_id": "1131"
+  },
+  {
+    "image_id": "image_8cab4cf9f62a441e",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2523"
+  },
+  {
+    "image_id": "image_8d01c4ffc2d8cc68",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1341"
+  },
+  {
+    "image_id": "image_8d5f51185a0044c8",
+    "image_type": "synthetic",
+    "hf_annotation_id": "106"
+  },
+  {
+    "image_id": "image_8d6e2823dcbaca2c",
+    "image_type": "synthetic",
+    "hf_annotation_id": "259"
+  },
+  {
+    "image_id": "image_8dfbef58c2093151",
+    "image_type": "real",
+    "hf_annotation_id": "1223"
+  },
+  {
+    "image_id": "image_8e960dce650e743e",
+    "image_type": "real",
+    "hf_annotation_id": "1461"
+  },
+  {
+    "image_id": "image_8ec52dc9e3c9a65a",
+    "image_type": "real",
+    "hf_annotation_id": "1150"
+  },
+  {
+    "image_id": "image_8ed71d0adb8cb3cc",
+    "image_type": "real",
+    "hf_annotation_id": "33"
+  },
+  {
+    "image_id": "image_8f4688244259ff79",
+    "image_type": "real",
+    "hf_annotation_id": "1790"
+  },
+  {
+    "image_id": "image_8f5d0117fc5d7fea",
+    "image_type": "synthetic",
+    "hf_annotation_id": "233"
+  },
+  {
+    "image_id": "image_8f85c1adabbcd7de",
+    "image_type": "synthetic",
+    "hf_annotation_id": "823"
+  },
+  {
+    "image_id": "image_8fc3b19772fe87d8",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2976"
+  },
+  {
+    "image_id": "image_8fc4ce4a715fe0ce",
+    "image_type": "synthetic",
+    "hf_annotation_id": "297"
+  },
+  {
+    "image_id": "image_9132840ef0eb5e94",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2919"
+  },
+  {
+    "image_id": "image_91381ad0da9fe58f",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1035"
+  },
+  {
+    "image_id": "image_915322bc1fac4912",
+    "image_type": "real",
+    "hf_annotation_id": "2863"
+  },
+  {
+    "image_id": "image_915751e34c3b894e",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1016"
+  },
+  {
+    "image_id": "image_916c48d6c2772d36",
+    "image_type": "synthetic",
+    "hf_annotation_id": "668"
+  },
+  {
+    "image_id": "image_9220f4629955a624",
+    "image_type": "real",
+    "hf_annotation_id": "31"
+  },
+  {
+    "image_id": "image_9238376d04ae10db",
+    "image_type": "synthetic",
+    "hf_annotation_id": "784"
+  },
+  {
+    "image_id": "image_924725e5f9371d34",
+    "image_type": "real",
+    "hf_annotation_id": "410"
+  },
+  {
+    "image_id": "image_9252d8f9d76220d0",
+    "image_type": "synthetic",
+    "hf_annotation_id": "845"
+  },
+  {
+    "image_id": "image_9291f690dffdef6c",
+    "image_type": "real",
+    "hf_annotation_id": "395"
+  },
+  {
+    "image_id": "image_92be0afd142a7e6f",
+    "image_type": "real",
+    "hf_annotation_id": "713"
+  },
+  {
+    "image_id": "image_9342c936799dc593",
+    "image_type": "real",
+    "hf_annotation_id": "912"
+  },
+  {
+    "image_id": "image_9373503e5d0c5b87",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1641"
+  },
+  {
+    "image_id": "image_93e3baed009202b3",
+    "image_type": "real",
+    "hf_annotation_id": "1167"
+  },
+  {
+    "image_id": "image_93e91bd2e1fbde20",
+    "image_type": "synthetic",
+    "hf_annotation_id": "229"
+  },
+  {
+    "image_id": "image_9430dc55b179e09c",
+    "image_type": "synthetic",
+    "hf_annotation_id": "248"
+  },
+  {
+    "image_id": "image_947a0a48551f1f48",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1051"
+  },
+  {
+    "image_id": "image_94dffb0be76536d8",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1602"
+  },
+  {
+    "image_id": "image_951769923a52d19a",
+    "image_type": "synthetic",
+    "hf_annotation_id": "48"
+  },
+  {
+    "image_id": "image_95519f7829f2f543",
+    "image_type": "synthetic",
+    "hf_annotation_id": "818"
+  },
+  {
+    "image_id": "image_95b31ba30a910d4d",
+    "image_type": "real",
+    "hf_annotation_id": "1886"
+  },
+  {
+    "image_id": "image_95b8971d0dff2399",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1157"
+  },
+  {
+    "image_id": "image_966c79bbb74f3a3d",
+    "image_type": "synthetic",
+    "hf_annotation_id": "283"
+  },
+  {
+    "image_id": "image_96a17e07339068dc",
+    "image_type": "synthetic",
+    "hf_annotation_id": "960"
+  },
+  {
+    "image_id": "image_96f8d09d00c99bbb",
+    "image_type": "synthetic",
+    "hf_annotation_id": "694"
+  },
+  {
+    "image_id": "image_971f1971dd458917",
+    "image_type": "synthetic",
+    "hf_annotation_id": "717"
+  },
+  {
+    "image_id": "image_9722f51c667a90ec",
+    "image_type": "real",
+    "hf_annotation_id": "382"
+  },
+  {
+    "image_id": "image_97964b81791e2aa0",
+    "image_type": "synthetic",
+    "hf_annotation_id": "446"
+  },
+  {
+    "image_id": "image_9799899e075831d8",
+    "image_type": "real",
+    "hf_annotation_id": "1338"
+  },
+  {
+    "image_id": "image_97a84ee1520568cb",
+    "image_type": "real",
+    "hf_annotation_id": "272"
+  },
+  {
+    "image_id": "image_97cae84ce4b8e29a",
+    "image_type": "real",
+    "hf_annotation_id": "654"
+  },
+  {
+    "image_id": "image_97ea8b2e6372f9e8",
+    "image_type": "synthetic",
+    "hf_annotation_id": "708"
+  },
+  {
+    "image_id": "image_98d87945c7f29fa7",
+    "image_type": "real",
+    "hf_annotation_id": "1142"
+  },
+  {
+    "image_id": "image_9929025cb9f6b0bd",
+    "image_type": "real",
+    "hf_annotation_id": "1246"
+  },
+  {
+    "image_id": "image_993235b8716decab",
+    "image_type": "real",
+    "hf_annotation_id": "431"
+  },
+  {
+    "image_id": "image_99d220d09561813a",
+    "image_type": "real",
+    "hf_annotation_id": "749"
+  },
+  {
+    "image_id": "image_99e067896d6ceab7",
+    "image_type": "synthetic",
+    "hf_annotation_id": "570"
+  },
+  {
+    "image_id": "image_9a0e0bfb3ffe1f31",
+    "image_type": "real",
+    "hf_annotation_id": "365"
+  },
+  {
+    "image_id": "image_9a952126f3fea11d",
+    "image_type": "real",
+    "hf_annotation_id": "588"
+  },
+  {
+    "image_id": "image_9ab28cce9cd80c5e",
+    "image_type": "real",
+    "hf_annotation_id": "2960"
+  },
+  {
+    "image_id": "image_9b128797c432aa2b",
+    "image_type": "real",
+    "hf_annotation_id": "70"
+  },
+  {
+    "image_id": "image_9b3bc816a7bcf559",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1837"
+  },
+  {
+    "image_id": "image_9b46dc937c27d119",
+    "image_type": "real",
+    "hf_annotation_id": "1"
+  },
+  {
+    "image_id": "image_9bb985951d38ff7d",
+    "image_type": "synthetic",
+    "hf_annotation_id": "93"
+  },
+  {
+    "image_id": "image_9bcad841d36aac71",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2295"
+  },
+  {
+    "image_id": "image_9c45690d2d51a935",
+    "image_type": "real",
+    "hf_annotation_id": "2508"
+  },
+  {
+    "image_id": "image_9c7132c8589a745c",
+    "image_type": "synthetic",
+    "hf_annotation_id": "442"
+  },
+  {
+    "image_id": "image_9cc2d8c281e2b10d",
+    "image_type": "synthetic",
+    "hf_annotation_id": "12"
+  },
+  {
+    "image_id": "image_9d0beccb2e72ca43",
+    "image_type": "real",
+    "hf_annotation_id": "50"
+  },
+  {
+    "image_id": "image_9d5626301cebee1f",
+    "image_type": "real",
+    "hf_annotation_id": "831"
+  },
+  {
+    "image_id": "image_9d61cda2c9e09314",
+    "image_type": "synthetic",
+    "hf_annotation_id": "554"
+  },
+  {
+    "image_id": "image_9d96ec5a72b3241d",
+    "image_type": "synthetic",
+    "hf_annotation_id": "997"
+  },
+  {
+    "image_id": "image_9dc703035ea06cc2",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1359"
+  },
+  {
+    "image_id": "image_9e11c07114b48e11",
+    "image_type": "synthetic",
+    "hf_annotation_id": "309"
+  },
+  {
+    "image_id": "image_9e78b1de25f5a0ab",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1360"
+  },
+  {
+    "image_id": "image_9e8142f6a04c4af7",
+    "image_type": "real",
+    "hf_annotation_id": "1305"
+  },
+  {
+    "image_id": "image_9ec784bdbbbf4532",
+    "image_type": "real",
+    "hf_annotation_id": "908"
+  },
+  {
+    "image_id": "image_9f0812e171db424f",
+    "image_type": "real",
+    "hf_annotation_id": "1310"
+  },
+  {
+    "image_id": "image_9f2080bcc2b8634e",
+    "image_type": "real",
+    "hf_annotation_id": "1511"
+  },
+  {
+    "image_id": "image_9f2fcd8f1c4dd10e",
+    "image_type": "synthetic",
+    "hf_annotation_id": "246"
+  },
+  {
+    "image_id": "image_9f532cca18f9fc0d",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1503"
+  },
+  {
+    "image_id": "image_9f5f1e60014e7ac1",
+    "image_type": "real",
+    "hf_annotation_id": "984"
+  },
+  {
+    "image_id": "image_9f9ccc0f95d0f376",
+    "image_type": "synthetic",
+    "hf_annotation_id": "595"
+  },
+  {
+    "image_id": "image_a0248437f0d491d4",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2925"
+  },
+  {
+    "image_id": "image_a029d88980827537",
+    "image_type": "real",
+    "hf_annotation_id": "2404"
+  },
+  {
+    "image_id": "image_a0d8a23f669df42d",
+    "image_type": "real",
+    "hf_annotation_id": "2866"
+  },
+  {
+    "image_id": "image_a0ff5f7be799909e",
+    "image_type": "real",
+    "hf_annotation_id": "68"
+  },
+  {
+    "image_id": "image_a1252b9356e6f158",
+    "image_type": "real",
+    "hf_annotation_id": "635"
+  },
+  {
+    "image_id": "image_a151af82541b9c11",
+    "image_type": "synthetic",
+    "hf_annotation_id": "987"
+  },
+  {
+    "image_id": "image_a161fa932e880756",
+    "image_type": "real",
+    "hf_annotation_id": "1734"
+  },
+  {
+    "image_id": "image_a1cdfb6e5d87dafe",
+    "image_type": "real",
+    "hf_annotation_id": "30"
+  },
+  {
+    "image_id": "image_a1e32789de9c3ff0",
+    "image_type": "real",
+    "hf_annotation_id": "2993"
+  },
+  {
+    "image_id": "image_a29753e1e5f9e432",
+    "image_type": "real",
+    "hf_annotation_id": "611"
+  },
+  {
+    "image_id": "image_a2f4fd963ab0ccfd",
+    "image_type": "synthetic",
+    "hf_annotation_id": "815"
+  },
+  {
+    "image_id": "image_a32cb1c46e7ea87e",
+    "image_type": "real",
+    "hf_annotation_id": "2497"
+  },
+  {
+    "image_id": "image_a332f91296502911",
+    "image_type": "real",
+    "hf_annotation_id": "2001"
+  },
+  {
+    "image_id": "image_a35c0ad73ff96d44",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2916"
+  },
+  {
+    "image_id": "image_a38d58f58de2a941",
+    "image_type": "real",
+    "hf_annotation_id": "7"
+  },
+  {
+    "image_id": "image_a38f174103be0a8f",
+    "image_type": "real",
+    "hf_annotation_id": "240"
+  },
+  {
+    "image_id": "image_a39e78c91bd8d479",
+    "image_type": "synthetic",
+    "hf_annotation_id": "64"
+  },
+  {
+    "image_id": "image_a3b14c8ac796b038",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2448"
+  },
+  {
+    "image_id": "image_a3d65547df048ea7",
+    "image_type": "synthetic",
+    "hf_annotation_id": "958"
+  },
+  {
+    "image_id": "image_a3dec74fe4c62f4e",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2902"
+  },
+  {
+    "image_id": "image_a46d75b916eee3fb",
+    "image_type": "real",
+    "hf_annotation_id": "441"
+  },
+  {
+    "image_id": "image_a4ab6514228bfbc2",
+    "image_type": "real",
+    "hf_annotation_id": "242"
+  },
+  {
+    "image_id": "image_a4f29fd4b464ed39",
+    "image_type": "real",
+    "hf_annotation_id": "369"
+  },
+  {
+    "image_id": "image_a50a0d3d216f3904",
+    "image_type": "real",
+    "hf_annotation_id": "2998"
+  },
+  {
+    "image_id": "image_a58b3f18a950a669",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2468"
+  },
+  {
+    "image_id": "image_a5cb14d5bf6bd109",
+    "image_type": "real",
+    "hf_annotation_id": "304"
+  },
+  {
+    "image_id": "image_a5ffa9a8fcb5f34d",
+    "image_type": "real",
+    "hf_annotation_id": "1323"
+  },
+  {
+    "image_id": "image_a60dbc858d56dca9",
+    "image_type": "synthetic",
+    "hf_annotation_id": "109"
+  },
+  {
+    "image_id": "image_a6164a809d177a39",
+    "image_type": "synthetic",
+    "hf_annotation_id": "402"
+  },
+  {
+    "image_id": "image_a6536698406e769e",
+    "image_type": "synthetic",
+    "hf_annotation_id": "80"
+  },
+  {
+    "image_id": "image_a67837aa191d8c4d",
+    "image_type": "synthetic",
+    "hf_annotation_id": "439"
+  },
+  {
+    "image_id": "image_a69d7a7557c74567",
+    "image_type": "synthetic",
+    "hf_annotation_id": "735"
+  },
+  {
+    "image_id": "image_a6a0a93ff7cb151a",
+    "image_type": "real",
+    "hf_annotation_id": "2989"
+  },
+  {
+    "image_id": "image_a6d326610046c6f7",
+    "image_type": "real",
+    "hf_annotation_id": "292"
+  },
+  {
+    "image_id": "image_a7555ac4aad4c4da",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2988"
+  },
+  {
+    "image_id": "image_a777cac38b9b4ed1",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1777"
+  },
+  {
+    "image_id": "image_a7c02608528d78e3",
+    "image_type": "synthetic",
+    "hf_annotation_id": "97"
+  },
+  {
+    "image_id": "image_a8044e0b7b4b7d8c",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2973"
+  },
+  {
+    "image_id": "image_a827d620c628a325",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1245"
+  },
+  {
+    "image_id": "image_a8365a12d07dad8e",
+    "image_type": "synthetic",
+    "hf_annotation_id": "638"
+  },
+  {
+    "image_id": "image_a83e3a8d7bb99dfb",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1032"
+  },
+  {
+    "image_id": "image_a845ec1e43ba384a",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1504"
+  },
+  {
+    "image_id": "image_a84a463ec1348c1d",
+    "image_type": "real",
+    "hf_annotation_id": "319"
+  },
+  {
+    "image_id": "image_a874c73a38311756",
+    "image_type": "synthetic",
+    "hf_annotation_id": "996"
+  },
+  {
+    "image_id": "image_a8bf582239acdbdc",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1704"
+  },
+  {
+    "image_id": "image_a8e5ed6c981b5e09",
+    "image_type": "real",
+    "hf_annotation_id": "525"
+  },
+  {
+    "image_id": "image_a99c368f6bf1b939",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1427"
+  },
+  {
+    "image_id": "image_a99f912d0da1e3e2",
+    "image_type": "real",
+    "hf_annotation_id": "786"
+  },
+  {
+    "image_id": "image_a9c0fa93249f45e4",
+    "image_type": "synthetic",
+    "hf_annotation_id": "260"
+  },
+  {
+    "image_id": "image_aa322d98222965af",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1128"
+  },
+  {
+    "image_id": "image_aa74c0d7cd5b2c80",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1133"
+  },
+  {
+    "image_id": "image_ab5629fb8c1bc1f9",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2964"
+  },
+  {
+    "image_id": "image_ab82db34694e4692",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1215"
+  },
+  {
+    "image_id": "image_ab889d3814546c33",
+    "image_type": "real",
+    "hf_annotation_id": "123"
+  },
+  {
+    "image_id": "image_abe0a6c2f01ed862",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1367"
+  },
+  {
+    "image_id": "image_ac2a89d408543d1f",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1476"
+  },
+  {
+    "image_id": "image_ac387ada54c91fb4",
+    "image_type": "real",
+    "hf_annotation_id": "573"
+  },
+  {
+    "image_id": "image_ac977edfb30eddd4",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2991"
+  },
+  {
+    "image_id": "image_acaa741fbae960f1",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1276"
+  },
+  {
+    "image_id": "image_acc6a9af5ff35da6",
+    "image_type": "real",
+    "hf_annotation_id": "522"
+  },
+  {
+    "image_id": "image_ad6bbd9a9f9e4aa6",
+    "image_type": "real",
+    "hf_annotation_id": "2269"
+  },
+  {
+    "image_id": "image_ae582c4acb41ab21",
+    "image_type": "synthetic",
+    "hf_annotation_id": "957"
+  },
+  {
+    "image_id": "image_ae69d24238defbd4",
+    "image_type": "real",
+    "hf_annotation_id": "444"
+  },
+  {
+    "image_id": "image_ae776b2e25d2794c",
+    "image_type": "synthetic",
+    "hf_annotation_id": "223"
+  },
+  {
+    "image_id": "image_ae7be70606979d39",
+    "image_type": "synthetic",
+    "hf_annotation_id": "619"
+  },
+  {
+    "image_id": "image_ae8b173874622c65",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1187"
+  },
+  {
+    "image_id": "image_ae96b1f3b9a92b9f",
+    "image_type": "real",
+    "hf_annotation_id": "2670"
+  },
+  {
+    "image_id": "image_aece57ce897a4617",
+    "image_type": "real",
+    "hf_annotation_id": "1737"
+  },
+  {
+    "image_id": "image_aee4b4f41b450f3c",
+    "image_type": "real",
+    "hf_annotation_id": "67"
+  },
+  {
+    "image_id": "image_aef41ba6a3453fbb",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1002"
+  },
+  {
+    "image_id": "image_af03b147b6772248",
+    "image_type": "real",
+    "hf_annotation_id": "380"
+  },
+  {
+    "image_id": "image_af5ae3cf86e95d06",
+    "image_type": "real",
+    "hf_annotation_id": "112"
+  },
+  {
+    "image_id": "image_af6521854232b582",
+    "image_type": "real",
+    "hf_annotation_id": "2947"
+  },
+  {
+    "image_id": "image_afa42b7858e68c90",
+    "image_type": "synthetic",
+    "hf_annotation_id": "252"
+  },
+  {
+    "image_id": "image_b03bc0b6df8b683d",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1064"
+  },
+  {
+    "image_id": "image_b06dddee57f53a50",
+    "image_type": "real",
+    "hf_annotation_id": "32"
+  },
+  {
+    "image_id": "image_b077e8f7f7dd646a",
+    "image_type": "synthetic",
+    "hf_annotation_id": "329"
+  },
+  {
+    "image_id": "image_b09595c1299bb96f",
+    "image_type": "real",
+    "hf_annotation_id": "822"
+  },
+  {
+    "image_id": "image_b0d5c56906731414",
+    "image_type": "real",
+    "hf_annotation_id": "71"
+  },
+  {
+    "image_id": "image_b0f483d3cad55638",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1640"
+  },
+  {
+    "image_id": "image_b1047120b200e9c2",
+    "image_type": "real",
+    "hf_annotation_id": "107"
+  },
+  {
+    "image_id": "image_b14566dc05eb627a",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1086"
+  },
+  {
+    "image_id": "image_b181b00eedf9824e",
+    "image_type": "synthetic",
+    "hf_annotation_id": "919"
+  },
+  {
+    "image_id": "image_b1a8503e0f861a92",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1307"
+  },
+  {
+    "image_id": "image_b1bcf900c067e298",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1127"
+  },
+  {
+    "image_id": "image_b1be43c031b81032",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1869"
+  },
+  {
+    "image_id": "image_b20a70cd093c987f",
+    "image_type": "real",
+    "hf_annotation_id": "413"
+  },
+  {
+    "image_id": "image_b215c0b2ee410065",
+    "image_type": "real",
+    "hf_annotation_id": "2905"
+  },
+  {
+    "image_id": "image_b286f008a7adc526",
+    "image_type": "synthetic",
+    "hf_annotation_id": "101"
+  },
+  {
+    "image_id": "image_b29fbf20e35b850d",
+    "image_type": "real",
+    "hf_annotation_id": "1171"
+  },
+  {
+    "image_id": "image_b3986ceece92ccd7",
+    "image_type": "real",
+    "hf_annotation_id": "1260"
+  },
+  {
+    "image_id": "image_b41279b9e1668707",
+    "image_type": "synthetic",
+    "hf_annotation_id": "200"
+  },
+  {
+    "image_id": "image_b41c296130632f92",
+    "image_type": "synthetic",
+    "hf_annotation_id": "860"
+  },
+  {
+    "image_id": "image_b45a25db87238e70",
+    "image_type": "real",
+    "hf_annotation_id": "488"
+  },
+  {
+    "image_id": "image_b48296ec58e12a77",
+    "image_type": "synthetic",
+    "hf_annotation_id": "580"
+  },
+  {
+    "image_id": "image_b49e5d6ca69aefbc",
+    "image_type": "real",
+    "hf_annotation_id": "1287"
+  },
+  {
+    "image_id": "image_b4b261fd49c43563",
+    "image_type": "synthetic",
+    "hf_annotation_id": "27"
+  },
+  {
+    "image_id": "image_b4c9125237b5bc45",
+    "image_type": "real",
+    "hf_annotation_id": "2620"
+  },
+  {
+    "image_id": "image_b4d2a0af80d91766",
+    "image_type": "real",
+    "hf_annotation_id": "105"
+  },
+  {
+    "image_id": "image_b4d59771aaa47572",
+    "image_type": "real",
+    "hf_annotation_id": "1098"
+  },
+  {
+    "image_id": "image_b518feb34a5dc701",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2922"
+  },
+  {
+    "image_id": "image_b52dd15d1549126b",
+    "image_type": "real",
+    "hf_annotation_id": "393"
+  },
+  {
+    "image_id": "image_b54bd3c81e8dcfb4",
+    "image_type": "real",
+    "hf_annotation_id": "2986"
+  },
+  {
+    "image_id": "image_b55b07311916609e",
+    "image_type": "synthetic",
+    "hf_annotation_id": "473"
+  },
+  {
+    "image_id": "image_b6e8831ebe8c1ca4",
+    "image_type": "real",
+    "hf_annotation_id": "1189"
+  },
+  {
+    "image_id": "image_b724c439793cff70",
+    "image_type": "real",
+    "hf_annotation_id": "74"
+  },
+  {
+    "image_id": "image_b75243d96bfc1a70",
+    "image_type": "synthetic",
+    "hf_annotation_id": "356"
+  },
+  {
+    "image_id": "image_b79c0aab54431638",
+    "image_type": "real",
+    "hf_annotation_id": "924"
+  },
+  {
+    "image_id": "image_b79d995b06930b78",
+    "image_type": "real",
+    "hf_annotation_id": "325"
+  },
+  {
+    "image_id": "image_b7bcda50d92acd4e",
+    "image_type": "real",
+    "hf_annotation_id": "2931"
+  },
+  {
+    "image_id": "image_b7ef86193aaa18aa",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2913"
+  },
+  {
+    "image_id": "image_b8280db56f1981ca",
+    "image_type": "real",
+    "hf_annotation_id": "1434"
+  },
+  {
+    "image_id": "image_b86ac2c05d0f3858",
+    "image_type": "real",
+    "hf_annotation_id": "77"
+  },
+  {
+    "image_id": "image_b87816e6c6cd16d6",
+    "image_type": "real",
+    "hf_annotation_id": "2943"
+  },
+  {
+    "image_id": "image_b8f99187ff6923d6",
+    "image_type": "synthetic",
+    "hf_annotation_id": "372"
+  },
+  {
+    "image_id": "image_b94985bce285207c",
+    "image_type": "real",
+    "hf_annotation_id": "670"
+  },
+  {
+    "image_id": "image_b98e9f829707be61",
+    "image_type": "synthetic",
+    "hf_annotation_id": "693"
+  },
+  {
+    "image_id": "image_b9d22c2a266d0e4f",
+    "image_type": "synthetic",
+    "hf_annotation_id": "135"
+  },
+  {
+    "image_id": "image_b9fe23303af83d92",
+    "image_type": "synthetic",
+    "hf_annotation_id": "792"
+  },
+  {
+    "image_id": "image_ba7ac9cd0e36c49c",
+    "image_type": "synthetic",
+    "hf_annotation_id": "704"
+  },
+  {
+    "image_id": "image_bac136908eca3cce",
+    "image_type": "real",
+    "hf_annotation_id": "1496"
+  },
+  {
+    "image_id": "image_baf18328c8cd95d5",
+    "image_type": "real",
+    "hf_annotation_id": "1140"
+  },
+  {
+    "image_id": "image_bb08b6771b257217",
+    "image_type": "synthetic",
+    "hf_annotation_id": "574"
+  },
+  {
+    "image_id": "image_bb2b66264df95dda",
+    "image_type": "synthetic",
+    "hf_annotation_id": "959"
+  },
+  {
+    "image_id": "image_bb3e0ad416b89e11",
+    "image_type": "real",
+    "hf_annotation_id": "2200"
+  },
+  {
+    "image_id": "image_bb54b6fe8a854d97",
+    "image_type": "synthetic",
+    "hf_annotation_id": "45"
+  },
+  {
+    "image_id": "image_bb7b1e7483566a51",
+    "image_type": "real",
+    "hf_annotation_id": "285"
+  },
+  {
+    "image_id": "image_bb7b7abf75748adb",
+    "image_type": "real",
+    "hf_annotation_id": "340"
+  },
+  {
+    "image_id": "image_bbc09843c28a0431",
+    "image_type": "synthetic",
+    "hf_annotation_id": "149"
+  },
+  {
+    "image_id": "image_bbec4409575c929b",
+    "image_type": "real",
+    "hf_annotation_id": "1097"
+  },
+  {
+    "image_id": "image_bc33e2e8e4d1f799",
+    "image_type": "synthetic",
+    "hf_annotation_id": "210"
+  },
+  {
+    "image_id": "image_bccf3fa7b9d2aac0",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1147"
+  },
+  {
+    "image_id": "image_bd54c794c22efc82",
+    "image_type": "real",
+    "hf_annotation_id": "631"
+  },
+  {
+    "image_id": "image_bd75e29b782bc67e",
+    "image_type": "real",
+    "hf_annotation_id": "36"
+  },
+  {
+    "image_id": "image_bd92a7726ddd6b35",
+    "image_type": "real",
+    "hf_annotation_id": "41"
+  },
+  {
+    "image_id": "image_bde1cc2385d0a30e",
+    "image_type": "synthetic",
+    "hf_annotation_id": "256"
+  },
+  {
+    "image_id": "image_be8ed81b6942aac7",
+    "image_type": "real",
+    "hf_annotation_id": "321"
+  },
+  {
+    "image_id": "image_be93635662c9ea3e",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1435"
+  },
+  {
+    "image_id": "image_bee93a0c90c63f6d",
+    "image_type": "real",
+    "hf_annotation_id": "807"
+  },
+  {
+    "image_id": "image_bf3688150b2b143b",
+    "image_type": "real",
+    "hf_annotation_id": "1109"
+  },
+  {
+    "image_id": "image_bf423dda4fa60eb3",
+    "image_type": "synthetic",
+    "hf_annotation_id": "468"
+  },
+  {
+    "image_id": "image_bf8a2696809d2838",
+    "image_type": "real",
+    "hf_annotation_id": "25"
+  },
+  {
+    "image_id": "image_c0f06edc2053d5dd",
+    "image_type": "real",
+    "hf_annotation_id": "748"
+  },
+  {
+    "image_id": "image_c1077a455c8cf4c5",
+    "image_type": "synthetic",
+    "hf_annotation_id": "616"
+  },
+  {
+    "image_id": "image_c195729f97c3b249",
+    "image_type": "synthetic",
+    "hf_annotation_id": "592"
+  },
+  {
+    "image_id": "image_c1eb49bba4ed56db",
+    "image_type": "real",
+    "hf_annotation_id": "480"
+  },
+  {
+    "image_id": "image_c2363034934ae893",
+    "image_type": "real",
+    "hf_annotation_id": "674"
+  },
+  {
+    "image_id": "image_c24a53be01618cea",
+    "image_type": "real",
+    "hf_annotation_id": "759"
+  },
+  {
+    "image_id": "image_c253ef5af7753816",
+    "image_type": "real",
+    "hf_annotation_id": "866"
+  },
+  {
+    "image_id": "image_c282f741262ff606",
+    "image_type": "synthetic",
+    "hf_annotation_id": "284"
+  },
+  {
+    "image_id": "image_c2ad9cddb02b84aa",
+    "image_type": "synthetic",
+    "hf_annotation_id": "207"
+  },
+  {
+    "image_id": "image_c2dbda3696810706",
+    "image_type": "real",
+    "hf_annotation_id": "1780"
+  },
+  {
+    "image_id": "image_c30f5496cd280938",
+    "image_type": "real",
+    "hf_annotation_id": "90"
+  },
+  {
+    "image_id": "image_c3477d24f78ae250",
+    "image_type": "real",
+    "hf_annotation_id": "151"
+  },
+  {
+    "image_id": "image_c34b1069f6df32f7",
+    "image_type": "real",
+    "hf_annotation_id": "276"
+  },
+  {
+    "image_id": "image_c368417a2763aa0f",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1485"
+  },
+  {
+    "image_id": "image_c36b4d1e893920e2",
+    "image_type": "real",
+    "hf_annotation_id": "2908"
+  },
+  {
+    "image_id": "image_c49ec81b5083f379",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1386"
+  },
+  {
+    "image_id": "image_c4de06c848a7163a",
+    "image_type": "real",
+    "hf_annotation_id": "571"
+  },
+  {
+    "image_id": "image_c4ea23bc1a4f3ddc",
+    "image_type": "synthetic",
+    "hf_annotation_id": "51"
+  },
+  {
+    "image_id": "image_c4f2a566caade961",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1760"
+  },
+  {
+    "image_id": "image_c52f3fa600e23f2e",
+    "image_type": "synthetic",
+    "hf_annotation_id": "133"
+  },
+  {
+    "image_id": "image_c55c582ea7138ca9",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1261"
+  },
+  {
+    "image_id": "image_c66b7887a7be3b1f",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1163"
+  },
+  {
+    "image_id": "image_c67b6a2cf61fc583",
+    "image_type": "synthetic",
+    "hf_annotation_id": "741"
+  },
+  {
+    "image_id": "image_c6b76f710557e76d",
+    "image_type": "synthetic",
+    "hf_annotation_id": "17"
+  },
+  {
+    "image_id": "image_c718fb9fdb05aafb",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2948"
+  },
+  {
+    "image_id": "image_c74d5ed7e1a3fadd",
+    "image_type": "real",
+    "hf_annotation_id": "1011"
+  },
+  {
+    "image_id": "image_c7c530fc910002b1",
+    "image_type": "synthetic",
+    "hf_annotation_id": "82"
+  },
+  {
+    "image_id": "image_c7f649b78a87495e",
+    "image_type": "synthetic",
+    "hf_annotation_id": "608"
+  },
+  {
+    "image_id": "image_c8efd439c8bd098e",
+    "image_type": "synthetic",
+    "hf_annotation_id": "591"
+  },
+  {
+    "image_id": "image_c90b593b7acbea27",
+    "image_type": "real",
+    "hf_annotation_id": "1403"
+  },
+  {
+    "image_id": "image_c96c49be9a2f9600",
+    "image_type": "real",
+    "hf_annotation_id": "2936"
+  },
+  {
+    "image_id": "image_c98a8bbf41b28237",
+    "image_type": "synthetic",
+    "hf_annotation_id": "604"
+  },
+  {
+    "image_id": "image_ca57000e18a582b7",
+    "image_type": "real",
+    "hf_annotation_id": "497"
+  },
+  {
+    "image_id": "image_cb05ba9b8c2e3f94",
+    "image_type": "real",
+    "hf_annotation_id": "906"
+  },
+  {
+    "image_id": "image_cb380a59f43174df",
+    "image_type": "real",
+    "hf_annotation_id": "2496"
+  },
+  {
+    "image_id": "image_cb3a5b03cbeefa64",
+    "image_type": "synthetic",
+    "hf_annotation_id": "148"
+  },
+  {
+    "image_id": "image_cb5ff6c41652a3dc",
+    "image_type": "synthetic",
+    "hf_annotation_id": "618"
+  },
+  {
+    "image_id": "image_cb91785d1e6b70d8",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2944"
+  },
+  {
+    "image_id": "image_cb96b5e9ea80b1eb",
+    "image_type": "real",
+    "hf_annotation_id": "121"
+  },
+  {
+    "image_id": "image_cbc26d3588a44871",
+    "image_type": "synthetic",
+    "hf_annotation_id": "593"
+  },
+  {
+    "image_id": "image_cbd3be307a0779ba",
+    "image_type": "synthetic",
+    "hf_annotation_id": "358"
+  },
+  {
+    "image_id": "image_cbd4508b42bcd047",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1720"
+  },
+  {
+    "image_id": "image_cbebb5b8fec1e1f0",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1464"
+  },
+  {
+    "image_id": "image_cbf01c511491b271",
+    "image_type": "real",
+    "hf_annotation_id": "1014"
+  },
+  {
+    "image_id": "image_cc3047fd13f8578f",
+    "image_type": "real",
+    "hf_annotation_id": "1181"
+  },
+  {
+    "image_id": "image_cc7e888d8d9beec6",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1302"
+  },
+  {
+    "image_id": "image_cc846b7c4a3e602a",
+    "image_type": "synthetic",
+    "hf_annotation_id": "332"
+  },
+  {
+    "image_id": "image_ccc8cc977926b8a1",
+    "image_type": "synthetic",
+    "hf_annotation_id": "805"
+  },
+  {
+    "image_id": "image_ccd39d296bc8515d",
+    "image_type": "real",
+    "hf_annotation_id": "1432"
+  },
+  {
+    "image_id": "image_cd55ea6a9e3e96c8",
+    "image_type": "real",
+    "hf_annotation_id": "327"
+  },
+  {
+    "image_id": "image_cd879f6d9cfb5a31",
+    "image_type": "synthetic",
+    "hf_annotation_id": "294"
+  },
+  {
+    "image_id": "image_cdbf03f62eac3254",
+    "image_type": "real",
+    "hf_annotation_id": "1286"
+  },
+  {
+    "image_id": "image_cdca77e3556fae97",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1316"
+  },
+  {
+    "image_id": "image_ce2e19bfb0ad2d79",
+    "image_type": "synthetic",
+    "hf_annotation_id": "61"
+  },
+  {
+    "image_id": "image_ce5c0e502145d250",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1458"
+  },
+  {
+    "image_id": "image_ce7f6c36288435f3",
+    "image_type": "real",
+    "hf_annotation_id": "2977"
+  },
+  {
+    "image_id": "image_cee99a3159cbfc9c",
+    "image_type": "real",
+    "hf_annotation_id": "262"
+  },
+  {
+    "image_id": "image_cf22fe958e28ee65",
+    "image_type": "real",
+    "hf_annotation_id": "447"
+  },
+  {
+    "image_id": "image_cfa4d927712197c6",
+    "image_type": "real",
+    "hf_annotation_id": "533"
+  },
+  {
+    "image_id": "image_cfdc05e3453a8a22",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1861"
+  },
+  {
+    "image_id": "image_cff4099fd02eee4f",
+    "image_type": "real",
+    "hf_annotation_id": "746"
+  },
+  {
+    "image_id": "image_cff40baf47cf6207",
+    "image_type": "real",
+    "hf_annotation_id": "903"
+  },
+  {
+    "image_id": "image_d00e8f6c80afb0b9",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1769"
+  },
+  {
+    "image_id": "image_d01f77ef2d323561",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2981"
+  },
+  {
+    "image_id": "image_d0230984442f314c",
+    "image_type": "real",
+    "hf_annotation_id": "561"
+  },
+  {
+    "image_id": "image_d02623657401e3be",
+    "image_type": "real",
+    "hf_annotation_id": "116"
+  },
+  {
+    "image_id": "image_d03657c3b3dd1d38",
+    "image_type": "real",
+    "hf_annotation_id": "622"
+  },
+  {
+    "image_id": "image_d0837b37605fe891",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2969"
+  },
+  {
+    "image_id": "image_d0ce6e778e5bf106",
+    "image_type": "real",
+    "hf_annotation_id": "652"
+  },
+  {
+    "image_id": "image_d175427e0956d0ee",
+    "image_type": "real",
+    "hf_annotation_id": "53"
+  },
+  {
+    "image_id": "image_d19e39f76fc6bc4d",
+    "image_type": "real",
+    "hf_annotation_id": "846"
+  },
+  {
+    "image_id": "image_d1f2853874325efb",
+    "image_type": "synthetic",
+    "hf_annotation_id": "718"
+  },
+  {
+    "image_id": "image_d1ff30cf8eb6932c",
+    "image_type": "real",
+    "hf_annotation_id": "627"
+  },
+  {
+    "image_id": "image_d231c3ebe975bf8e",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2426"
+  },
+  {
+    "image_id": "image_d2ba4ca684833b7c",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2474"
+  },
+  {
+    "image_id": "image_d2ccc500b87bfb35",
+    "image_type": "synthetic",
+    "hf_annotation_id": "609"
+  },
+  {
+    "image_id": "image_d30f88f37cf447f1",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1332"
+  },
+  {
+    "image_id": "image_d360cafa092efe43",
+    "image_type": "real",
+    "hf_annotation_id": "2979"
+  },
+  {
+    "image_id": "image_d377f70d3747ce53",
+    "image_type": "real",
+    "hf_annotation_id": "18"
+  },
+  {
+    "image_id": "image_d3c86141c5003ae4",
+    "image_type": "synthetic",
+    "hf_annotation_id": "337"
+  },
+  {
+    "image_id": "image_d49bf2167ab5f238",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2251"
+  },
+  {
+    "image_id": "image_d52286eba03d7694",
+    "image_type": "real",
+    "hf_annotation_id": "316"
+  },
+  {
+    "image_id": "image_d537569bd80133fe",
+    "image_type": "real",
+    "hf_annotation_id": "14"
+  },
+  {
+    "image_id": "image_d6024ee0bf243c34",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1292"
+  },
+  {
+    "image_id": "image_d617a3680853fcf8",
+    "image_type": "synthetic",
+    "hf_annotation_id": "544"
+  },
+  {
+    "image_id": "image_d6593a5c379dc7d9",
+    "image_type": "synthetic",
+    "hf_annotation_id": "122"
+  },
+  {
+    "image_id": "image_d68e4d708caa3e7a",
+    "image_type": "real",
+    "hf_annotation_id": "361"
+  },
+  {
+    "image_id": "image_d6a95846564bcd61",
+    "image_type": "real",
+    "hf_annotation_id": "102"
+  },
+  {
+    "image_id": "image_d6c641814ba8ba3c",
+    "image_type": "real",
+    "hf_annotation_id": "998"
+  },
+  {
+    "image_id": "image_d6d7f57624730dfb",
+    "image_type": "real",
+    "hf_annotation_id": "505"
+  },
+  {
+    "image_id": "image_d758d7dfb7022391",
+    "image_type": "synthetic",
+    "hf_annotation_id": "139"
+  },
+  {
+    "image_id": "image_d79de44a10529339",
+    "image_type": "synthetic",
+    "hf_annotation_id": "736"
+  },
+  {
+    "image_id": "image_d8f76559ff2a3e7a",
+    "image_type": "real",
+    "hf_annotation_id": "26"
+  },
+  {
+    "image_id": "image_d9b77331625f841e",
+    "image_type": "real",
+    "hf_annotation_id": "729"
+  },
+  {
+    "image_id": "image_db9542e456468751",
+    "image_type": "real",
+    "hf_annotation_id": "686"
+  },
+  {
+    "image_id": "image_dbccbbe24ee11b45",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1337"
+  },
+  {
+    "image_id": "image_dbd957c2f3966d64",
+    "image_type": "synthetic",
+    "hf_annotation_id": "299"
+  },
+  {
+    "image_id": "image_dc38a903fda71b22",
+    "image_type": "synthetic",
+    "hf_annotation_id": "279"
+  },
+  {
+    "image_id": "image_dc3cb5a60c23b570",
+    "image_type": "real",
+    "hf_annotation_id": "1480"
+  },
+  {
+    "image_id": "image_dc80552532c60fb0",
+    "image_type": "real",
+    "hf_annotation_id": "584"
+  },
+  {
+    "image_id": "image_dc9b5bb041c089a3",
+    "image_type": "real",
+    "hf_annotation_id": "411"
+  },
+  {
+    "image_id": "image_dca464974fcac801",
+    "image_type": "real",
+    "hf_annotation_id": "2552"
+  },
+  {
+    "image_id": "image_dcc31d7b990c9165",
+    "image_type": "real",
+    "hf_annotation_id": "2951"
+  },
+  {
+    "image_id": "image_dd0aa5e592e52033",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1094"
+  },
+  {
+    "image_id": "image_dd86654cad9696db",
+    "image_type": "synthetic",
+    "hf_annotation_id": "336"
+  },
+  {
+    "image_id": "image_ddb0453a956ca576",
+    "image_type": "synthetic",
+    "hf_annotation_id": "785"
+  },
+  {
+    "image_id": "image_ddb6e03c6d678d86",
+    "image_type": "synthetic",
+    "hf_annotation_id": "750"
+  },
+  {
+    "image_id": "image_dddfcdbd86c88e40",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1029"
+  },
+  {
+    "image_id": "image_de07eb2204c07d04",
+    "image_type": "synthetic",
+    "hf_annotation_id": "81"
+  },
+  {
+    "image_id": "image_de3ab05cd8cc45b8",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1786"
+  },
+  {
+    "image_id": "image_de569f64e8b4481e",
+    "image_type": "synthetic",
+    "hf_annotation_id": "273"
+  },
+  {
+    "image_id": "image_de6ad9ae71bbf707",
+    "image_type": "real",
+    "hf_annotation_id": "1716"
+  },
+  {
+    "image_id": "image_de8b3072f31772bd",
+    "image_type": "real",
+    "hf_annotation_id": "568"
+  },
+  {
+    "image_id": "image_dea52cd539ce6360",
+    "image_type": "synthetic",
+    "hf_annotation_id": "218"
+  },
+  {
+    "image_id": "image_dee6fe946748f3e4",
+    "image_type": "synthetic",
+    "hf_annotation_id": "345"
+  },
+  {
+    "image_id": "image_dfaf003e453e1a5e",
+    "image_type": "synthetic",
+    "hf_annotation_id": "290"
+  },
+  {
+    "image_id": "image_dffc69b82ef5b914",
+    "image_type": "real",
+    "hf_annotation_id": "2606"
+  },
+  {
+    "image_id": "image_e0220ab9cae652f8",
+    "image_type": "real",
+    "hf_annotation_id": "2983"
+  },
+  {
+    "image_id": "image_e0234fe4cabac390",
+    "image_type": "real",
+    "hf_annotation_id": "983"
+  },
+  {
+    "image_id": "image_e02e2a90066f554b",
+    "image_type": "real",
+    "hf_annotation_id": "1408"
+  },
+  {
+    "image_id": "image_e0945dba2d828f2b",
+    "image_type": "real",
+    "hf_annotation_id": "600"
+  },
+  {
+    "image_id": "image_e105d2e961b8e7d5",
+    "image_type": "real",
+    "hf_annotation_id": "690"
+  },
+  {
+    "image_id": "image_e118fd0a52065ee2",
+    "image_type": "synthetic",
+    "hf_annotation_id": "140"
+  },
+  {
+    "image_id": "image_e15bb02fe1170cce",
+    "image_type": "real",
+    "hf_annotation_id": "1025"
+  },
+  {
+    "image_id": "image_e1d80a58ac94540f",
+    "image_type": "real",
+    "hf_annotation_id": "590"
+  },
+  {
+    "image_id": "image_e1eb8409317af0a4",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1797"
+  },
+  {
+    "image_id": "image_e224206dc01ce273",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1417"
+  },
+  {
+    "image_id": "image_e283f629d4a48c11",
+    "image_type": "synthetic",
+    "hf_annotation_id": "696"
+  },
+  {
+    "image_id": "image_e356df768d63ab34",
+    "image_type": "real",
+    "hf_annotation_id": "1120"
+  },
+  {
+    "image_id": "image_e3bf0fb83018a055",
+    "image_type": "real",
+    "hf_annotation_id": "302"
+  },
+  {
+    "image_id": "image_e3ceb01dd59cae71",
+    "image_type": "synthetic",
+    "hf_annotation_id": "420"
+  },
+  {
+    "image_id": "image_e43edc3fcbaea5f8",
+    "image_type": "real",
+    "hf_annotation_id": "281"
+  },
+  {
+    "image_id": "image_e4755676db4b0263",
+    "image_type": "real",
+    "hf_annotation_id": "496"
+  },
+  {
+    "image_id": "image_e4bba2858537e589",
+    "image_type": "real",
+    "hf_annotation_id": "1714"
+  },
+  {
+    "image_id": "image_e4edb25bbbedd736",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2237"
+  },
+  {
+    "image_id": "image_e4f4dba80ebe9ef8",
+    "image_type": "synthetic",
+    "hf_annotation_id": "586"
+  },
+  {
+    "image_id": "image_e5527586894f188c",
+    "image_type": "real",
+    "hf_annotation_id": "641"
+  },
+  {
+    "image_id": "image_e5607688031102f2",
+    "image_type": "real",
+    "hf_annotation_id": "523"
+  },
+  {
+    "image_id": "image_e569498530459076",
+    "image_type": "synthetic",
+    "hf_annotation_id": "723"
+  },
+  {
+    "image_id": "image_e5f4fe51f6d074ba",
+    "image_type": "synthetic",
+    "hf_annotation_id": "517"
+  },
+  {
+    "image_id": "image_e65b9249fb0141c7",
+    "image_type": "real",
+    "hf_annotation_id": "98"
+  },
+  {
+    "image_id": "image_e65c6229947ff86d",
+    "image_type": "real",
+    "hf_annotation_id": "54"
+  },
+  {
+    "image_id": "image_e6a462c54626dfd8",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2912"
+  },
+  {
+    "image_id": "image_e6bf463b3d6b8116",
+    "image_type": "real",
+    "hf_annotation_id": "95"
+  },
+  {
+    "image_id": "image_e709ca32e696f93d",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1390"
+  },
+  {
+    "image_id": "image_e7182825713b85ee",
+    "image_type": "real",
+    "hf_annotation_id": "802"
+  },
+  {
+    "image_id": "image_e76c9c8034a5590e",
+    "image_type": "real",
+    "hf_annotation_id": "24"
+  },
+  {
+    "image_id": "image_e80f9c6fb7a2f283",
+    "image_type": "real",
+    "hf_annotation_id": "642"
+  },
+  {
+    "image_id": "image_e8547e026e13fcb8",
+    "image_type": "synthetic",
+    "hf_annotation_id": "28"
+  },
+  {
+    "image_id": "image_e978da49ade60905",
+    "image_type": "real",
+    "hf_annotation_id": "312"
+  },
+  {
+    "image_id": "image_e9e93fcb371520ec",
+    "image_type": "real",
+    "hf_annotation_id": "1198"
+  },
+  {
+    "image_id": "image_ea057b1d932bb8fe",
+    "image_type": "synthetic",
+    "hf_annotation_id": "23"
+  },
+  {
+    "image_id": "image_ea50f05a91c944f8",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1247"
+  },
+  {
+    "image_id": "image_ea76e08eef126940",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1418"
+  },
+  {
+    "image_id": "image_eae5179f24d5e51b",
+    "image_type": "synthetic",
+    "hf_annotation_id": "6"
+  },
+  {
+    "image_id": "image_eb3597e6bd090508",
+    "image_type": "synthetic",
+    "hf_annotation_id": "562"
+  },
+  {
+    "image_id": "image_eb38438ff233e74d",
+    "image_type": "synthetic",
+    "hf_annotation_id": "110"
+  },
+  {
+    "image_id": "image_eb7bc3899553de11",
+    "image_type": "real",
+    "hf_annotation_id": "5"
+  },
+  {
+    "image_id": "image_eb7f448364073863",
+    "image_type": "synthetic",
+    "hf_annotation_id": "250"
+  },
+  {
+    "image_id": "image_ebd848d17b08b0e1",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2942"
+  },
+  {
+    "image_id": "image_ec5267799e5e52a4",
+    "image_type": "synthetic",
+    "hf_annotation_id": "518"
+  },
+  {
+    "image_id": "image_ecf4f303ab15f28c",
+    "image_type": "synthetic",
+    "hf_annotation_id": "482"
+  },
+  {
+    "image_id": "image_edb515f7b29d9392",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2424"
+  },
+  {
+    "image_id": "image_eeb28882c7bf4a24",
+    "image_type": "real",
+    "hf_annotation_id": "1813"
+  },
+  {
+    "image_id": "image_ef1a1363b6950c67",
+    "image_type": "real",
+    "hf_annotation_id": "370"
+  },
+  {
+    "image_id": "image_ef205b7caf50480a",
+    "image_type": "real",
+    "hf_annotation_id": "113"
+  },
+  {
+    "image_id": "image_ef4065e77927e3ea",
+    "image_type": "real",
+    "hf_annotation_id": "722"
+  },
+  {
+    "image_id": "image_ef836892b0eecdcc",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1492"
+  },
+  {
+    "image_id": "image_ef879f2a55056221",
+    "image_type": "synthetic",
+    "hf_annotation_id": "927"
+  },
+  {
+    "image_id": "image_efc5e0158c54e038",
+    "image_type": "real",
+    "hf_annotation_id": "475"
+  },
+  {
+    "image_id": "image_f0ae01b5fb581f45",
+    "image_type": "real",
+    "hf_annotation_id": "2635"
+  },
+  {
+    "image_id": "image_f0bb2d62f4b0cad2",
+    "image_type": "synthetic",
+    "hf_annotation_id": "747"
+  },
+  {
+    "image_id": "image_f12514742b3bd22d",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2407"
+  },
+  {
+    "image_id": "image_f126bbe8909db07b",
+    "image_type": "synthetic",
+    "hf_annotation_id": "477"
+  },
+  {
+    "image_id": "image_f137c13ff84a37e4",
+    "image_type": "real",
+    "hf_annotation_id": "264"
+  },
+  {
+    "image_id": "image_f1e8a290ffe563fb",
+    "image_type": "synthetic",
+    "hf_annotation_id": "62"
+  },
+  {
+    "image_id": "image_f20f0ad3c3eba714",
+    "image_type": "synthetic",
+    "hf_annotation_id": "152"
+  },
+  {
+    "image_id": "image_f219a89520376468",
+    "image_type": "real",
+    "hf_annotation_id": "493"
+  },
+  {
+    "image_id": "image_f255a554dcf683e7",
+    "image_type": "synthetic",
+    "hf_annotation_id": "354"
+  },
+  {
+    "image_id": "image_f2577e1df3e60ead",
+    "image_type": "synthetic",
+    "hf_annotation_id": "275"
+  },
+  {
+    "image_id": "image_f2c5504fd1573e35",
+    "image_type": "real",
+    "hf_annotation_id": "950"
+  },
+  {
+    "image_id": "image_f2dd1a343b3b2c73",
+    "image_type": "real",
+    "hf_annotation_id": "2857"
+  },
+  {
+    "image_id": "image_f2ea24ec14dc1ff6",
+    "image_type": "real",
+    "hf_annotation_id": "1385"
+  },
+  {
+    "image_id": "image_f2eb1c0fed792ae7",
+    "image_type": "real",
+    "hf_annotation_id": "532"
+  },
+  {
+    "image_id": "image_f30218623b135e38",
+    "image_type": "synthetic",
+    "hf_annotation_id": "443"
+  },
+  {
+    "image_id": "image_f3307f3ff8889bcc",
+    "image_type": "synthetic",
+    "hf_annotation_id": "479"
+  },
+  {
+    "image_id": "image_f33a6c71609c724d",
+    "image_type": "synthetic",
+    "hf_annotation_id": "127"
+  },
+  {
+    "image_id": "image_f3d6afd4883c67bc",
+    "image_type": "synthetic",
+    "hf_annotation_id": "307"
+  },
+  {
+    "image_id": "image_f3e347a7a80cbd65",
+    "image_type": "real",
+    "hf_annotation_id": "921"
+  },
+  {
+    "image_id": "image_f3f8e00099b89fd0",
+    "image_type": "real",
+    "hf_annotation_id": "485"
+  },
+  {
+    "image_id": "image_f4165e048aafc3e4",
+    "image_type": "real",
+    "hf_annotation_id": "2909"
+  },
+  {
+    "image_id": "image_f4ee16e47fa2ca20",
+    "image_type": "synthetic",
+    "hf_annotation_id": "351"
+  },
+  {
+    "image_id": "image_f4eea79b6301bcfc",
+    "image_type": "real",
+    "hf_annotation_id": "278"
+  },
+  {
+    "image_id": "image_f572e66b56e0e6dc",
+    "image_type": "real",
+    "hf_annotation_id": "2219"
+  },
+  {
+    "image_id": "image_f5a600b95b6f5bf4",
+    "image_type": "real",
+    "hf_annotation_id": "486"
+  },
+  {
+    "image_id": "image_f5ba86afd0155178",
+    "image_type": "real",
+    "hf_annotation_id": "56"
+  },
+  {
+    "image_id": "image_f5dc7caf4bfe724f",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2970"
+  },
+  {
+    "image_id": "image_f5f2868499ebb04a",
+    "image_type": "real",
+    "hf_annotation_id": "1872"
+  },
+  {
+    "image_id": "image_f60916a106a15711",
+    "image_type": "real",
+    "hf_annotation_id": "917"
+  },
+  {
+    "image_id": "image_f618ee5c7f2e9902",
+    "image_type": "real",
+    "hf_annotation_id": "614"
+  },
+  {
+    "image_id": "image_f6dc64f7400b02db",
+    "image_type": "real",
+    "hf_annotation_id": "1911"
+  },
+  {
+    "image_id": "image_f71a2be7ea1b76d7",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1517"
+  },
+  {
+    "image_id": "image_f74c10407ad92ad3",
+    "image_type": "real",
+    "hf_annotation_id": "20"
+  },
+  {
+    "image_id": "image_f76b054f85f695f9",
+    "image_type": "real",
+    "hf_annotation_id": "1702"
+  },
+  {
+    "image_id": "image_f7724d2ce966bb66",
+    "image_type": "synthetic",
+    "hf_annotation_id": "456"
+  },
+  {
+    "image_id": "image_f7876dc99445c9a0",
+    "image_type": "real",
+    "hf_annotation_id": "100"
+  },
+  {
+    "image_id": "image_f80e950b527f858c",
+    "image_type": "real",
+    "hf_annotation_id": "301"
+  },
+  {
+    "image_id": "image_f84186ef916b1b28",
+    "image_type": "real",
+    "hf_annotation_id": "154"
+  },
+  {
+    "image_id": "image_f866c887d2cfde14",
+    "image_type": "synthetic",
+    "hf_annotation_id": "495"
+  },
+  {
+    "image_id": "image_f872d56e800e3eac",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2442"
+  },
+  {
+    "image_id": "image_f8b9ada255285425",
+    "image_type": "synthetic",
+    "hf_annotation_id": "293"
+  },
+  {
+    "image_id": "image_f8cb822d4469dc57",
+    "image_type": "synthetic",
+    "hf_annotation_id": "0"
+  },
+  {
+    "image_id": "image_f8cce6ef5341e297",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1486"
+  },
+  {
+    "image_id": "image_f91f5e318da3b887",
+    "image_type": "real",
+    "hf_annotation_id": "16"
+  },
+  {
+    "image_id": "image_f964e42129157b29",
+    "image_type": "real",
+    "hf_annotation_id": "1753"
+  },
+  {
+    "image_id": "image_f98a6a5b5695709c",
+    "image_type": "synthetic",
+    "hf_annotation_id": "531"
+  },
+  {
+    "image_id": "image_f9ad92e3ae33f801",
+    "image_type": "synthetic",
+    "hf_annotation_id": "265"
+  },
+  {
+    "image_id": "image_fa2f48d27edf80c4",
+    "image_type": "real",
+    "hf_annotation_id": "1836"
+  },
+  {
+    "image_id": "image_fa8e267514d7fe9d",
+    "image_type": "synthetic",
+    "hf_annotation_id": "10"
+  },
+  {
+    "image_id": "image_fac1eb128565642b",
+    "image_type": "synthetic",
+    "hf_annotation_id": "392"
+  },
+  {
+    "image_id": "image_fad995e3cc7beae6",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1222"
+  },
+  {
+    "image_id": "image_fb1f9d4130bf338a",
+    "image_type": "real",
+    "hf_annotation_id": "1439"
+  },
+  {
+    "image_id": "image_fb89653dbe575e47",
+    "image_type": "real",
+    "hf_annotation_id": "1111"
+  },
+  {
+    "image_id": "image_fb91f79e3b5a9f21",
+    "image_type": "real",
+    "hf_annotation_id": "375"
+  },
+  {
+    "image_id": "image_fbc13b13dbebd3c3",
+    "image_type": "real",
+    "hf_annotation_id": "469"
+  },
+  {
+    "image_id": "image_fc4c6a76fc33073c",
+    "image_type": "synthetic",
+    "hf_annotation_id": "2481"
+  },
+  {
+    "image_id": "image_fc50b001e9867558",
+    "image_type": "real",
+    "hf_annotation_id": "832"
+  },
+  {
+    "image_id": "image_fc7ca0633ba4e97e",
+    "image_type": "real",
+    "hf_annotation_id": "760"
+  },
+  {
+    "image_id": "image_fce25602fc82bb3f",
+    "image_type": "real",
+    "hf_annotation_id": "587"
+  },
+  {
+    "image_id": "image_fd0e22c88e2ec000",
+    "image_type": "real",
+    "hf_annotation_id": "270"
+  },
+  {
+    "image_id": "image_fe18ffbe2b4c7d00",
+    "image_type": "real",
+    "hf_annotation_id": "231"
+  },
+  {
+    "image_id": "image_fe8b70bdc93e12f0",
+    "image_type": "real",
+    "hf_annotation_id": "96"
+  },
+  {
+    "image_id": "image_fea8cacc66e9321b",
+    "image_type": "synthetic",
+    "hf_annotation_id": "225"
+  },
+  {
+    "image_id": "image_feaaef3216dd6168",
+    "image_type": "synthetic",
+    "hf_annotation_id": "211"
+  },
+  {
+    "image_id": "image_ff5fa6e3c4035597",
+    "image_type": "synthetic",
+    "hf_annotation_id": "352"
+  },
+  {
+    "image_id": "image_ff8114cabfd0677e",
+    "image_type": "real",
+    "hf_annotation_id": "1725"
+  },
+  {
+    "image_id": "image_ff930640aa36e6f5",
+    "image_type": "synthetic",
+    "hf_annotation_id": "1312"
+  }
+]

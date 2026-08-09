@@ -1,0 +1,244 @@
+{
+  "models": [
+    {
+      "model": "gemini2.5flash",
+      "slices": {
+        "synthetic": {
+          "policy_file": "FIgemini2.5flash.json",
+          "expected_verdict": "fake",
+          "correct": 234,
+          "total": 500,
+          "parsed": 500,
+          "unparsed": 0,
+          "accuracy": 0.468
+        },
+        "real": {
+          "policy_file": "RIgemini2.5flash.json",
+          "expected_verdict": "real",
+          "correct": 484,
+          "total": 500,
+          "parsed": 500,
+          "unparsed": 0,
+          "accuracy": 0.968
+        }
+      },
+      "overall": {
+        "correct": 718,
+        "total": 1000,
+        "parsed": 1000,
+        "unparsed": 0,
+        "accuracy": 0.718
+      }
+    },
+    {
+      "model": "gemini2.5pro",
+      "slices": {
+        "synthetic": {
+          "policy_file": "FIgemini2.5pro.json",
+          "expected_verdict": "fake",
+          "correct": 279,
+          "total": 500,
+          "parsed": 500,
+          "unparsed": 0,
+          "accuracy": 0.558
+        },
+        "real": {
+          "policy_file": "RIgemini2.5pro.json",
+          "expected_verdict": "real",
+          "correct": 495,
+          "total": 500,
+          "parsed": 500,
+          "unparsed": 0,
+          "accuracy": 0.99
+        }
+      },
+      "overall": {
+        "correct": 774,
+        "total": 1000,
+        "parsed": 1000,
+        "unparsed": 0,
+        "accuracy": 0.774
+      }
+    },
+    {
+      "model": "gemma3n",
+      "slices": {
+        "synthetic": {
+          "policy_file": "FIgemma3n.json",
+          "expected_verdict": "fake",
+          "correct": 90,
+          "total": 500,
+          "parsed": 500,
+          "unparsed": 0,
+          "accuracy": 0.18
+        },
+        "real": {
+          "policy_file": "RIgemma3n.json",
+          "expected_verdict": "real",
+          "correct": 488,
+          "total": 500,
+          "parsed": 500,
+          "unparsed": 0,
+          "accuracy": 0.976
+        }
+      },
+      "overall": {
+        "correct": 578,
+        "total": 1000,
+        "parsed": 1000,
+        "unparsed": 0,
+        "accuracy": 0.578
+      }
+    },
+    {
+      "model": "gpt4o",
+      "slices": {
+        "synthetic": {
+          "policy_file": "FIgpt4o.json",
+          "expected_verdict": "fake",
+          "correct": 427,
+          "total": 500,
+          "parsed": 496,
+          "unparsed": 4,
+          "accuracy": 0.854
+        },
+        "real": {
+          "policy_file": "RIgpt4o.json",
+          "expected_verdict": "real",
+          "correct": 308,
+          "total": 500,
+          "parsed": 499,
+          "unparsed": 1,
+          "accuracy": 0.616
+        }
+      },
+      "overall": {
+        "correct": 735,
+        "total": 1000,
+        "parsed": 995,
+        "unparsed": 5,
+        "accuracy": 0.735
+      }
+    },
+    {
+      "model": "gpt5.5",
+      "slices": {
+        "synthetic": {
+          "policy_file": "FIgpt5.5.json",
+          "expected_verdict": "fake",
+          "correct": 467,
+          "total": 500,
+          "parsed": 500,
+          "unparsed": 0,
+          "accuracy": 0.934
+        },
+        "real": {
+          "policy_file": "RIgpt5.5.json",
+          "expected_verdict": "real",
+          "correct": 461,
+          "total": 500,
+          "parsed": 500,
+          "unparsed": 0,
+          "accuracy": 0.922
+        }
+      },
+      "overall": {
+        "correct": 928,
+        "total": 1000,
+        "parsed": 1000,
+        "unparsed": 0,
+        "accuracy": 0.928
+      }
+    },
+    {
+      "model": "o3",
+      "slices": {
+        "synthetic": {
+          "policy_file": "FIo3.json",
+          "expected_verdict": "fake",
+          "correct": 358,
+          "total": 500,
+          "parsed": 496,
+          "unparsed": 4,
+          "accuracy": 0.716
+        },
+        "real": {
+          "policy_file": "RIo3.json",
+          "expected_verdict": "real",
+          "correct": 487,
+          "total": 500,
+          "parsed": 499,
+          "unparsed": 1,
+          "accuracy": 0.974
+        }
+      },
+      "overall": {
+        "correct": 845,
+        "total": 1000,
+        "parsed": 995,
+        "unparsed": 5,
+        "accuracy": 0.845
+      }
+    },
+    {
+      "model": "qwen2.53B",
+      "slices": {
+        "synthetic": {
+          "policy_file": "FIqwen2.53B.json",
+          "expected_verdict": "fake",
+          "correct": 192,
+          "total": 500,
+          "parsed": 500,
+          "unparsed": 0,
+          "accuracy": 0.384
+        },
+        "real": {
+          "policy_file": "RIqwen2.53B.json",
+          "expected_verdict": "real",
+          "correct": 455,
+          "total": 500,
+          "parsed": 500,
+          "unparsed": 0,
+          "accuracy": 0.91
+        }
+      },
+      "overall": {
+        "correct": 647,
+        "total": 1000,
+        "parsed": 1000,
+        "unparsed": 0,
+        "accuracy": 0.647
+      }
+    },
+    {
+      "model": "qwen2.57B",
+      "slices": {
+        "synthetic": {
+          "policy_file": "FIqwen2.57B.json",
+          "expected_verdict": "fake",
+          "correct": 30,
+          "total": 500,
+          "parsed": 500,
+          "unparsed": 0,
+          "accuracy": 0.06
+        },
+        "real": {
+          "policy_file": "RIqwen2.57B.json",
+          "expected_verdict": "real",
+          "correct": 487,
+          "total": 500,
+          "parsed": 494,
+          "unparsed": 6,
+          "accuracy": 0.974
+        }
+      },
+      "overall": {
+        "correct": 517,
+        "total": 1000,
+        "parsed": 994,
+        "unparsed": 6,
+        "accuracy": 0.517
+      }
+    }
+  ]
+}

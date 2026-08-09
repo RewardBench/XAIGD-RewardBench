@@ -1,0 +1,2978 @@
+[
+  {
+    "example_id": "img_0398549ff490a523",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "both_bad"
+  },
+  {
+    "example_id": "img_0a41459cde0d2efb",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_13cdfbea99f9d241",
+    "evaluator": "gemini2.5pro",
+    "winner": "base_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_13ff2191b1edd207",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "tie"
+  },
+  {
+    "example_id": "img_185339fcf0657ec6",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_198e2c5f88a7ec91",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "both_bad"
+  },
+  {
+    "example_id": "img_19f3e1e7c478a03d",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_1ca4b49d08a1824a",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "both_bad"
+  },
+  {
+    "example_id": "img_201f621578236141",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_239fd22841d73d2d",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "both_bad"
+  },
+  {
+    "example_id": "img_27b3e7aeff29dce4",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_2b4839678b802aef",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_33ec0599b556b59c",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "both_bad"
+  },
+  {
+    "example_id": "img_34722382f87aa91e",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "both_bad"
+  },
+  {
+    "example_id": "img_3546a76afbafb36b",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_38ed6417e0509d2e",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_3aea5c62e314c614",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_3dbcf585f92df647",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "both_bad"
+  },
+  {
+    "example_id": "img_417de751ba7c9e5f",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "both_bad"
+  },
+  {
+    "example_id": "img_41f7a713590b8c48",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "both_bad"
+  },
+  {
+    "example_id": "img_43d9a6e249b15823",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "tie"
+  },
+  {
+    "example_id": "img_49685baaf50340aa",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_4cd8a9d407e42eef",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_4d9680820078ec3f",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_4f1700704b8068bf",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_514ee78a1276de9c",
+    "evaluator": "gemini2.5pro",
+    "winner": "base_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_52715f76b169e70a",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_5386484e24e64f92",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "both_bad"
+  },
+  {
+    "example_id": "img_53ed9c5ea93d3171",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "both_bad"
+  },
+  {
+    "example_id": "img_54c6189d46d7fd94",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "tie"
+  },
+  {
+    "example_id": "img_55a0703ed98ed1e7",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "both_bad"
+  },
+  {
+    "example_id": "img_588497d7ad1db95a",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_5a42f6ff38037e3c",
+    "evaluator": "gemini2.5pro",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_5af17a315c268c50",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "both_bad"
+  },
+  {
+    "example_id": "img_5bc9769476869ce4",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_61f78ac42a855b7d",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "both_bad"
+  },
+  {
+    "example_id": "img_64c50f89a8fa9c10",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_670820e80972b9ae",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "both_bad"
+  },
+  {
+    "example_id": "img_682494f5d8542b04",
+    "evaluator": "gemini2.5pro",
+    "winner": "base_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_6ce0bb3dc7c5cf3c",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_6ce1c5b5cddba0d4",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "both_bad"
+  },
+  {
+    "example_id": "img_6da1d27660c04156",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_6e3b6746c2d5c73c",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_6fa7ae7f9a8dd28f",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "both_bad"
+  },
+  {
+    "example_id": "img_712c6ee74e51ad12",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_7426fa7f988f827b",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_7b897478ed1f4256",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_7e3465a6067bd855",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_7fc55c1fa84fdfe4",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "both_bad"
+  },
+  {
+    "example_id": "img_855510c19704d614",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "both_bad"
+  },
+  {
+    "example_id": "img_86f6a7579838d302",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "both_bad"
+  },
+  {
+    "example_id": "img_8855458eb64e6088",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "both_bad"
+  },
+  {
+    "example_id": "img_887e8d6df32c6144",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "both_bad"
+  },
+  {
+    "example_id": "img_89385f9a39eff1a9",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_89d91c98b5452410",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "both_bad"
+  },
+  {
+    "example_id": "img_8cd80913f6282354",
+    "evaluator": "gemini2.5pro",
+    "winner": "base_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_8dfc5722a970d059",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "both_bad"
+  },
+  {
+    "example_id": "img_92335f083f0b3542",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_930c8081f538b04b",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_933efcf9f8d744b3",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "both_bad"
+  },
+  {
+    "example_id": "img_95e0467ae52a24d9",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_9713b80d39a65cea",
+    "evaluator": "gemini2.5pro",
+    "winner": "base_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_9873ec28adc47d2f",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "both_bad"
+  },
+  {
+    "example_id": "img_9e0286f52343a256",
+    "evaluator": "gemini2.5pro",
+    "winner": "base_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_a23d9cf50f9522b8",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_a8710c2086b0f88b",
+    "evaluator": "gemini2.5pro",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_a929f6921bff78e2",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "both_bad"
+  },
+  {
+    "example_id": "img_aa7251585a0458bd",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "tie"
+  },
+  {
+    "example_id": "img_aaa1299ac23fc640",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_ab24739d644fbea1",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_b129ddd52c1fd963",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_b31556decd80e0f7",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "both_bad"
+  },
+  {
+    "example_id": "img_b31fb43688be2559",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_b3cf44825390f539",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_b68e21b70f79afb5",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_b9bd485437d0856d",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "both_bad"
+  },
+  {
+    "example_id": "img_bd833c9e7b6bfeb5",
+    "evaluator": "gemini2.5pro",
+    "winner": "base_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_c1013e1817de8474",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_c421adb8a7ddf114",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "both_bad"
+  },
+  {
+    "example_id": "img_c441d3e609cf679a",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "both_bad"
+  },
+  {
+    "example_id": "img_cb643b98b29fb019",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_cc543ad52d8f1067",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "both_bad"
+  },
+  {
+    "example_id": "img_cd8d276f4671f746",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_cdce695e08bad1b8",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_d11483760b7ee4fd",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_d3d74a3d148aaa41",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_d9aa62b153fc8afe",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "both_bad"
+  },
+  {
+    "example_id": "img_de2c26def4cd9007",
+    "evaluator": "gemini2.5pro",
+    "winner": "base_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_df5bb7c5f84ec639",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "tie"
+  },
+  {
+    "example_id": "img_e25419a6257f2195",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "both_bad"
+  },
+  {
+    "example_id": "img_e45d625d0a05837b",
+    "evaluator": "gemini2.5pro",
+    "winner": "base_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_eda8d8e0820956de",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "tie"
+  },
+  {
+    "example_id": "img_eeb9323f501a7fd7",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "tie"
+  },
+  {
+    "example_id": "img_f1772e1d06f102fa",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_f3d9fa2847033b76",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_f77ca95d72ec06b5",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_f7f72efef7dad567",
+    "evaluator": "gemini2.5pro",
+    "winner": "base_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_f8eb04c4be37596f",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_f9747ba176f1fc82",
+    "evaluator": "gemini2.5pro",
+    "winner": "base_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_fc8b9886873dc9ad",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_0369976092d1fdf8",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_08ca41f8db512974",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_09bb2728e609fc83",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_0b60879c9006f2c4",
+    "evaluator": "gemini2.5pro",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_0c9ff28888793c90",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_0fcceaabacfced2f",
+    "evaluator": "gemini2.5pro",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_110855bf91276dad",
+    "evaluator": "gemini2.5pro",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_14149db7a3d41c02",
+    "evaluator": "gemini2.5pro",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_1572af176b255458",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_15e17580d07abe30",
+    "evaluator": "gemini2.5pro",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_17eac6c2b4b4575b",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_2610a33f1de6ec46",
+    "evaluator": "gemini2.5pro",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_26982555d7d8a0c8",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_26eb498dfd6d816c",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_29a3f4175b873bb4",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_2adcd0f7c2a6c9b5",
+    "evaluator": "gemini2.5pro",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_2d2bf734f63df836",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_2ed14a302ac153bf",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_35cec877374d80f2",
+    "evaluator": "gemini2.5pro",
+    "winner": "base_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_38b979995a95b4c9",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_3c108e9e3199619f",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_3d68f9610a794d86",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_3e312c7e11fc4bf5",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_3f19e89b13419822",
+    "evaluator": "gemini2.5pro",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_40d545d8a25ab031",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_461e2614cddd6ec5",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "tie"
+  },
+  {
+    "example_id": "img_4d401eac20304b1c",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_5051cc697095e0bf",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_50876356981419d0",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_509a06cc8ab3e0bc",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_550deda6f711a193",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_55c412fbc3e58a16",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_58dfa9c235cf1c27",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_5df216ee63c7c47b",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_67fe082a229d23c6",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_6a5e0eb7bb0da50f",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_6e241c38d39250f6",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "tie"
+  },
+  {
+    "example_id": "img_6fbad872f6fb1752",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_737236e71de9aaab",
+    "evaluator": "gemini2.5pro",
+    "winner": "base_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_73e0b15e8c2288dd",
+    "evaluator": "gemini2.5pro",
+    "winner": "base_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_748b3e38902ab40d",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_74f85b9aa38514e1",
+    "evaluator": "gemini2.5pro",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_768b119208f5c216",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "tie"
+  },
+  {
+    "example_id": "img_78d88f2ad57e3489",
+    "evaluator": "gemini2.5pro",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_7ec78821ab38519e",
+    "evaluator": "gemini2.5pro",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_7fa6adc119e3f9e2",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_837e2ac6c380a727",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "both_bad"
+  },
+  {
+    "example_id": "img_8399e41695c3061d",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_884aee33687d893f",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "both_bad"
+  },
+  {
+    "example_id": "img_8931d2bfab972e4f",
+    "evaluator": "gemini2.5pro",
+    "winner": "base_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_8b0aeea959f6c2a4",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_8c3ce5849c7206bb",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_8deefdf141dab74a",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_8f8302484d01952e",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_91db76717d4836d4",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_91fa1b5fb86a409f",
+    "evaluator": "gemini2.5pro",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_9565d4a973092cce",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_98211f8943d62ef7",
+    "evaluator": "gemini2.5pro",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_9d54b958f5da23c2",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_9da78a94162c2408",
+    "evaluator": "gemini2.5pro",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_9f1f3060cc34c0ef",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_9fd7ce29758c486c",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_9ffc83dd351a1a05",
+    "evaluator": "gemini2.5pro",
+    "winner": "base_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_a2fbc7e35a07b389",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_a33989400926b041",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_a8a5e55eadbe9b9a",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_aa8771c91ca22118",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_ab384871d631ce7a",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_acacd9e99d49038b",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_ad3d457cb79757e9",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_ae9c67ec03f67b51",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_b1781f51d4559c8c",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_b9eab6fecf255ec7",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "both_bad"
+  },
+  {
+    "example_id": "img_bb612dd5be10469e",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "both_bad"
+  },
+  {
+    "example_id": "img_c534e68ac753f7c1",
+    "evaluator": "gemini2.5pro",
+    "winner": "base_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_c5962fe855b1b869",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "both_bad"
+  },
+  {
+    "example_id": "img_c6e06f5eab5d0719",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_c932f3a661c504f0",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_c969212eca314612",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_cd32456de5b42d38",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_d30ce31749c37d38",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_d4e6e6e0d3c7a885",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_d8d4f24035844174",
+    "evaluator": "gemini2.5pro",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_dbf44c45ecdad9bd",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_dbf501ff1af368a0",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "both_bad"
+  },
+  {
+    "example_id": "img_dc558f91ebd7e457",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_dd7e1cd73a910ab9",
+    "evaluator": "gemini2.5pro",
+    "winner": "neutral",
+    "choice": "both_bad"
+  },
+  {
+    "example_id": "img_e20cbf08eb2959be",
+    "evaluator": "gemini2.5pro",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_e5587d2c41bbe245",
+    "evaluator": "gemini2.5pro",
+    "winner": "base_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_e5f760431e4d62e5",
+    "evaluator": "gemini2.5pro",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_e611d1563188af47",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_e84f4fd2e165a693",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_eb301d15614d5379",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_f4714373e9f14332",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_f6eb11293091f159",
+    "evaluator": "gemini2.5pro",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_f999b9b664259b4f",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_fbbeaeb1b367cf59",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_fbf34bdee7ca4b2b",
+    "evaluator": "gemini2.5pro",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_fc264dfe0dd8a119",
+    "evaluator": "gemini2.5pro",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_fe662cf73a6acf22",
+    "evaluator": "gemini2.5pro",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_0398549ff490a523",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_0a41459cde0d2efb",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_13cdfbea99f9d241",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_13ff2191b1edd207",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_185339fcf0657ec6",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_198e2c5f88a7ec91",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_19f3e1e7c478a03d",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_1ca4b49d08a1824a",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_201f621578236141",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_239fd22841d73d2d",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_27b3e7aeff29dce4",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_2b4839678b802aef",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_33ec0599b556b59c",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_34722382f87aa91e",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_3546a76afbafb36b",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_38ed6417e0509d2e",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_3aea5c62e314c614",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_3dbcf585f92df647",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_417de751ba7c9e5f",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_41f7a713590b8c48",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_43d9a6e249b15823",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_49685baaf50340aa",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_4cd8a9d407e42eef",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_4d9680820078ec3f",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_4f1700704b8068bf",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_514ee78a1276de9c",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_52715f76b169e70a",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_5386484e24e64f92",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_53ed9c5ea93d3171",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_54c6189d46d7fd94",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_55a0703ed98ed1e7",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_588497d7ad1db95a",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_5a42f6ff38037e3c",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_5af17a315c268c50",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_5bc9769476869ce4",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_61f78ac42a855b7d",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_64c50f89a8fa9c10",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_670820e80972b9ae",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_682494f5d8542b04",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_6ce0bb3dc7c5cf3c",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_6ce1c5b5cddba0d4",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_6da1d27660c04156",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_6e3b6746c2d5c73c",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_6fa7ae7f9a8dd28f",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_712c6ee74e51ad12",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_7426fa7f988f827b",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_7b897478ed1f4256",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_7e3465a6067bd855",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_7fc55c1fa84fdfe4",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_855510c19704d614",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_86f6a7579838d302",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_8855458eb64e6088",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_887e8d6df32c6144",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_89385f9a39eff1a9",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_89d91c98b5452410",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_8cd80913f6282354",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_8dfc5722a970d059",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_92335f083f0b3542",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_930c8081f538b04b",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_933efcf9f8d744b3",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_95e0467ae52a24d9",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_9713b80d39a65cea",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_9873ec28adc47d2f",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_9e0286f52343a256",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_a23d9cf50f9522b8",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_a8710c2086b0f88b",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_a929f6921bff78e2",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_aa7251585a0458bd",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_aaa1299ac23fc640",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_ab24739d644fbea1",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_b129ddd52c1fd963",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_b31556decd80e0f7",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_b31fb43688be2559",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_b3cf44825390f539",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_b68e21b70f79afb5",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_b9bd485437d0856d",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_bd833c9e7b6bfeb5",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_c1013e1817de8474",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_c421adb8a7ddf114",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_c441d3e609cf679a",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_cb643b98b29fb019",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_cc543ad52d8f1067",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_cd8d276f4671f746",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_cdce695e08bad1b8",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_d11483760b7ee4fd",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_d3d74a3d148aaa41",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_d9aa62b153fc8afe",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_de2c26def4cd9007",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_df5bb7c5f84ec639",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_e25419a6257f2195",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_e45d625d0a05837b",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_eda8d8e0820956de",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_eeb9323f501a7fd7",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_f1772e1d06f102fa",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_f3d9fa2847033b76",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_f77ca95d72ec06b5",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_f7f72efef7dad567",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_f8eb04c4be37596f",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_f9747ba176f1fc82",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_fc8b9886873dc9ad",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_0369976092d1fdf8",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_08ca41f8db512974",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_09bb2728e609fc83",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_0b60879c9006f2c4",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_0c9ff28888793c90",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_0fcceaabacfced2f",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_110855bf91276dad",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_14149db7a3d41c02",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_1572af176b255458",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_15e17580d07abe30",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_17eac6c2b4b4575b",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_2610a33f1de6ec46",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_26982555d7d8a0c8",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_26eb498dfd6d816c",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_29a3f4175b873bb4",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_2adcd0f7c2a6c9b5",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_2d2bf734f63df836",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_2ed14a302ac153bf",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_35cec877374d80f2",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_38b979995a95b4c9",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_3c108e9e3199619f",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_3d68f9610a794d86",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_3e312c7e11fc4bf5",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_3f19e89b13419822",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_40d545d8a25ab031",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_461e2614cddd6ec5",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_4d401eac20304b1c",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_5051cc697095e0bf",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_50876356981419d0",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_509a06cc8ab3e0bc",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_550deda6f711a193",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_55c412fbc3e58a16",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_58dfa9c235cf1c27",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_5df216ee63c7c47b",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_67fe082a229d23c6",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_6a5e0eb7bb0da50f",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_6e241c38d39250f6",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_6fbad872f6fb1752",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_737236e71de9aaab",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_73e0b15e8c2288dd",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_748b3e38902ab40d",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_74f85b9aa38514e1",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_768b119208f5c216",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_78d88f2ad57e3489",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_7ec78821ab38519e",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_7fa6adc119e3f9e2",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_837e2ac6c380a727",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_8399e41695c3061d",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_884aee33687d893f",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_8931d2bfab972e4f",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_8b0aeea959f6c2a4",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_8c3ce5849c7206bb",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_8deefdf141dab74a",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_8f8302484d01952e",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_91db76717d4836d4",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_91fa1b5fb86a409f",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_9565d4a973092cce",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_98211f8943d62ef7",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_9d54b958f5da23c2",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_9da78a94162c2408",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_9f1f3060cc34c0ef",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_9fd7ce29758c486c",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_9ffc83dd351a1a05",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_a2fbc7e35a07b389",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_a33989400926b041",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_a8a5e55eadbe9b9a",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_aa8771c91ca22118",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_ab384871d631ce7a",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_acacd9e99d49038b",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_ad3d457cb79757e9",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_ae9c67ec03f67b51",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_b1781f51d4559c8c",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_b9eab6fecf255ec7",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_bb612dd5be10469e",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_c534e68ac753f7c1",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_c5962fe855b1b869",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_c6e06f5eab5d0719",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_c932f3a661c504f0",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_c969212eca314612",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_cd32456de5b42d38",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_d30ce31749c37d38",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_d4e6e6e0d3c7a885",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_d8d4f24035844174",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_dbf44c45ecdad9bd",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_dbf501ff1af368a0",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_dc558f91ebd7e457",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_dd7e1cd73a910ab9",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_e20cbf08eb2959be",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_e5587d2c41bbe245",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_e5f760431e4d62e5",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_e611d1563188af47",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_e84f4fd2e165a693",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_eb301d15614d5379",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_f4714373e9f14332",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_f6eb11293091f159",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_f999b9b664259b4f",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_2"
+  },
+  {
+    "example_id": "img_fbbeaeb1b367cf59",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_fbf34bdee7ca4b2b",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_fc264dfe0dd8a119",
+    "evaluator": "gpt4o",
+    "winner": "base_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_fe662cf73a6acf22",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model",
+    "choice": "response_1"
+  },
+  {
+    "example_id": "img_0a41459cde0d2efb",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_0b60879c9006f2c4",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_1_better"
+  },
+  {
+    "example_id": "img_0c9ff28888793c90",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_1_better"
+  },
+  {
+    "example_id": "img_0fcceaabacfced2f",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_1_better"
+  },
+  {
+    "example_id": "img_13ff2191b1edd207",
+    "evaluator": "human",
+    "winner": "base_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_1572af176b255458",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_185339fcf0657ec6",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_198e2c5f88a7ec91",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_19f3e1e7c478a03d",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_1_better"
+  },
+  {
+    "example_id": "img_1ca4b49d08a1824a",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_239fd22841d73d2d",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_2610a33f1de6ec46",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_2adcd0f7c2a6c9b5",
+    "evaluator": "human",
+    "winner": "neutral",
+    "choice": "both_bad"
+  },
+  {
+    "example_id": "img_3546a76afbafb36b",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_1_better"
+  },
+  {
+    "example_id": "img_38b979995a95b4c9",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_3aea5c62e314c614",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_3dbcf585f92df647",
+    "evaluator": "human",
+    "winner": "base_model",
+    "choice": "response_1_better"
+  },
+  {
+    "example_id": "img_3e312c7e11fc4bf5",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_41f7a713590b8c48",
+    "evaluator": "human",
+    "winner": "neutral",
+    "choice": "tie"
+  },
+  {
+    "example_id": "img_461e2614cddd6ec5",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_1_better"
+  },
+  {
+    "example_id": "img_4d401eac20304b1c",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_4d9680820078ec3f",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_1_better"
+  },
+  {
+    "example_id": "img_54c6189d46d7fd94",
+    "evaluator": "human",
+    "winner": "base_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_550deda6f711a193",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_55c412fbc3e58a16",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_5bc9769476869ce4",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_5df216ee63c7c47b",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_1_better"
+  },
+  {
+    "example_id": "img_67fe082a229d23c6",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_1_better"
+  },
+  {
+    "example_id": "img_682494f5d8542b04",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_1_better"
+  },
+  {
+    "example_id": "img_6e241c38d39250f6",
+    "evaluator": "human",
+    "winner": "neutral",
+    "choice": "tie"
+  },
+  {
+    "example_id": "img_6e3b6746c2d5c73c",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_6fa7ae7f9a8dd28f",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_1_better"
+  },
+  {
+    "example_id": "img_6fbad872f6fb1752",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_748b3e38902ab40d",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_768b119208f5c216",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_78d88f2ad57e3489",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_7b897478ed1f4256",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_7ec78821ab38519e",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_1_better"
+  },
+  {
+    "example_id": "img_837e2ac6c380a727",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_1_better"
+  },
+  {
+    "example_id": "img_89d91c98b5452410",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_1_better"
+  },
+  {
+    "example_id": "img_8c3ce5849c7206bb",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_8cd80913f6282354",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_8deefdf141dab74a",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_91db76717d4836d4",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_1_better"
+  },
+  {
+    "example_id": "img_91fa1b5fb86a409f",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_92335f083f0b3542",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_1_better"
+  },
+  {
+    "example_id": "img_933efcf9f8d744b3",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_9713b80d39a65cea",
+    "evaluator": "human",
+    "winner": "base_model",
+    "choice": "response_1_better"
+  },
+  {
+    "example_id": "img_9d54b958f5da23c2",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_1_better"
+  },
+  {
+    "example_id": "img_9da78a94162c2408",
+    "evaluator": "human",
+    "winner": "neutral",
+    "choice": "tie"
+  },
+  {
+    "example_id": "img_9ffc83dd351a1a05",
+    "evaluator": "human",
+    "winner": "base_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_a23d9cf50f9522b8",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_a2fbc7e35a07b389",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_a8710c2086b0f88b",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_a929f6921bff78e2",
+    "evaluator": "human",
+    "winner": "neutral",
+    "choice": "tie"
+  },
+  {
+    "example_id": "img_aaa1299ac23fc640",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_ab24739d644fbea1",
+    "evaluator": "human",
+    "winner": "base_model",
+    "choice": "response_1_better"
+  },
+  {
+    "example_id": "img_ab384871d631ce7a",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_1_better"
+  },
+  {
+    "example_id": "img_ad3d457cb79757e9",
+    "evaluator": "human",
+    "winner": "neutral",
+    "choice": "tie"
+  },
+  {
+    "example_id": "img_ae9c67ec03f67b51",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_1_better"
+  },
+  {
+    "example_id": "img_b1781f51d4559c8c",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_1_better"
+  },
+  {
+    "example_id": "img_b31556decd80e0f7",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_1_better"
+  },
+  {
+    "example_id": "img_b31fb43688be2559",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_b3cf44825390f539",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_b68e21b70f79afb5",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_1_better"
+  },
+  {
+    "example_id": "img_bb612dd5be10469e",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_1_better"
+  },
+  {
+    "example_id": "img_bd833c9e7b6bfeb5",
+    "evaluator": "human",
+    "winner": "neutral",
+    "choice": "tie"
+  },
+  {
+    "example_id": "img_c1013e1817de8474",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_c6e06f5eab5d0719",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_c932f3a661c504f0",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_1_better"
+  },
+  {
+    "example_id": "img_cb643b98b29fb019",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_1_better"
+  },
+  {
+    "example_id": "img_cc543ad52d8f1067",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_cd8d276f4671f746",
+    "evaluator": "human",
+    "winner": "base_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_d30ce31749c37d38",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_d4e6e6e0d3c7a885",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_1_better"
+  },
+  {
+    "example_id": "img_d8d4f24035844174",
+    "evaluator": "human",
+    "winner": "base_model",
+    "choice": "response_1_better"
+  },
+  {
+    "example_id": "img_d9aa62b153fc8afe",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_1_better"
+  },
+  {
+    "example_id": "img_dc558f91ebd7e457",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_dd7e1cd73a910ab9",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_df5bb7c5f84ec639",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_1_better"
+  },
+  {
+    "example_id": "img_e20cbf08eb2959be",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_1_better"
+  },
+  {
+    "example_id": "img_e25419a6257f2195",
+    "evaluator": "human",
+    "winner": "base_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_eda8d8e0820956de",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_1_better"
+  },
+  {
+    "example_id": "img_eeb9323f501a7fd7",
+    "evaluator": "human",
+    "winner": "neutral",
+    "choice": "both_bad"
+  },
+  {
+    "example_id": "img_f1772e1d06f102fa",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_f3d9fa2847033b76",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_f4714373e9f14332",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_f6eb11293091f159",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_1_better"
+  },
+  {
+    "example_id": "img_f77ca95d72ec06b5",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_1_better"
+  },
+  {
+    "example_id": "img_f7f72efef7dad567",
+    "evaluator": "human",
+    "winner": "neutral",
+    "choice": "tie"
+  },
+  {
+    "example_id": "img_f8eb04c4be37596f",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_1_better"
+  },
+  {
+    "example_id": "img_f9747ba176f1fc82",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_1_better"
+  },
+  {
+    "example_id": "img_f999b9b664259b4f",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_fbbeaeb1b367cf59",
+    "evaluator": "human",
+    "winner": "base_model",
+    "choice": "response_1_better"
+  },
+  {
+    "example_id": "img_fc264dfe0dd8a119",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_2_better"
+  },
+  {
+    "example_id": "img_fc8b9886873dc9ad",
+    "evaluator": "human",
+    "winner": "dpo_model",
+    "choice": "response_1_better"
+  }
+]

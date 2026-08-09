@@ -1,0 +1,319 @@
+{
+  "inputs": {
+    "annotations": "benchmark_annotations.json",
+    "triplets": "benchmark_clean.json"
+  },
+  "coverage": {
+    "total_triplets": 3988,
+    "touched_triplets": 3959,
+    "untouched_triplets": 29,
+    "total_annotations": 4412,
+    "unique_annotators": 11,
+    "annotator_ids": [
+      "annotator_001",
+      "annotator_002",
+      "annotator_003",
+      "annotator_004",
+      "annotator_005",
+      "annotator_006",
+      "annotator_007",
+      "annotator_008",
+      "annotator_009",
+      "annotator_010",
+      "annotator_011"
+    ],
+    "coverage_rate": 0.992728184553661
+  },
+  "choice_distribution": {
+    "response_2_better": 1723,
+    "tie": 698,
+    "response_1_better": 1791,
+    "both_bad": 200
+  },
+  "agreement_all_choices": {
+    "triplets_with_multiple_annotations": 349,
+    "unanimous_triplets": 194,
+    "unanimous_rate": 0.5558739255014327,
+    "matching_pairs": 333,
+    "total_pairs": 557,
+    "pairwise_rate": 0.5978456014362658
+  },
+  "agreement_response_only": {
+    "triplets_with_multiple_annotations": 245,
+    "unanimous_triplets": 206,
+    "unanimous_rate": 0.8408163265306122,
+    "matching_pairs": 298,
+    "total_pairs": 341,
+    "pairwise_rate": 0.873900293255132
+  },
+  "model_pair_choices": {
+    "gemini2.5flash vs gemini2.5pro": {
+      "tie": 36,
+      "response_1_better": 13,
+      "response_2_better": 30
+    },
+    "gemini2.5flash vs gemma3n": {
+      "response_1_better": 81,
+      "response_2_better": 1
+    },
+    "gemini2.5flash vs gpt4o": {
+      "response_1_better": 144,
+      "both_bad": 4,
+      "tie": 3,
+      "response_2_better": 2
+    },
+    "gemini2.5flash vs gpt5.5": {
+      "response_2_better": 36,
+      "tie": 19,
+      "response_1_better": 17
+    },
+    "gemini2.5flash vs qwen2.53B": {
+      "response_1_better": 75,
+      "response_2_better": 5,
+      "tie": 4,
+      "both_bad": 1
+    },
+    "gemini2.5flash vs qwen2.57B": {
+      "response_1_better": 75,
+      "response_2_better": 3,
+      "tie": 4,
+      "both_bad": 1
+    },
+    "gemini2.5pro vs gemini2.5flash": {
+      "response_1_better": 32,
+      "tie": 23,
+      "response_2_better": 19,
+      "both_bad": 2
+    },
+    "gemini2.5pro vs gemma3n": {
+      "response_1_better": 155,
+      "tie": 1,
+      "response_2_better": 2,
+      "both_bad": 4
+    },
+    "gemini2.5pro vs gpt4o": {
+      "response_1_better": 70,
+      "response_2_better": 3,
+      "tie": 3
+    },
+    "gemini2.5pro vs gpt5.5": {
+      "tie": 25,
+      "response_2_better": 25,
+      "response_1_better": 26
+    },
+    "gemini2.5pro vs o3": {
+      "response_2_better": 5,
+      "response_1_better": 66,
+      "tie": 6
+    },
+    "gemini2.5pro vs qwen2.53B": {
+      "response_1_better": 77,
+      "tie": 1
+    },
+    "gemini2.5pro vs qwen2.57B": {
+      "response_1_better": 77,
+      "response_2_better": 2,
+      "both_bad": 6,
+      "tie": 1
+    },
+    "gemma3n vs gemini2.5flash": {
+      "response_2_better": 74,
+      "both_bad": 3,
+      "response_1_better": 2,
+      "tie": 2
+    },
+    "gemma3n vs gpt4o": {
+      "response_2_better": 46,
+      "tie": 10,
+      "both_bad": 7,
+      "response_1_better": 12
+    },
+    "gemma3n vs gpt5.5": {
+      "response_2_better": 69,
+      "both_bad": 4,
+      "tie": 7,
+      "response_1_better": 4
+    },
+    "gemma3n vs o3": {
+      "response_2_better": 62,
+      "tie": 14,
+      "response_1_better": 2,
+      "both_bad": 1
+    },
+    "gpt4o vs gemini2.5pro": {
+      "response_2_better": 71,
+      "response_1_better": 3
+    },
+    "gpt4o vs gemma3n": {
+      "both_bad": 10,
+      "response_1_better": 25,
+      "tie": 15,
+      "response_2_better": 29
+    },
+    "gpt4o vs gpt5.5": {
+      "response_1_better": 2,
+      "tie": 9,
+      "response_2_better": 56,
+      "both_bad": 2
+    },
+    "gpt5.5 vs gemini2.5flash": {
+      "response_2_better": 32,
+      "tie": 17,
+      "response_1_better": 34,
+      "both_bad": 2
+    },
+    "gpt5.5 vs gemini2.5pro": {
+      "response_2_better": 30,
+      "tie": 33,
+      "response_1_better": 23,
+      "both_bad": 2
+    },
+    "gpt5.5 vs gemma3n": {
+      "response_1_better": 59,
+      "tie": 6,
+      "response_2_better": 3,
+      "both_bad": 1
+    },
+    "gpt5.5 vs gpt4o": {
+      "response_1_better": 68,
+      "both_bad": 2,
+      "response_2_better": 4,
+      "tie": 3
+    },
+    "gpt5.5 vs o3": {
+      "response_1_better": 68,
+      "both_bad": 1,
+      "tie": 9,
+      "response_2_better": 1
+    },
+    "gpt5.5 vs qwen2.53B": {
+      "response_1_better": 75,
+      "tie": 8
+    },
+    "gpt5.5 vs qwen2.57B": {
+      "response_1_better": 71,
+      "tie": 9,
+      "response_2_better": 4,
+      "both_bad": 3
+    },
+    "o3 vs gemini2.5flash": {
+      "response_2_better": 132,
+      "tie": 8,
+      "response_1_better": 12,
+      "both_bad": 2
+    },
+    "o3 vs gemini2.5pro": {
+      "response_2_better": 80
+    },
+    "o3 vs gemma3n": {
+      "tie": 30,
+      "response_1_better": 44,
+      "response_2_better": 4,
+      "both_bad": 2
+    },
+    "o3 vs gpt4o": {
+      "response_1_better": 83,
+      "response_2_better": 22,
+      "tie": 53,
+      "both_bad": 5
+    },
+    "o3 vs gpt5.5": {
+      "tie": 14,
+      "response_2_better": 61,
+      "both_bad": 2,
+      "response_1_better": 2
+    },
+    "o3 vs qwen2.53B": {
+      "response_1_better": 39,
+      "tie": 22,
+      "response_2_better": 17
+    },
+    "o3 vs qwen2.57B": {
+      "tie": 31,
+      "response_1_better": 31,
+      "response_2_better": 15,
+      "both_bad": 1
+    },
+    "qwen2.53B vs gemini2.5flash": {
+      "response_2_better": 70,
+      "both_bad": 2,
+      "tie": 3
+    },
+    "qwen2.53B vs gemini2.5pro": {
+      "response_2_better": 77,
+      "both_bad": 1,
+      "response_1_better": 1,
+      "tie": 1
+    },
+    "qwen2.53B vs gemma3n": {
+      "tie": 55,
+      "response_1_better": 38,
+      "response_2_better": 40,
+      "both_bad": 32
+    },
+    "qwen2.53B vs gpt4o": {
+      "response_2_better": 67,
+      "response_1_better": 39,
+      "both_bad": 11,
+      "tie": 33
+    },
+    "qwen2.53B vs gpt5.5": {
+      "response_2_better": 63,
+      "both_bad": 2,
+      "tie": 10,
+      "response_1_better": 3
+    },
+    "qwen2.53B vs o3": {
+      "response_2_better": 61,
+      "tie": 7,
+      "response_1_better": 9
+    },
+    "qwen2.53B vs qwen2.57B": {
+      "response_1_better": 23,
+      "response_2_better": 16,
+      "tie": 25,
+      "both_bad": 17
+    },
+    "qwen2.57B vs gemini2.5flash": {
+      "response_2_better": 75,
+      "tie": 3,
+      "both_bad": 5,
+      "response_1_better": 1
+    },
+    "qwen2.57B vs gemini2.5pro": {
+      "response_2_better": 75,
+      "response_1_better": 1,
+      "tie": 1
+    },
+    "qwen2.57B vs gemma3n": {
+      "tie": 55,
+      "response_2_better": 32,
+      "both_bad": 32,
+      "response_1_better": 38
+    },
+    "qwen2.57B vs gpt4o": {
+      "response_2_better": 74,
+      "tie": 28,
+      "response_1_better": 37,
+      "both_bad": 15
+    },
+    "qwen2.57B vs gpt5.5": {
+      "response_2_better": 57,
+      "tie": 8,
+      "response_1_better": 2,
+      "both_bad": 2
+    },
+    "qwen2.57B vs o3": {
+      "tie": 9,
+      "response_2_better": 59,
+      "response_1_better": 5,
+      "both_bad": 4
+    },
+    "qwen2.57B vs qwen2.53B": {
+      "response_1_better": 27,
+      "tie": 34,
+      "both_bad": 9,
+      "response_2_better": 12
+    }
+  }
+}

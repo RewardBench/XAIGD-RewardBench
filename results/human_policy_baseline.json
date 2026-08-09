@@ -1,0 +1,101 @@
+{
+  "parameters": {
+    "initial_rating": 1200.0,
+    "k_factor": 32.0,
+    "include_neutral": false
+  },
+  "processed_comparisons": 220,
+  "skipped_annotations": 116,
+  "rankings": [
+    {
+      "model": "gemini2.5pro",
+      "elo_rating": 1474.6598233304733,
+      "games_played": 36,
+      "wins": 34,
+      "losses": 2,
+      "neutral": 0,
+      "win_rate_non_neutral": 0.9444444444444444,
+      "rank": 1
+    },
+    {
+      "model": "gemini2.5flash",
+      "elo_rating": 1386.2121794978902,
+      "games_played": 38,
+      "wins": 31,
+      "losses": 7,
+      "neutral": 0,
+      "win_rate_non_neutral": 0.8157894736842105,
+      "rank": 2
+    },
+    {
+      "model": "gpt5.5",
+      "elo_rating": 1341.2343649591442,
+      "games_played": 32,
+      "wins": 26,
+      "losses": 6,
+      "neutral": 0,
+      "win_rate_non_neutral": 0.8125,
+      "rank": 3
+    },
+    {
+      "model": "o3",
+      "elo_rating": 1218.751974787145,
+      "games_played": 16,
+      "wins": 9,
+      "losses": 7,
+      "neutral": 0,
+      "win_rate_non_neutral": 0.5625,
+      "rank": 4
+    },
+    {
+      "model": "gpt4o",
+      "elo_rating": 1191.8814666907704,
+      "games_played": 26,
+      "wins": 12,
+      "losses": 14,
+      "neutral": 0,
+      "win_rate_non_neutral": 0.46153846153846156,
+      "rank": 5
+    },
+    {
+      "model": "human",
+      "elo_rating": 1099.6865952415283,
+      "games_played": 220,
+      "wins": 98,
+      "losses": 122,
+      "neutral": 0,
+      "win_rate_non_neutral": 0.44545454545454544,
+      "rank": 6
+    },
+    {
+      "model": "qwen2.53B",
+      "elo_rating": 1082.9877740447969,
+      "games_played": 19,
+      "wins": 4,
+      "losses": 15,
+      "neutral": 0,
+      "win_rate_non_neutral": 0.21052631578947367,
+      "rank": 7
+    },
+    {
+      "model": "qwen2.57B",
+      "elo_rating": 1002.5197837639856,
+      "games_played": 27,
+      "wins": 3,
+      "losses": 24,
+      "neutral": 0,
+      "win_rate_non_neutral": 0.1111111111111111,
+      "rank": 8
+    },
+    {
+      "model": "gemma3n",
+      "elo_rating": 1002.066037684266,
+      "games_played": 26,
+      "wins": 3,
+      "losses": 23,
+      "neutral": 0,
+      "win_rate_non_neutral": 0.11538461538461539,
+      "rank": 9
+    }
+  ]
+}

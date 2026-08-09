@@ -1,0 +1,12 @@
+{
+  "description": "Release-safe shape for a Gemini 2.5 Pro preference label. It stores no candidate completion, image path, or provider rationale.",
+  "fields": {
+    "example_id": "opaque candidate ID",
+    "labeler": "configured model identifier",
+    "choice": "response_1, response_2, tie, both_bad, or unparsed",
+    "preferred_kind": "fake or real for decisive choices; resolved using the blind response_order",
+    "status": "completed or neutral_or_unparsed",
+    "response_order": "the two semantic prompt labels, not response text"
+  },
+  "paper_filter": {"retained_decisive_examples": 1890, "accepted_choices": ["response_1", "response_2"]}
+}

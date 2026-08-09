@@ -1,0 +1,83 @@
+{
+  "parameters": {
+    "initial_rating": 1200.0,
+    "k_factor": 32.0,
+    "include_neutral": false
+  },
+  "processed_comparisons": 3514,
+  "skipped_annotations": 898,
+  "rankings": [
+    {
+      "games_played": 895,
+      "wins": 765,
+      "losses": 130,
+      "model": "gpt5.5",
+      "elo_rating": 1520.1512849696428,
+      "win_rate_non_neutral": 0.8547486033519553,
+      "rank": 1
+    },
+    {
+      "games_played": 963,
+      "wins": 866,
+      "losses": 97,
+      "model": "gemini2.5pro",
+      "elo_rating": 1503.002683979514,
+      "win_rate_non_neutral": 0.8992731048805815,
+      "rank": 2
+    },
+    {
+      "games_played": 965,
+      "wins": 807,
+      "losses": 158,
+      "model": "gemini2.5flash",
+      "elo_rating": 1490.567471179908,
+      "win_rate_non_neutral": 0.8362694300518134,
+      "rank": 3
+    },
+    {
+      "games_played": 857,
+      "losses": 609,
+      "wins": 248,
+      "model": "gpt4o",
+      "elo_rating": 1095.736907464469,
+      "win_rate_non_neutral": 0.2893815635939323,
+      "rank": 4
+    },
+    {
+      "games_played": 880,
+      "losses": 481,
+      "wins": 399,
+      "model": "o3",
+      "elo_rating": 1085.2319481497068,
+      "win_rate_non_neutral": 0.45340909090909093,
+      "rank": 5
+    },
+    {
+      "games_played": 822,
+      "losses": 691,
+      "wins": 131,
+      "model": "gemma3n",
+      "elo_rating": 1015.9700481022643,
+      "win_rate_non_neutral": 0.15936739659367397,
+      "rank": 6
+    },
+    {
+      "games_played": 834,
+      "losses": 687,
+      "wins": 147,
+      "model": "qwen2.53B",
+      "elo_rating": 949.6151027566124,
+      "win_rate_non_neutral": 0.17625899280575538,
+      "rank": 7
+    },
+    {
+      "games_played": 812,
+      "losses": 661,
+      "wins": 151,
+      "model": "qwen2.57B",
+      "elo_rating": 939.724553397881,
+      "win_rate_non_neutral": 0.18596059113300492,
+      "rank": 8
+    }
+  ]
+}

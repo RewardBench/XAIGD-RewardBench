@@ -1,0 +1,67 @@
+{
+  "method": "pair_specific_length_controlled_bradley_terry",
+  "formula": "logit P(response_1 wins) = theta[m1] - theta[m2] + phi[pair] * tanh(word_difference / sample_std)",
+  "theta_ridge": 1e-06,
+  "length_ridge": 0.001,
+  "observations": 3514,
+  "model_pairs": 28,
+  "length_feature_scale_words": 107.70793594644205,
+  "rankings": [
+    {
+      "model": "gpt5.5",
+      "raw_bt_elo": 1598.6808140362964,
+      "length_controlled_elo": 1602.9040856908525,
+      "delta_lc_vs_raw_bt": 4.223271654556129,
+      "rank": 1
+    },
+    {
+      "model": "gemini2.5pro",
+      "raw_bt_elo": 1645.3873562927247,
+      "length_controlled_elo": 1595.761421605724,
+      "delta_lc_vs_raw_bt": -49.62593468700061,
+      "rank": 2
+    },
+    {
+      "model": "gemini2.5flash",
+      "raw_bt_elo": 1547.0920133606865,
+      "length_controlled_elo": 1510.4493932771707,
+      "delta_lc_vs_raw_bt": -36.642620083515794,
+      "rank": 3
+    },
+    {
+      "model": "o3",
+      "raw_bt_elo": 1162.6493263969387,
+      "length_controlled_elo": 1185.6339728610621,
+      "delta_lc_vs_raw_bt": 22.984646464123443,
+      "rank": 4
+    },
+    {
+      "model": "gpt4o",
+      "raw_bt_elo": 982.619137729165,
+      "length_controlled_elo": 997.2186631936759,
+      "delta_lc_vs_raw_bt": 14.599525464510862,
+      "rank": 5
+    },
+    {
+      "model": "qwen2.57B",
+      "raw_bt_elo": 904.5218806407945,
+      "length_controlled_elo": 912.0178480556485,
+      "delta_lc_vs_raw_bt": 7.495967414854022,
+      "rank": 6
+    },
+    {
+      "model": "qwen2.53B",
+      "raw_bt_elo": 889.5612852999736,
+      "length_controlled_elo": 908.0388645299486,
+      "delta_lc_vs_raw_bt": 18.477579229974936,
+      "rank": 7
+    },
+    {
+      "model": "gemma3n",
+      "raw_bt_elo": 869.4881862434204,
+      "length_controlled_elo": 887.9757507859179,
+      "delta_lc_vs_raw_bt": 18.487564542497466,
+      "rank": 8
+    }
+  ]
+}

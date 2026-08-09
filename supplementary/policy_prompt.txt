@@ -1,0 +1,1 @@
+Start with one word, "real" or "fake", then explain your judgment. Use only visible image evidence: lighting, shadows, texture, geometry, anatomy, text, perspective, reflections, and compression or generation artifacts. Do not use filenames, paths, metadata, labels, or outside knowledge.

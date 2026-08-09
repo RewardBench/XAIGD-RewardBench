@@ -1,0 +1,76 @@
+{
+  "judges": [
+    {
+      "judge": "claudeopus47",
+      "clear_unequal_length_choices": 3643,
+      "chose_longer": 2763,
+      "chose_shorter": 880,
+      "equal_length_clear_choices": 34,
+      "chose_longer_rate": 0.7584408454570409
+    },
+    {
+      "judge": "gemini2.5flash",
+      "clear_unequal_length_choices": 3821,
+      "chose_longer": 3000,
+      "chose_shorter": 821,
+      "equal_length_clear_choices": 35,
+      "chose_longer_rate": 0.7851347814708192
+    },
+    {
+      "judge": "gemini2.5pro",
+      "clear_unequal_length_choices": 3428,
+      "chose_longer": 2779,
+      "chose_shorter": 649,
+      "equal_length_clear_choices": 34,
+      "chose_longer_rate": 0.8106767794632439
+    },
+    {
+      "judge": "gemma3n",
+      "clear_unequal_length_choices": 3851,
+      "chose_longer": 3060,
+      "chose_shorter": 791,
+      "equal_length_clear_choices": 39,
+      "chose_longer_rate": 0.7945988055050636
+    },
+    {
+      "judge": "gpt4o",
+      "clear_unequal_length_choices": 3888,
+      "chose_longer": 3083,
+      "chose_shorter": 805,
+      "equal_length_clear_choices": 40,
+      "chose_longer_rate": 0.7929526748971193
+    },
+    {
+      "judge": "o3",
+      "clear_unequal_length_choices": 3568,
+      "chose_longer": 2618,
+      "chose_shorter": 950,
+      "equal_length_clear_choices": 36,
+      "chose_longer_rate": 0.7337443946188341
+    },
+    {
+      "judge": "qwen2.53B",
+      "clear_unequal_length_choices": 1604,
+      "chose_longer": 1210,
+      "chose_shorter": 394,
+      "equal_length_clear_choices": 8,
+      "chose_longer_rate": 0.7543640897755611
+    },
+    {
+      "judge": "qwen2.57B",
+      "clear_unequal_length_choices": 1255,
+      "chose_longer": 900,
+      "chose_shorter": 355,
+      "equal_length_clear_choices": 10,
+      "chose_longer_rate": 0.7171314741035857
+    },
+    {
+      "judge": "qwen72b",
+      "clear_unequal_length_choices": 2787,
+      "chose_longer": 2351,
+      "chose_shorter": 436,
+      "equal_length_clear_choices": 24,
+      "chose_longer_rate": 0.8435593828489415
+    }
+  ]
+}

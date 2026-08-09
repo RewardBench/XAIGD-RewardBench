@@ -1,0 +1,23 @@
+{
+  "release_name": "XAIGID-RewardBench public clean snapshot",
+  "source_data": "curated from the local benchmark working snapshot",
+  "images_included": false,
+  "image_identity": "opaque sha256-derived image_id values",
+  "annotation_identity": "deterministic anonymous annotator IDs",
+  "removed_fields": [
+    "local image paths",
+    "annotation timestamps",
+    "annotation timing and batch metadata",
+    "annotator names",
+    "raw judge outputs",
+    "execution logs and credentials"
+  ],
+  "counts": {
+    "benchmark_triplets": 3988,
+    "extension_triplets": 998,
+    "benchmark_annotation_rows": 3959,
+    "extension_annotation_rows": 969,
+    "policy_response_files": 16,
+    "unique_images": 1000
+  }
+}

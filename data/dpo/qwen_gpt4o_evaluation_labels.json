@@ -1,0 +1,1002 @@
+[
+  {
+    "example_id": "qwen_eval_101567a9597b26c2",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_85ee2f29a155029b",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_d54cb97df8403289",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_efdcaca5e44499e0",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_da54167eb69de07b",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_1e7e62506f1121ad",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_2c1b86fa9d476f69",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_45ef71540141e270",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_5afe233a69b5bcea",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_baf1473148dc39ad",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_8a3a8e71c0b4b8e5",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_afa3c144e9d748ae",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_6bbef2cfcaf8e3b8",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_ba35e4af4e178bfa",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_eb9d6c4234885e53",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_dc6fee509ca9d7e5",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_c01c9f4a46929ad4",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_92b1954068f3d09c",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_0780bb65e75cb4e0",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_ae8baefe29715990",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_eadb8a9d36b2d6eb",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_dd10d7bd36edf7e7",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_0e4c2cbd27d2d232",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_b7e50745470207e1",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_84a1f55a4783c712",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_2132368c8ec460bd",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_94ecb7e8cc7df641",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_26cfde2e77bcc343",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_0d21990ef6f3e424",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_4fbcda642b6f86c5",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_45b918e3b3f39f9f",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_60f1d2dcfd4bbf21",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_05a8bbd20815f7e6",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_fe7daa986f021774",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_61ceb88e790602b5",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_309be9e0b4721c36",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_707c95bb7a4c04b5",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_d3e69d4561c03e6b",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_3f30990f84d692c3",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_2df879e6b268ccc7",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_6c4ec4b8b6e2ef8c",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_5a74264092f13072",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_ef30b2eab7ce722c",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_91677335c07001e5",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_4d119adf897c78ad",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_ef0dc0e1558d6b59",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_b2f4966f5aff3ebc",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_7cfd14f4132409fe",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_436291a31ac810e4",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_20288a480e6df048",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_30ae2fa1737106b2",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_dc3350e780dd17e7",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_82b2930917a8ebd5",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_e20a63e1c3ab611e",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_bb8d223af32af84b",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_61704f224505b961",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_6f0305f12bc215c7",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_f835df4a76637ba9",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_63ad7cae3fd41834",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_fe73c46cb8394d3b",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_4c49e946cdf7c79a",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_4e5534b51dc56ddb",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_d3c163919f16f769",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_512796973b6475c0",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_9834a46d124ef321",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_8db8b2409059dc75",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_790b274a378941dc",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_9e44d48b60f6b9bb",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_57832e22755af43d",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_a98e5b9a76c179fd",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_e58ce2543ea02710",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_5c768ed81a07ccc9",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_c9b2cb562699b6f3",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_994a6fdcec3d25d2",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_b65132fafcdfb1ef",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_9ddea4513fcbfe6a",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_4308c7e96b4b2ae9",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_73a48a8ce9ce8416",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_5e24cb8092e42fec",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_fbbe5bfa97b73792",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_3f25c581d60b9d72",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_50c6e38ac3d02923",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_1690017bf25ef646",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_bdbda92c9951be7a",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_9e1eed60e5db8cc1",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_a877021f58296945",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_4305bbb35cca4f9c",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_d624d50577e85b9d",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_a69bab3062616545",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_fbb660f011f86c49",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_6c64cb64ce58e76a",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_d78def5f776b3f6b",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_11ccf4de11f169fa",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_d705aeb5d028e322",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_969581ed926a5d9a",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_bf656d53164afae7",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_4f4bfea0f817178d",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_5af4fd681c4efb2b",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_24d60c4d5c0c2edc",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_aaaaead112cd2b0d",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_ce77ec7efea7a403",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_8a33bb4437b766ec",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_65d86db299d82988",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_189b77f3021419c7",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_d70ae97b25659ee0",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_e1868c9c57bdd14b",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_b16ab1aee22bca82",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_59588d8d90efbc49",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_e66940b997c16ed9",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_1bc4f8e0039ff47b",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_7ddbb907020ba5fb",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_f386a33314783f97",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_1b7c27f7d074f3cc",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_233e3ee2e4029981",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_2e7e92c3314ac98b",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_a0b55f8b63b39e26",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_12cc6b1db9df8a51",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_cdee1f1637e44796",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_4945baf6fc1ef63c",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_888b3b7912de9104",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_3fb15bd2740e616b",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_8028037b580de58e",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_efc3dce1ec53762e",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_5006ca728066aa1a",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_956678d8690724a0",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_106da98a0c7e0b3a",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_37e80670a15eacb7",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_c14b87f308380581",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_ceb84e38dbd70575",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_bf6cbfa80b835554",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_fc7bb4d54f2fc878",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_7c5219ce3eb4176f",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_20333ce317663a1f",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_18d65835483068bd",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_5557f1e08f19b250",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_fc88bce3e9a144d3",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_dfc2809857ce5bbf",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_7878c4475bfd1b35",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_0a407c18126ddeec",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_b9f7adb87a4baaae",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_ebb34e70975e422b",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_920cc320940018e2",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_46fb6e53156867a4",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_d50966222d6fb8dd",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_e8f4e6177432bddc",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_95554e11ea3374f2",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_76a2a088d8af27e5",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_5b39100cf348324c",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_0b9d848ef34edd87",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_53f0c778cfb52f33",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_e48a0af4ffe67995",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_56b444e94561477a",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_19d8e28cd26add33",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_46c5219b6cae3f60",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_9337daf1b8553b22",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_8827121f4aab8830",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_0c2dda88ee02c77f",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_129f5089018f5475",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_7c06e4ef273ff050",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_601de8d042060ef8",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_393532dfd0a897f9",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_8d9e94d86aa23f10",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_5bd6e29fa2a4f764",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_22326d5b1ee0d668",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_5ab882bdda27c262",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_08e3331fe10432f7",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_763a6ee8b559d0bd",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_7eb6e453abf00dd7",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_5b467654f6c9de87",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_51aa5bda3e5c8d95",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_7b0b8ee13841f24a",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_a6f09ca9b1154241",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_418f381907637464",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_628ffdec74925b70",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_0cb608121329d942",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_b6f56ecec3da250a",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_ed44b380286b2bb4",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_7a5936b3e70315b3",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_9e1184f75388dea4",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_e5d05a9392c31492",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_e19f17b632c39dd9",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_6c3fbcc1d185cde6",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_9088a244852efc57",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_fe264be6c3907024",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_e23e9d0fda85b28e",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_4f47eea5385ed6db",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_0190efb735d6df38",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_4712ee629cf617d1",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_e94d0ac5f447c620",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_8bf342614f90bfda",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_047af100ed230833",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_f9645fbca5a3d148",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_2dfc7c3c10a504fd",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_94e552ce3cc2264f",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_00caea96c289ced8",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_5113572ac11cb86f",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_dc31d0787738bc52",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_da43dc9a0b282065",
+    "evaluator": "gpt4o",
+    "winner": "base_model"
+  },
+  {
+    "example_id": "qwen_eval_ad6eebfa9d3d4638",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  },
+  {
+    "example_id": "qwen_eval_db6d6fcf84b5196a",
+    "evaluator": "gpt4o",
+    "winner": "dpo_model"
+  }
+]

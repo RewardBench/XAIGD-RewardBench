@@ -1,0 +1,127 @@
+{
+  "inputs": {
+    "annotations": "extension_annotations.json",
+    "triplets": "extension_final_scrambled.json"
+  },
+  "coverage": {
+    "total_triplets": 998,
+    "touched_triplets": 969,
+    "untouched_triplets": 29,
+    "total_annotations": 1095,
+    "unique_annotators": 7,
+    "annotator_ids": [
+      "annotator_002",
+      "annotator_003",
+      "annotator_004",
+      "annotator_005",
+      "annotator_006",
+      "annotator_010",
+      "annotator_011"
+    ],
+    "coverage_rate": 0.9709418837675351
+  },
+  "choice_distribution": {
+    "tie": 177,
+    "response_2_better": 441,
+    "response_1_better": 454,
+    "both_bad": 23
+  },
+  "agreement_all_choices": {
+    "triplets_with_multiple_annotations": 123,
+    "unanimous_triplets": 65,
+    "unanimous_rate": 0.5284552845528455,
+    "matching_pairs": 68,
+    "total_pairs": 129,
+    "pairwise_rate": 0.5271317829457365
+  },
+  "agreement_response_only": {
+    "triplets_with_multiple_annotations": 81,
+    "unanimous_triplets": 64,
+    "unanimous_rate": 0.7901234567901234,
+    "matching_pairs": 64,
+    "total_pairs": 81,
+    "pairwise_rate": 0.7901234567901234
+  },
+  "model_pair_choices": {
+    "gemini2.5flash vs gpt5.5": {
+      "response_2_better": 36,
+      "tie": 19,
+      "response_1_better": 17
+    },
+    "gemini2.5pro vs gpt5.5": {
+      "tie": 25,
+      "response_2_better": 25,
+      "response_1_better": 26
+    },
+    "gemma3n vs gpt5.5": {
+      "response_2_better": 69,
+      "both_bad": 4,
+      "tie": 7,
+      "response_1_better": 4
+    },
+    "gpt4o vs gpt5.5": {
+      "response_1_better": 2,
+      "tie": 9,
+      "response_2_better": 56,
+      "both_bad": 2
+    },
+    "gpt5.5 vs gemini2.5flash": {
+      "response_2_better": 32,
+      "tie": 17,
+      "response_1_better": 34,
+      "both_bad": 2
+    },
+    "gpt5.5 vs gemini2.5pro": {
+      "response_2_better": 30,
+      "tie": 33,
+      "response_1_better": 23,
+      "both_bad": 2
+    },
+    "gpt5.5 vs gemma3n": {
+      "response_1_better": 59,
+      "tie": 6,
+      "response_2_better": 3,
+      "both_bad": 1
+    },
+    "gpt5.5 vs gpt4o": {
+      "response_1_better": 68,
+      "both_bad": 2,
+      "response_2_better": 4,
+      "tie": 3
+    },
+    "gpt5.5 vs o3": {
+      "response_1_better": 68,
+      "both_bad": 1,
+      "tie": 9,
+      "response_2_better": 1
+    },
+    "gpt5.5 vs qwen2.53B": {
+      "response_1_better": 75,
+      "tie": 8
+    },
+    "gpt5.5 vs qwen2.57B": {
+      "response_1_better": 71,
+      "tie": 9,
+      "response_2_better": 4,
+      "both_bad": 3
+    },
+    "o3 vs gpt5.5": {
+      "tie": 14,
+      "response_2_better": 61,
+      "both_bad": 2,
+      "response_1_better": 2
+    },
+    "qwen2.53B vs gpt5.5": {
+      "response_2_better": 63,
+      "both_bad": 2,
+      "tie": 10,
+      "response_1_better": 3
+    },
+    "qwen2.57B vs gpt5.5": {
+      "response_2_better": 57,
+      "tie": 8,
+      "response_1_better": 2,
+      "both_bad": 2
+    }
+  }
+}

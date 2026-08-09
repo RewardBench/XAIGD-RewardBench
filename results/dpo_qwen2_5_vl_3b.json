@@ -1,0 +1,27 @@
+{
+  "evaluators": [
+    {
+      "evaluator": "gpt4o",
+      "rows": 200,
+      "dpo_model": 113,
+      "base_model": 87,
+      "neutral": 0,
+      "dpo_win_rate_decisive": 0.565
+    }
+  ],
+  "conditional_agreement_with_human": [
+    {
+      "evaluator": "gpt4o",
+      "matches_human": 0,
+      "both_decisive": 0,
+      "agreement": null
+    }
+  ],
+  "experiment": "qwen2_5_vl_3b_dpo",
+  "reported_aggregate_only": {
+    "gemini2.5pro_dpo_preference_rate": 0.615,
+    "human_dpo_preference_rate": 0.6069,
+    "automated_judge_agreement": 0.73,
+    "note": "The corresponding row-level Gemini and human labels were not found in the working directories; these fields reproduce the paper transcript but cannot be independently recomputed from this release."
+  }
+}
