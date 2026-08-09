@@ -28,6 +28,10 @@ PERSONAL_MARKERS = re.compile(
 FORBIDDEN_NAMES = {"images", "hf_upload", ".gradio", "__pycache__", ".venv", "venv", "logs"}
 CAMERA_IMAGES_DIR = Path("data/camera_real_subset/images")
 CAMERA_IMAGE_NAME_RE = re.compile(r"camera_real_\d{3}\.jpg$")
+<<<<<<< HEAD
+=======
+PUBLIC_HF_DATASET_URL = "https://huggingface.co/datasets/MichaelYang469/XAIGID-RewardBench"
+>>>>>>> 538693c (documentation)
 
 
 def fail(message: str) -> None:
@@ -55,7 +59,11 @@ def assert_no_forbidden_files() -> None:
             continue
         relative = path.relative_to(REPO_ROOT)
         is_camera_image = relative == CAMERA_IMAGES_DIR or relative.is_relative_to(CAMERA_IMAGES_DIR)
+<<<<<<< HEAD
         if is_camera_image and path.is_file() and not CAMERA_IMAGE_NAME_RE.fullmatch(path.name):
+=======
+        if is_camera_image and path.is_file() and path.name != "README.md" and not CAMERA_IMAGE_NAME_RE.fullmatch(path.name):
+>>>>>>> 538693c (documentation)
             fail(f"unexpected camera image filename: {relative}")
         if any(part in FORBIDDEN_NAMES for part in path.parts) and not is_camera_image:
             fail(f"forbidden release path: {path.relative_to(REPO_ROOT)}")
@@ -77,12 +85,21 @@ def assert_privacy() -> None:
             if not path.is_file() or path.name == Path(__file__).name:
                 continue
             relative = path.relative_to(REPO_ROOT)
+<<<<<<< HEAD
             if relative.is_relative_to(CAMERA_IMAGES_DIR):
+=======
+            if relative.is_relative_to(CAMERA_IMAGES_DIR) and path.suffix.lower() == ".jpg":
+>>>>>>> 538693c (documentation)
                 payload = path.read_bytes()
                 if any(marker in payload for marker in (b"\xff\xe1", b"\xff\xe2", b"\xff\xed", b"\xff\xfe")):
                     fail(f"camera JPEG contains metadata marker: {relative}")
                 continue
             text = path.read_text(encoding="utf-8", errors="replace")
+<<<<<<< HEAD
+=======
+            if path == REPO_ROOT / "README.md":
+                text = text.replace(PUBLIC_HF_DATASET_URL, "")
+>>>>>>> 538693c (documentation)
             if ABSOLUTE_PATH_RE.search(text) or PERSONAL_MARKERS.search(text):
                 fail(f"privacy marker found in {path.relative_to(REPO_ROOT)}")
             for secret_re in SECRET_RES:
